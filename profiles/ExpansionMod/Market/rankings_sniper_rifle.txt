@@ -1,0 +1,80 @@
+GUN:
+Ranking X
+Nominal - 1 = Rare (2x), 2-5 = Uncommon (1.5x), > 5 = Common (1x)
+Tier = 1/2/3x (Tier1 = 1x, Tier2 = 1.5x, Tier3 = 2x)
+DE_Loot = 2x
+ContamLoot = 3x
+Underground = 3x
+
+Eg.
+Ranking=
+Nominal=
+Tier=
+DE_Loot=
+
+
+VSD - 316
+Ranking=79
+Nominal=2x
+Tier=1x
+DE_Loot=2x
+
+Mosin - 106
+Ranking=71
+Nominal=1x
+Tier=1.5x
+DE_Loot=1x
+
+CR550 - 207
+Ranking=69
+Nominal=1.5x
+Tier=2x
+DE_Loot=1x
+
+Winchester - 103
+Ranking=69
+Nominal=1x
+Tier=1.5x
+DE_Loot=1x
+
+B95 - 100
+Ranking=67
+Nominal=1x
+Tier=1.5x
+DE_Loot=1x
+
+VSS - 372
+Ranking=62
+Nominal=2x
+Tier=3x
+DE_Loot=1x
+
+Pioneer - 120
+Ranking=60
+Nominal=1x
+Tier=1x
+DE_Loot=1x
+
+CR 527 - 57
+Ranking=57
+Nominal=1x
+Tier=1x
+DE_Loot=1x
+
+SSG - 85
+Ranking=51
+Nominal=1x
+Tier=1.5x
+DE_Loot=1x
+
+Sawed-off Mosin - 72
+Ranking=48
+Nominal=1x
+Tier=1.5x
+DE_Loot=1x
+
+Sawed-off B95 - 70
+Ranking=47
+Nominal=1x
+Tier=1.5x
+DE_Loot=1x

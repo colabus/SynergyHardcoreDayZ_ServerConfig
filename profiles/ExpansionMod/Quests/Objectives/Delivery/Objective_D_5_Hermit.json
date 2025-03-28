@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 28,
+    "ID": 5,
+    "ObjectiveType": 5,
+    "ObjectiveText": "Deliver the Map",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "ExpansionQuestItem_HermitMap",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "MaxDistance": 10.0,
+    "MarkerName": "Deliver Items"
+}

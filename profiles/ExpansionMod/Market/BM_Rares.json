@@ -1,0 +1,32 @@
+{
+    "m_Version": 12,
+    "DisplayName": "RARE ITEMS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+        {
+            "ClassName": "Armband_DoubleZenYellowKing",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": 100.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "Flag_ZenYellowKing",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": 100.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

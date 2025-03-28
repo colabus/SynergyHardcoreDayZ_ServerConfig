@@ -1,0 +1,73 @@
+{
+    "ConfigVersion": 28,
+    "ID": 18,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Return the 10 Runes",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "ZenRune_Air",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "ZenRune_Body",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "ZenRune_Chaos",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "ZenRune_Cosmic",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "ZenRune_Earth",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "ZenRune_Fire",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "ZenRune_Law",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "ZenRune_Mind",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "ZenRune_Nature",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "ZenRune_Water",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

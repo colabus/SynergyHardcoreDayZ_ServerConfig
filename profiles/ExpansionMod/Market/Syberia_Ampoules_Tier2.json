@@ -1,0 +1,120 @@
+{
+    "m_Version": 12,
+    "DisplayName": "AMPOULES - TIER 2",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+		{
+            "ClassName": "AmpoulePropofol",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleTiopental",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleKetamin",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpoulePropanidid",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleGexobarbital",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleSodiumOxybutirate",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleMetoclopramid",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleZerukal",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleKetorol",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleDiklofenak",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

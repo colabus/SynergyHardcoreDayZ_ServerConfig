@@ -1,0 +1,73 @@
+{
+    "ConfigVersion": 22,
+    "ID": 5,
+    "Type": 1,
+    "Title": "Keep The Lights On",
+    "Descriptions": [
+        "Irena: I need more batteries, this equipment is ancient and hard to keep running. If you find a Truck Battery, please bring it to me.",
+        "Irena: I still need that battery.",
+        "Irena: Thank you survivor! This should help to keep the power on for another week."
+    ],
+    "ObjectiveText": "Give Irena a Truck Battery at the Karlin Power Plant.",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "InjectorExpBoost2x",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "Nailbox",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        4
+    ],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

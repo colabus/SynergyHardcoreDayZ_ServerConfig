@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 8,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Loot the Scientist's Keys and Free Mobius",
+    "TimeLimit": 300,
+    "Active": 1,
+    "ActionNames": [
+        "ActionUnlockLukowPrison"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

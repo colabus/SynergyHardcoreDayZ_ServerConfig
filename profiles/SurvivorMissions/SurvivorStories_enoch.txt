@@ -1,0 +1,22 @@
+You can spraypaint some weapons and attachments using paint cans.
+If the zombie virus spreads through less than 20% of your system, you can use antibiotics to treat it. Otherwise you need to manufacture a cure.
+You can dye some clothing items using coloured dye cans.
+Tune in to the default radio channel 87.8 for potential survivor missions from the UN.
+Sleeping by a fire increases the maximum amount of rest you can achieve - even more so if you're inside a building.
+Be careful down south - there are more predators down there than anywhere else in Livonia, but also more rewards.
+The best weaponry and high-tier military equipment can be found in contamination zones - but you need to be well-prepared for the challenge.
+Remember to press the PAUSE key for information on how this server operates - we have A LOT of custom changes and tweaks to vanilla.
+You can store food and virus cures inside refrigerators, but the fridge must be attached to a power source and turned on to work.
+If you find a Solar Panel kit deep in the south you can attach a truck battery to it to ensure a constant source of energy. Make sure to set the solar panel up where it can receive direct sunlight.
+To craft a zombie cure you need a microscope with a battery, a petri dish, an empty syringe and a zombie brain. You can get brains by skinning zombies and the rest is found in medical locations.
+Code locks and nails can be found in industrial locations. They can also be found in buried treasure (look for old photos in towns) and survivor missions (tune in to 87.8fm)
+The contamination zone will slowly degrade the quality of your NBC equipment. Make sure to bring spare supplies and repair kits.
+Military weapons and attachments can only be repaired by military-grade repair kits. Civilian weapons can be repaired by both civilian and military cleaning kits.
+Ammo is extremely rare in Livonia. The best place to find it is in treasure boxes or care package airdrops deep in the south.
+If your cooking pot gets damaged from cooking too many delicious wolf steaks, try using epoxy on it to repair it. Epoxy works on several other tools as well.
+You can attach grenades to alarm clocks to create traps. This is very useful for taking down groups of infected - or other curious players who come to check on the sound.
+If you see a black cloud of mist - be very, very careful. It's probably a zombie horde. The zombie master carries great riches - but he is incredibly difficult to kill.
+If you don't like squatters who pay no rent then you can craft a Fire Barrel in your base to prevent zombies from spawning there.
+Certain electronic equipment will degrade over time when used such as the GPS, radio, solar panels etc - use electrical repair kits to restore their durability.
+If you find a GPS with a working 9v battery you can press M to open the in-game map, or press \ to display a mini map on your HUD. You need to turn it on for it to work, and it is very rare.
+Drinking from dirty water and eating raw or contaminated food can make you sick regardless of your immunity level. Make sure to carry medicine with you if you need to consume bad food or water.

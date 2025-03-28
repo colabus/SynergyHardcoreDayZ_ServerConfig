@@ -1,0 +1,56 @@
+{
+    "ConfigVersion": 22,
+    "ID": 34,
+    "Type": 1,
+    "Title": "The Witch",
+    "Descriptions": [
+        "A survivor passing through informed us of a suspected witch residing nearby. Apparently she needs help with something, and she's willing to reward anyone brave enough (or perhaps stupid enough) to help her. Her location is marked on this map.",
+        "A survivor passing through informed us of a suspected witch residing nearby. Apparently she needs help with something, and she's willing to reward anyone brave enough (or perhaps stupid enough) to help her. Her location is marked on this map.",
+        "A survivor passing through informed us of a suspected witch residing nearby. Apparently she needs help with something, and she's willing to reward anyone brave enough (or perhaps stupid enough) to help her. Her location is marked on this map."
+    ],
+    "ObjectiveText": "Find the Witch",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 1,
+    "RandomRewardAmount": 1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        2
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 16,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        3
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

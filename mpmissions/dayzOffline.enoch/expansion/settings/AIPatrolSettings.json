@@ -1,0 +1,1412 @@
+{
+    "m_Version": 22,
+    "Enabled": 1,
+    "DespawnTime": 300.0,
+    "RespawnTime": 300.0,
+    "MinDistRadius": 300.0,
+    "MaxDistRadius": 1000.0,
+    "DespawnRadius": 1100.0,
+    "AccuracyMin": -1.0,
+    "AccuracyMax": -1.0,
+    "ThreatDistanceLimit": -1.0,
+    "NoiseInvestigationDistanceLimit": -1.0,
+    "DamageMultiplier": -1.0,
+    "DamageReceivedMultiplier": -1.0,
+    "ObjectPatrols": [],
+    "Patrols": [
+        {
+            "Name": "Sanctuary_Guards_BorderPatrol",
+            "Persist": 0,
+            "Faction": "Guards",
+            "Formation": "Column",
+            "FormationLooseness": 0.0,
+            "Loadout": "Sanctuary_GuardLoadout",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.8999999761581421,
+            "AccuracyMax": 0.8999999761581421,
+            "ThreatDistanceLimit": 300.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 0.009999999776482582,
+            "MaxDistRadius": 400.0,
+            "DespawnRadius": 500.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 300.0,
+            "RespawnTime": 1.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5689.38916015625,
+                    179.737548828125,
+                    10624.1396484375
+                ],
+                [
+                    5658.337890625,
+                    180.46511840820313,
+                    10651.6708984375
+                ],
+                [
+                    5590.2861328125,
+                    181.1599578857422,
+                    10594.98828125
+                ],
+                [
+                    5626.17626953125,
+                    180.11061096191407,
+                    10557.5478515625
+                ]
+            ]
+        },
+        {
+            "Name": "Sanctuary_Guards_GatePatrol",
+            "Persist": 0,
+            "Faction": "Guards",
+            "Formation": "Column",
+            "FormationLooseness": 0.0,
+            "Loadout": "Sanctuary_GateGuardLoadout",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "STATIC",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.8999999761581421,
+            "AccuracyMax": 0.8999999761581421,
+            "ThreatDistanceLimit": 150.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 0.009999999776482582,
+            "MaxDistRadius": 400.0,
+            "DespawnRadius": 500.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 300.0,
+            "RespawnTime": 1.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5648.80078125,
+                    179.98521423339845,
+                    10582.5693359375
+                ]
+            ]
+        },
+        {
+            "Name": "Sanctuary_Guards_TraderWaterTower",
+            "Persist": 0,
+            "Faction": "Guards",
+            "Formation": "Column",
+            "FormationLooseness": 0.0,
+            "Loadout": "Sanctuary_GuardSniperLoadout",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "STATIC",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 250.0,
+            "AccuracyMin": 0.8999999761581421,
+            "AccuracyMax": 0.8999999761581421,
+            "ThreatDistanceLimit": 400.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 0.009999999776482582,
+            "MaxDistRadius": 500.0,
+            "DespawnRadius": 600.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 300.0,
+            "RespawnTime": 1.0,
+            "UseRandomWaypointAsStartPoint": 0,
+            "Waypoints": [
+                [
+                    5655.2177734375,
+                    190.62754821777345,
+                    10642.3681640625
+                ]
+            ]
+        },
+        {
+            "Name": "Sanctuary_Guards_TraderRoofPatrol",
+            "Persist": 0,
+            "Faction": "Guards",
+            "Formation": "Column",
+            "FormationLooseness": 0.0,
+            "Loadout": "Sanctuary_GuardSniperLoadout",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "STATIC",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.8999999761581421,
+            "AccuracyMax": 0.8999999761581421,
+            "ThreatDistanceLimit": 300.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 0.10000000149011612,
+            "MaxDistRadius": 400.0,
+            "DespawnRadius": 500.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 300.0,
+            "RespawnTime": 1.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5655.009765625,
+                    186.6619415283203,
+                    10615.93359375
+                ],
+                [
+                    5667.09326171875,
+                    186.6624755859375,
+                    10626.611328125
+                ],
+                [
+                    5661.80517578125,
+                    186.66017150878907,
+                    10631.69140625
+                ],
+                [
+                    5650.58837890625,
+                    186.66122436523438,
+                    10621.12109375
+                ],
+                [
+                    5654.9111328125,
+                    186.6496124267578,
+                    10620.3046875
+                ],
+                [
+                    5637.279296875,
+                    185.04367065429688,
+                    10607.20703125
+                ],
+                [
+                    5630.6220703125,
+                    184.711669921875,
+                    10601.544921875
+                ],
+                [
+                    5623.26806640625,
+                    186.44151306152345,
+                    10601.494140625
+                ]
+            ]
+        },
+        {
+            "Name": "Sanctuary_Guards_TraderMilTower1",
+            "Persist": 0,
+            "Faction": "Guards",
+            "Formation": "RANDOM",
+            "FormationLooseness": 0.0,
+            "Loadout": "Sanctuary_GuardLoadout",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "STATIC",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.8999999761581421,
+            "AccuracyMax": 0.8999999761581421,
+            "ThreatDistanceLimit": 300.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 0.10000000149011612,
+            "MaxDistRadius": 400.0,
+            "DespawnRadius": 500.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 300.0,
+            "RespawnTime": 1.0,
+            "UseRandomWaypointAsStartPoint": 0,
+            "Waypoints": [
+                [
+                    5672.46337890625,
+                    185.21031188964845,
+                    10629.1611328125
+                ]
+            ]
+        },
+        {
+            "Name": "Sanctuary_Guards_TraderMilTower2",
+            "Persist": 0,
+            "Faction": "Guards",
+            "Formation": "RANDOM",
+            "FormationLooseness": 0.0,
+            "Loadout": "Sanctuary_GuardLoadout",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "STATIC",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.8999999761581421,
+            "AccuracyMax": 0.8999999761581421,
+            "ThreatDistanceLimit": 300.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 0.10000000149011612,
+            "MaxDistRadius": 400.0,
+            "DespawnRadius": 500.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 300.0,
+            "RespawnTime": 1.0,
+            "UseRandomWaypointAsStartPoint": 0,
+            "Waypoints": [
+                [
+                    5629.09765625,
+                    184.93995666503907,
+                    10564.3740234375
+                ]
+            ]
+        },
+        {
+            "Name": "Bunker_Bandits_Level01",
+            "Persist": 0,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 0.0,
+            "Loadout": "Bunker_BanditLoadout",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "LOOP",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.10000000149011612,
+            "AccuracyMax": 0.5,
+            "ThreatDistanceLimit": 50.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 10.0,
+            "MaxDistRadius": 200.0,
+            "DespawnRadius": 250.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 0.8999999761581421,
+            "WaypointInterpolation": "",
+            "DespawnTime": 900.0,
+            "RespawnTime": 3600.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    702.333251953125,
+                    532.0502319335938,
+                    1209.93798828125
+                ],
+                [
+                    698.2388916015625,
+                    532.0252685546875,
+                    1200.5760498046876
+                ],
+                [
+                    698.412841796875,
+                    532.0243530273438,
+                    1165.106689453125
+                ],
+                [
+                    701.9000854492188,
+                    531.6301879882813,
+                    1160.39794921875
+                ],
+                [
+                    700.5579223632813,
+                    532.0267944335938,
+                    1144.626220703125
+                ],
+                [
+                    674.0989990234375,
+                    532.0222778320313,
+                    1143.555908203125
+                ],
+                [
+                    665.1800537109375,
+                    532.0281372070313,
+                    1147.0670166015626
+                ],
+                [
+                    625.29150390625,
+                    532.0286254882813,
+                    1146.44140625
+                ],
+                [
+                    625.7828979492188,
+                    532.02978515625,
+                    1140.1217041015626
+                ],
+                [
+                    674.0989990234375,
+                    532.0222778320313,
+                    1143.555908203125
+                ],
+                [
+                    700.5579223632813,
+                    532.0267944335938,
+                    1144.626220703125
+                ],
+                [
+                    701.9000854492188,
+                    531.6301879882813,
+                    1160.39794921875
+                ],
+                [
+                    705.7252197265625,
+                    532.065185546875,
+                    1166.320556640625
+                ],
+                [
+                    703.5699462890625,
+                    532.0318603515625,
+                    1183.0955810546876
+                ],
+                [
+                    705.3895263671875,
+                    532.0317993164063,
+                    1190.4512939453126
+                ],
+                [
+                    705.3302612304688,
+                    532.0255737304688,
+                    1203.49072265625
+                ]
+            ]
+        },
+        {
+            "Name": "Bunker_Bandits_Level01_Stationary",
+            "Persist": 0,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 0.0,
+            "Loadout": "Bunker_BanditLoadout",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "STATIC",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.10000000149011612,
+            "AccuracyMax": 0.5,
+            "ThreatDistanceLimit": 50.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 10.0,
+            "MaxDistRadius": 200.0,
+            "DespawnRadius": 250.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 0.5,
+            "WaypointInterpolation": "",
+            "DespawnTime": 900.0,
+            "RespawnTime": 3600.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    653.2613525390625,
+                    532.0216674804688,
+                    1165.0751953125
+                ],
+                [
+                    621.404296875,
+                    532.01513671875,
+                    1135.010986328125
+                ],
+                [
+                    631.532958984375,
+                    532.01513671875,
+                    1134.976806640625
+                ],
+                [
+                    626.3060302734375,
+                    532.01513671875,
+                    1127.0677490234376
+                ],
+                [
+                    628.6539916992188,
+                    532.0201416015625,
+                    1154.0284423828126
+                ],
+                [
+                    632.8204956054688,
+                    532.0201416015625,
+                    1167.577880859375
+                ],
+                [
+                    607.5532836914063,
+                    532.024169921875,
+                    1118.5330810546876
+                ],
+                [
+                    603.4561767578125,
+                    532.024169921875,
+                    1135.2423095703126
+                ],
+                [
+                    652.8997192382813,
+                    532.0216674804688,
+                    1150.549560546875
+                ],
+                [
+                    648.79345703125,
+                    532.0216674804688,
+                    1153.68017578125
+                ],
+                [
+                    648.9530029296875,
+                    532.0216674804688,
+                    1168.2979736328126
+                ]
+            ]
+        },
+        {
+            "Name": "Bunker_Bandits_RandomPacing1",
+            "Persist": 0,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 0.0,
+            "Loadout": "Bunker_BanditLoadout",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.10000000149011612,
+            "AccuracyMax": 0.5,
+            "ThreatDistanceLimit": 50.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 10.0,
+            "MaxDistRadius": 200.0,
+            "DespawnRadius": 250.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 0.8999999761581421,
+            "WaypointInterpolation": "",
+            "DespawnTime": 900.0,
+            "RespawnTime": 3600.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    594.8989868164063,
+                    547.1443481445313,
+                    1143.050048828125
+                ],
+                [
+                    605.592041015625,
+                    547.1443481445313,
+                    1143.08935546875
+                ],
+                [
+                    617.2884521484375,
+                    547.1443481445313,
+                    1143.052001953125
+                ]
+            ]
+        },
+        {
+            "Name": "Bunker_Bandits_RandomPacing2",
+            "Persist": 0,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 0.0,
+            "Loadout": "Bunker_BanditLoadout",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.10000000149011612,
+            "AccuracyMax": 0.5,
+            "ThreatDistanceLimit": 50.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 10.0,
+            "MaxDistRadius": 200.0,
+            "DespawnRadius": 250.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 0.8999999761581421,
+            "WaypointInterpolation": "",
+            "DespawnTime": 900.0,
+            "RespawnTime": 3600.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    594.6342163085938,
+                    577.2326049804688,
+                    1143.2283935546876
+                ],
+                [
+                    605.8409423828125,
+                    577.2326049804688,
+                    1143.0521240234376
+                ],
+                [
+                    617.38232421875,
+                    577.2326049804688,
+                    1143.07421875
+                ]
+            ]
+        },
+        {
+            "Name": "Bunker_Bandits_RadiationRoom",
+            "Persist": 0,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 0.0,
+            "Loadout": "Bunker_BanditLoadout",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.10000000149011612,
+            "AccuracyMax": 0.5,
+            "ThreatDistanceLimit": 50.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 10.0,
+            "MaxDistRadius": 200.0,
+            "DespawnRadius": 250.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 0.8999999761581421,
+            "WaypointInterpolation": "",
+            "DespawnTime": 900.0,
+            "RespawnTime": 3600.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    647.3053588867188,
+                    516.9537963867188,
+                    1146.533447265625
+                ],
+                [
+                    627.3832397460938,
+                    516.9550170898438,
+                    1146.421875
+                ],
+                [
+                    607.3173217773438,
+                    516.9423217773438,
+                    1146.1812744140626
+                ],
+                [
+                    601.4720458984375,
+                    516.8988647460938,
+                    1142.7432861328126
+                ],
+                [
+                    607.3173217773438,
+                    516.9423217773438,
+                    1146.1812744140626
+                ],
+                [
+                    605.5621948242188,
+                    516.9417114257813,
+                    1140.7196044921876
+                ],
+                [
+                    627.4526977539063,
+                    516.9537963867188,
+                    1140.23095703125
+                ]
+            ]
+        },
+        {
+            "Name": "Bunker_Bandits_WaterRoom",
+            "Persist": 0,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 0.0,
+            "Loadout": "Bunker_BanditLoadout",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT_OR_LOOP",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.10000000149011612,
+            "AccuracyMax": 0.5,
+            "ThreatDistanceLimit": 50.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 10.0,
+            "MaxDistRadius": 200.0,
+            "DespawnRadius": 250.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 0.8999999761581421,
+            "WaypointInterpolation": "",
+            "DespawnTime": 900.0,
+            "RespawnTime": 3600.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    641.2557373046875,
+                    486.9713134765625,
+                    1148.5306396484376
+                ],
+                [
+                    632.943115234375,
+                    486.97088623046877,
+                    1148.4832763671876
+                ],
+                [
+                    632.88037109375,
+                    487.7207336425781,
+                    1140.9456787109376
+                ],
+                [
+                    641.74072265625,
+                    486.9713134765625,
+                    1138.4696044921876
+                ]
+            ]
+        },
+        {
+            "Name": "Bunker_Bandits_Stairwells_Stationary",
+            "Persist": 0,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 0.0,
+            "Loadout": "Bunker_BanditLoadout",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "STATIC",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.10000000149011612,
+            "AccuracyMax": 0.5,
+            "ThreatDistanceLimit": 50.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 10.0,
+            "MaxDistRadius": 200.0,
+            "DespawnRadius": 250.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 0.8999999761581421,
+            "WaypointInterpolation": "",
+            "DespawnTime": 900.0,
+            "RespawnTime": 3600.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    591.4132080078125,
+                    612.2852172851563,
+                    1133.3997802734376
+                ],
+                [
+                    595.389892578125,
+                    602.2545776367188,
+                    1132.4005126953126
+                ],
+                [
+                    592.1036987304688,
+                    597.2415161132813,
+                    1132.775634765625
+                ],
+                [
+                    594.0814819335938,
+                    592.2365112304688,
+                    1133.193603515625
+                ],
+                [
+                    595.2144165039063,
+                    582.2185668945313,
+                    1132.828369140625
+                ],
+                [
+                    592.3001098632813,
+                    569.7537841796875,
+                    1128.231201171875
+                ],
+                [
+                    595.482666015625,
+                    562.1842041015625,
+                    1133.389892578125
+                ],
+                [
+                    594.3954467773438,
+                    557.1776123046875,
+                    1153.9007568359376
+                ],
+                [
+                    595.8768310546875,
+                    562.18212890625,
+                    1152.9886474609376
+                ],
+                [
+                    594.0217895507813,
+                    569.8812255859375,
+                    1157.91259765625
+                ],
+                [
+                    596.4266967773438,
+                    577.2196655273438,
+                    1151.8084716796876
+                ],
+                [
+                    735.2838134765625,
+                    531.4227905273438,
+                    1228.3487548828126
+                ]
+            ]
+        },
+        {
+            "Name": "BushBandits_1",
+            "Persist": 0,
+            "Faction": "Shamans",
+            "Formation": "Wall",
+            "FormationLooseness": 3.0,
+            "Loadout": "YellowKing_WeakBandit",
+            "Units": [],
+            "NumberOfAI": -6,
+            "Behaviour": "LOOP",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 1.0,
+            "AccuracyMax": 1.0,
+            "ThreatDistanceLimit": 50.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 100.0,
+            "MaxDistRadius": 3000.0,
+            "DespawnRadius": 3100.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 1000.0,
+            "Chance": 0.25,
+            "WaypointInterpolation": "UniformCubic",
+            "DespawnTime": 3600.0,
+            "RespawnTime": -1.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    1661.81005859375,
+                    0.0,
+                    1337.6400146484376
+                ],
+                [
+                    3324.199951171875,
+                    0.0,
+                    1999.8299560546876
+                ],
+                [
+                    5524.16015625,
+                    0.0,
+                    1425.4000244140626
+                ],
+                [
+                    5599.2900390625,
+                    0.0,
+                    2725.949951171875
+                ],
+                [
+                    4449.3798828125,
+                    0.0,
+                    4811.64990234375
+                ],
+                [
+                    2824.419921875,
+                    0.0,
+                    4137.85986328125
+                ],
+                [
+                    1124.4200439453126,
+                    0.0,
+                    3013.159912109375
+                ]
+            ]
+        },
+        {
+            "Name": "BushBandits_2",
+            "Persist": 0,
+            "Faction": "Shamans",
+            "Formation": "Wall",
+            "FormationLooseness": 0.0,
+            "Loadout": "YellowKing_WeakBandit",
+            "Units": [],
+            "NumberOfAI": -6,
+            "Behaviour": "LOOP",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 1.0,
+            "AccuracyMax": 1.0,
+            "ThreatDistanceLimit": 50.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 100.0,
+            "MaxDistRadius": 3000.0,
+            "DespawnRadius": 3100.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 1000.0,
+            "Chance": 0.25,
+            "WaypointInterpolation": "",
+            "DespawnTime": 3600.0,
+            "RespawnTime": -1.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    8549.669921875,
+                    0.0,
+                    744.1799926757813
+                ],
+                [
+                    11836.9404296875,
+                    0.0,
+                    949.969970703125
+                ],
+                [
+                    10455.91015625,
+                    0.0,
+                    2431.320068359375
+                ],
+                [
+                    11955.8095703125,
+                    0.0,
+                    3099.75
+                ],
+                [
+                    9918.5302734375,
+                    0.0,
+                    3937.179931640625
+                ],
+                [
+                    8099.77001953125,
+                    0.0,
+                    4399.85009765625
+                ],
+                [
+                    8699.6201171875,
+                    0.0,
+                    2719.18994140625
+                ]
+            ]
+        },
+        {
+            "Name": "LukowBunker_Bandits_Stationary1",
+            "Persist": 0,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 0.0,
+            "Loadout": "YellowKing_GearedBanditContam",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "STATIC",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.800000011920929,
+            "AccuracyMax": 0.8999999761581421,
+            "ThreatDistanceLimit": 50.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 10.0,
+            "MaxDistRadius": 200.0,
+            "DespawnRadius": 250.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 900.0,
+            "RespawnTime": 1800.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    4113.5087890625,
+                    5002.0947265625,
+                    10214.48828125
+                ],
+                [
+                    4117.39599609375,
+                    5002.0947265625,
+                    10199.9296875
+                ],
+                [
+                    4134.435546875,
+                    5001.66162109375,
+                    10205.23046875
+                ],
+                [
+                    4124.69384765625,
+                    5002.05517578125,
+                    10197.9404296875
+                ],
+                [
+                    4112.6171875,
+                    5002.07763671875,
+                    10180.439453125
+                ],
+                [
+                    4106.201171875,
+                    5002.07763671875,
+                    10187.2587890625
+                ],
+                [
+                    4098.5419921875,
+                    5002.07763671875,
+                    10173.1015625
+                ],
+                [
+                    4120.88427734375,
+                    5002.07080078125,
+                    10189.1962890625
+                ],
+                [
+                    4131.4423828125,
+                    5002.07080078125,
+                    10180.087890625
+                ],
+                [
+                    4134.65869140625,
+                    5002.06103515625,
+                    10176.255859375
+                ],
+                [
+                    4128.916015625,
+                    5002.08642578125,
+                    10163.3505859375
+                ],
+                [
+                    4121.92333984375,
+                    5002.08642578125,
+                    10170.6513671875
+                ],
+                [
+                    4122.51513671875,
+                    5002.08642578125,
+                    10162.0390625
+                ],
+                [
+                    4110.693359375,
+                    5002.08642578125,
+                    10158.0732421875
+                ]
+            ]
+        },
+        {
+            "Name": "LukowBunker_Bandits_Stationary2",
+            "Persist": 0,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 0.0,
+            "Loadout": "YellowKing_GearedBanditContam",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "STATIC",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.800000011920929,
+            "AccuracyMax": 0.8999999761581421,
+            "ThreatDistanceLimit": 50.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 10.0,
+            "MaxDistRadius": 200.0,
+            "DespawnRadius": 250.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 900.0,
+            "RespawnTime": 1800.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    4113.5087890625,
+                    5002.0947265625,
+                    10214.48828125
+                ],
+                [
+                    4117.39599609375,
+                    5002.0947265625,
+                    10199.9296875
+                ],
+                [
+                    4134.435546875,
+                    5001.66162109375,
+                    10205.23046875
+                ],
+                [
+                    4124.69384765625,
+                    5002.05517578125,
+                    10197.9404296875
+                ],
+                [
+                    4112.6171875,
+                    5002.07763671875,
+                    10180.439453125
+                ],
+                [
+                    4106.201171875,
+                    5002.07763671875,
+                    10187.2587890625
+                ],
+                [
+                    4098.5419921875,
+                    5002.07763671875,
+                    10173.1015625
+                ],
+                [
+                    4120.88427734375,
+                    5002.07080078125,
+                    10189.1962890625
+                ],
+                [
+                    4131.4423828125,
+                    5002.07080078125,
+                    10180.087890625
+                ],
+                [
+                    4134.65869140625,
+                    5002.06103515625,
+                    10176.255859375
+                ],
+                [
+                    4128.916015625,
+                    5002.08642578125,
+                    10163.3505859375
+                ],
+                [
+                    4121.92333984375,
+                    5002.08642578125,
+                    10170.6513671875
+                ],
+                [
+                    4122.51513671875,
+                    5002.08642578125,
+                    10162.0390625
+                ],
+                [
+                    4110.693359375,
+                    5002.08642578125,
+                    10158.0732421875
+                ]
+            ]
+        },
+        {
+            "Name": "LukowBunker_Bandits_Stationary3",
+            "Persist": 0,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 0.0,
+            "Loadout": "YellowKing_GearedBanditContam",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "STATIC",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.800000011920929,
+            "AccuracyMax": 0.8999999761581421,
+            "ThreatDistanceLimit": 50.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 10.0,
+            "MaxDistRadius": 200.0,
+            "DespawnRadius": 250.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 900.0,
+            "RespawnTime": 1800.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    4113.5087890625,
+                    5002.0947265625,
+                    10214.48828125
+                ],
+                [
+                    4117.39599609375,
+                    5002.0947265625,
+                    10199.9296875
+                ],
+                [
+                    4134.435546875,
+                    5001.66162109375,
+                    10205.23046875
+                ],
+                [
+                    4124.69384765625,
+                    5002.05517578125,
+                    10197.9404296875
+                ],
+                [
+                    4112.6171875,
+                    5002.07763671875,
+                    10180.439453125
+                ],
+                [
+                    4106.201171875,
+                    5002.07763671875,
+                    10187.2587890625
+                ],
+                [
+                    4098.5419921875,
+                    5002.07763671875,
+                    10173.1015625
+                ],
+                [
+                    4120.88427734375,
+                    5002.07080078125,
+                    10189.1962890625
+                ],
+                [
+                    4131.4423828125,
+                    5002.07080078125,
+                    10180.087890625
+                ],
+                [
+                    4134.65869140625,
+                    5002.06103515625,
+                    10176.255859375
+                ],
+                [
+                    4128.916015625,
+                    5002.08642578125,
+                    10163.3505859375
+                ],
+                [
+                    4121.92333984375,
+                    5002.08642578125,
+                    10170.6513671875
+                ],
+                [
+                    4122.51513671875,
+                    5002.08642578125,
+                    10162.0390625
+                ],
+                [
+                    4110.693359375,
+                    5002.08642578125,
+                    10158.0732421875
+                ]
+            ]
+        },
+        {
+            "Name": "LukowBunker_Bandits_Stationary4",
+            "Persist": 0,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 0.0,
+            "Loadout": "YellowKing_GearedBanditContam",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "STATIC",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.800000011920929,
+            "AccuracyMax": 0.8999999761581421,
+            "ThreatDistanceLimit": 50.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 10.0,
+            "MaxDistRadius": 200.0,
+            "DespawnRadius": 250.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 900.0,
+            "RespawnTime": 1800.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    4113.5087890625,
+                    5002.0947265625,
+                    10214.48828125
+                ],
+                [
+                    4117.39599609375,
+                    5002.0947265625,
+                    10199.9296875
+                ],
+                [
+                    4134.435546875,
+                    5001.66162109375,
+                    10205.23046875
+                ],
+                [
+                    4124.69384765625,
+                    5002.05517578125,
+                    10197.9404296875
+                ],
+                [
+                    4112.6171875,
+                    5002.07763671875,
+                    10180.439453125
+                ],
+                [
+                    4106.201171875,
+                    5002.07763671875,
+                    10187.2587890625
+                ],
+                [
+                    4098.5419921875,
+                    5002.07763671875,
+                    10173.1015625
+                ],
+                [
+                    4120.88427734375,
+                    5002.07080078125,
+                    10189.1962890625
+                ],
+                [
+                    4131.4423828125,
+                    5002.07080078125,
+                    10180.087890625
+                ],
+                [
+                    4134.65869140625,
+                    5002.06103515625,
+                    10176.255859375
+                ],
+                [
+                    4128.916015625,
+                    5002.08642578125,
+                    10163.3505859375
+                ],
+                [
+                    4121.92333984375,
+                    5002.08642578125,
+                    10170.6513671875
+                ],
+                [
+                    4122.51513671875,
+                    5002.08642578125,
+                    10162.0390625
+                ],
+                [
+                    4110.693359375,
+                    5002.08642578125,
+                    10158.0732421875
+                ]
+            ]
+        }
+    ]
+}

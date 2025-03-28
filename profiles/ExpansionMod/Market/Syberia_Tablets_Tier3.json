@@ -1,0 +1,120 @@
+{
+    "m_Version": 12,
+    "DisplayName": "TABLETS - TIER 3",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+		{
+            "ClassName": "TabletsZerukal",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsNifuroksazid",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsPolisorb",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsKarbopekt",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsEnterofuril",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsErsefuril",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsSalofalk",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsFtalazol",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsMesalazin",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsNoopept",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "m_Version": 20,
+    "VehicleSync": 0,
+    "VehicleRequireKeyToStart": 0,
+    "VehicleRequireAllDoors": 1,
+    "VehicleLockedAllowInventoryAccess": 0,
+    "VehicleLockedAllowInventoryAccessWithoutDoors": 1,
+    "MasterKeyPairingMode": 3,
+    "MasterKeyUses": 5,
+    "CanPickLock": 0,
+    "PickLockTools": [],
+    "PickLockChancePercent": 30.0,
+    "PickLockTimeSeconds": 60,
+    "PickLockToolDamagePercent": 33.400001525878909,
+    "EnableWindAerodynamics": 0,
+    "EnableTailRotorDamage": 1,
+    "Towing": 0,
+    "EnableHelicopterExplosions": 1,
+    "DisableVehicleDamage": 0,
+    "VehicleCrewDamageMultiplier": 1.0,
+    "VehicleSpeedDamageMultiplier": 1.0,
+    "VehicleRoadKillDamageMultiplier": 1.0,
+    "CollisionDamageIfEngineOff": 0,
+    "CollisionDamageMinSpeedKmh": 30.0,
+    "CanChangeLock": 0,
+    "ChangeLockTools": [],
+    "ChangeLockTimeSeconds": 60,
+    "ChangeLockToolDamagePercent": 33.400001525878909,
+    "PlacePlayerOnGroundOnReconnectInVehicle": 1,
+    "RevvingOverMaxRPMRuinsEngineInstantly": 1,
+    "VehicleDropsRuinedDoors": 1,
+    "ExplodingVehicleDropsAttachments": 1,
+    "DesyncInvulnerabilityTimeoutSeconds": 5.0,
+    "DamagedEngineStartupChancePercent": 50.0,
+    "EnableVehicleCovers": 1,
+    "AllowCoveringDEVehicles": 1,
+    "CanCoverWithCargo": 1,
+    "UseVirtualStorageForCoverCargo": 0,
+    "VehicleAutoCoverTimeSeconds": 0.0,
+    "VehicleAutoCoverRequireCamonet": 0,
+    "EnableAutoCoveringDEVehicles": 0,
+    "CFToolsHeliCoverIconName": "helicopter",
+    "CFToolsBoatCoverIconName": "ship",
+    "CFToolsCarCoverIconName": "car",
+    "ShowVehicleOwners": 0,
+    "VehiclesConfig": [
+        {
+            "ClassName": "ExpansionUAZCargoRoofless",
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "ExpansionUAZ",
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "ExpansionBus",
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "ExpansionVodnik",
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "ExpansionUtilityBoat",
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "ExpansionZodiacBoat",
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "ExpansionLHD",
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "ExpansionMerlin",
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "ExpansionMh6",
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "ExpansionUh1h",
+            "LockComplexity": 1.0
+        }
+    ]
+}

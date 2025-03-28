@@ -1,0 +1,80 @@
+{
+    "m_Version": 12,
+    "DisplayName": "SNOWMOBILES",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+        {
+            "ClassName": "SavageSherpa",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 2,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "carbattery",
+                "sparkplug",
+                "headlighth7",
+                "headlighth7",
+				"SavageSherpa_Hood"
+            ],
+            "Variants": [
+				"SavageSherpa_Black",
+				"SavageSherpa_Blue",
+				"SavageSherpa_Brown",
+				"SavageSherpa_Green",
+				"SavageSherpa_Mint",
+				"SavageSherpa_Pink",
+				"SavageSherpa_Purple",
+				"SavageSherpa_Red",
+				"SavageSherpa_Savage"
+			]
+        },
+		{
+            "ClassName": "SavageSherpa_Sport_Black",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 2,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "carbattery",
+                "sparkplug",
+                "headlighth7",
+                "headlighth7"
+            ],
+            "Variants": [
+				"SavageSherpa_Sport_Blue",
+				"SavageSherpa_Sport_Red",
+				"SavageSherpa_Sport_DeepRed",
+				"SavageSherpa_Sport_Pink",
+				"SavageSherpa_Sport_Purple",
+				"SavageSherpa_Sport_White",
+				"SavageSherpa_Sport_DiamondCut"
+			]
+        },
+		{
+            "ClassName": "SavageSherpa_Cargo",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 2,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "carbattery",
+                "sparkplug",
+                "headlighth7",
+                "headlighth7",
+				"SavageSherpa_Cargo_hood"
+            ],
+            "Variants": [
+				"SavageSherpa_Cargo_Black"
+			]
+        }
+	]
+}

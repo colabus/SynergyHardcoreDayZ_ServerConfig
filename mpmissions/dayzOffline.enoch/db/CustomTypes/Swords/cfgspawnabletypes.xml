@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<spawnabletypes>
+	<type name="SLCNinjatoSheath">
+        <attachments chance="1.0">
+            <item name="SLC_Ninjato" chance="1.0" />
+        </attachments>
+    </type>
+	<type name="SLCKatanaSheath">
+        <attachments chance="1.0">
+            <item name="SLC_Katana" chance="1.0" />
+        </attachments>
+    </type>
+	<type name="SLCTachiSheath">
+        <attachments chance="1.0">
+            <item name="SLC_Tachi" chance="1.0" />
+        </attachments>
+    </type>
+</spawnabletypes>

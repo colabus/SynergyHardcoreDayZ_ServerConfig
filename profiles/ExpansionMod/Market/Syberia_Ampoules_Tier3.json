@@ -1,0 +1,109 @@
+{
+    "m_Version": 12,
+    "DisplayName": "AMPOULES - TIER 3",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+		{
+            "ClassName": "AmpouleHeptral",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleCylaspen",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleGrimipenem",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleZeftriaxon",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleErytromicyn",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleFlemoclav",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleOcsacylin",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleImipenem",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleAmoksivan",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

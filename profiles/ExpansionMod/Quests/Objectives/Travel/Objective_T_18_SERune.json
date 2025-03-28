@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 18,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Bury Fire Rune in South-East",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        12353.7001953125,
+        297.5484313964844,
+        390.2080078125
+    ],
+    "MaxDistance": 500.0,
+    "MarkerName": "Bury Fire Rune in South-East",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

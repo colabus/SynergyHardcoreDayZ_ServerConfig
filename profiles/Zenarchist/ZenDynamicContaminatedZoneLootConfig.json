@@ -1,0 +1,95 @@
+{
+    "ItemLifetime": -1,
+    "LootSpawns": [
+        {
+            "ItemType": "Grenade_ChemGas",
+            "ItemCountMinimum": 2,
+            "ItemCountMaximum": 5,
+            "ItemQuantityMinimum": 1.0,
+            "ItemQuantityMaximum": 1.0,
+            "SpawnDistanceMinimum": 5,
+            "SpawnDistanceMaximum": 15,
+            "SpawnChance": 1.0
+        },
+		{
+            "ItemType": "HDSN_Gunpowder",
+            "ItemCountMinimum": 1,
+            "ItemCountMaximum": 1,
+			"ItemQuantityMinimum": 1.0,
+            "ItemQuantityMaximum": 1.0,
+            "SpawnDistanceMinimum": 5,
+            "SpawnDistanceMaximum": 15,
+            "SpawnChance": 0.5
+        },
+		{
+            "ItemType": "HDSN_Charcoal",
+            "ItemCountMinimum": 1,
+            "ItemCountMaximum": 1,
+			"ItemQuantityMinimum": 1.0,
+            "ItemQuantityMaximum": 1.0,
+            "SpawnDistanceMinimum": 5,
+            "SpawnDistanceMaximum": 15,
+            "SpawnChance": 0.5
+        },
+		{
+            "ItemType": "HDSN_Detonator",
+            "ItemCountMinimum": 1,
+            "ItemCountMaximum": 1,
+			"ItemQuantityMinimum": 1.0,
+            "ItemQuantityMaximum": 1.0,
+            "SpawnDistanceMinimum": 5,
+            "SpawnDistanceMaximum": 15,
+            "SpawnChance": 0.2
+        },
+		{
+            "ItemType": "HDSN_C4Sticks",
+            "ItemCountMinimum": 1,
+            "ItemCountMaximum": 1,
+			"ItemQuantityMinimum": 1.0,
+            "ItemQuantityMaximum": 1.0,
+            "SpawnDistanceMinimum": 5,
+            "SpawnDistanceMaximum": 15,
+            "SpawnChance": 0.1
+        },
+		{
+            "ItemType": "HDSN_C4NoWiring",
+            "ItemCountMinimum": 1,
+            "ItemCountMaximum": 1,
+			"ItemQuantityMinimum": 1.0,
+            "ItemQuantityMaximum": 1.0,
+            "SpawnDistanceMinimum": 5,
+            "SpawnDistanceMaximum": 15,
+            "SpawnChance": 0.1
+        },
+		{
+            "ItemType": "Expansion_Ammo_FlareSupplyRed",
+            "ItemCountMinimum": 1,
+            "ItemCountMaximum": 1,
+			"ItemQuantityMinimum": 1.0,
+            "ItemQuantityMaximum": 1.0,
+            "SpawnDistanceMinimum": 5,
+            "SpawnDistanceMaximum": 15,
+            "SpawnChance": 0.1
+        },
+		{
+            "ItemType": "PunchedCard",
+            "ItemCountMinimum": 1,
+            "ItemCountMaximum": 1,
+			"ItemQuantityMinimum": 1.0,
+            "ItemQuantityMaximum": 1.0,
+            "SpawnDistanceMinimum": 5,
+            "SpawnDistanceMaximum": 15,
+            "SpawnChance": 0.1
+        },
+		{
+            "ItemType": "PunchedCard",
+            "ItemCountMinimum": 1,
+            "ItemCountMaximum": 1,
+			"ItemQuantityMinimum": 1.0,
+            "ItemQuantityMaximum": 1.0,
+            "SpawnDistanceMinimum": 5,
+            "SpawnDistanceMaximum": 15,
+            "SpawnChance": 0.1
+        }
+    ]
+}

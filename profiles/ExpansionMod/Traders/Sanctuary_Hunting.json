@@ -1,0 +1,27 @@
+{
+    "m_Version": 12,
+    "DisplayName": "HUNTING TRADER",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": 3,
+    "TraderIcon": "Fishing",
+    "Currencies": [
+        "nail"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Dogs:0",
+        "AnimalCrocodile:2",
+        "AnimalPelts:2",
+        "AnimalHeads:2",
+        "AnimalMeat:2",
+        "GebsFish:2",
+        "Fishing:0",
+        "Crossbows:0",
+        "Navigation_Survival:0",
+        "Exchange"
+    ],
+    "Items": {}
+}

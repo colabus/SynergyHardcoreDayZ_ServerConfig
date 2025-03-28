@@ -1,0 +1,89 @@
+{
+    "ConfigVersion": 22,
+    "ID": 13,
+    "Type": 1,
+    "Title": "Debt Collection",
+    "Descriptions": [
+        "Sebastian: The guards here are mercenaries sent from Scarecrow's group. They're not cheap to hire. Normally I take the payment to him myself, but you seem to be able to handle yourself pretty well out there. Do you mind taking this briefcase to Scarecrow? He'll reward you something for the trouble. There's just one condition: don't look inside the briefcase.",
+        "Sebastian: The guards here are mercenaries sent from Scarecrow's group. They're not cheap to hire. Normally I take the payment to him myself, but you seem to be able to handle yourself pretty well out there. Do you mind taking this briefcase to Scarecrow? He'll reward you something for the trouble. There's just one condition: don't look inside the briefcase.",
+        "Scarecrow: Sebastian is late with his payment yet again. He's lucky he's the only survivor in Livonia who actually pays his debts. Thanks for bringing it to me, I'm sure it wasn't easy getting here. Take this for your trouble."
+    ],
+    "ObjectiveText": "Deliver the briefcase to the Black Market Trader at Swarog Military Base.",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [
+        {
+            "ClassName": "ExpansionQuestItem_Briefcase",
+            "Amount": 1
+        }
+    ],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionCodeLock",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ZenCasinoChips_Red",
+            "Amount": 100,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ExpansionCircuitBoard_Airdrop",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 1,
+    "RandomRewardAmount": 1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        2
+    ],
+    "QuestTurnInIDs": [
+        3
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 8,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        3
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

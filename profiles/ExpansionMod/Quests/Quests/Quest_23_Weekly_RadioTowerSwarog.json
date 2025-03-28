@@ -1,0 +1,97 @@
+{
+    "ConfigVersion": 22,
+    "ID": 23,
+    "Type": 1,
+    "Title": "Satellite Communications",
+    "Descriptions": [
+        "Normally I travel across Livonia maintaining the important infrastructure to keep communications going, but right now I'm most needed here at Karlin to keep the power on. Recently we lost satellite communications to other areas of the continent. The only way we could lose that connection is if something is broken on the Swarog Tower. Could you take this circuit board down to Swarog and repair the tower there? I know it's dangerous, so no hard feelings if you don't want to - but I'll give you something valuable for the job.",
+        "Irena: Normally I travel across Livonia maintaining the important infrastructure to keep communications going, but right now I'm most needed here at Karlin to keep the power on. Recently we lost satellite communications to other areas of the continent. The only way we could lose that connection is if something is broken on the Swarog Tower. Could you take this circuit board down to Swarog and repair the tower there? I know it's dangerous, so no hard feelings if you don't want to - but I'll give you something valuable for the job.",
+        "Irena: Thank you survivor! You restored satellite communications to Livonia for the time being. Please check back with me when you have time - I might have other jobs for you if you require supplies."
+    ],
+    "ObjectiveText": "Repair the Swarog Radio Tower",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [
+        {
+            "ClassName": "ExpansionCircuitBoard_Quest2",
+            "Amount": 1
+        }
+    ],
+    "Rewards": [
+        {
+            "ClassName": "ZenTreasure_RandomPhoto",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ExpansionCircuitBoard_Airdrop",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ZenCasinoChips_Red",
+            "Amount": 200,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 1,
+    "RandomRewardAmount": 1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        4
+    ],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 13,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 2,
+            "ObjectiveType": 10
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 14,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

@@ -1,0 +1,136 @@
+{
+    "ConfigVersion": 22,
+    "ID": 14,
+    "Type": 1,
+    "Title": "Bad Boys",
+    "Descriptions": [
+        "Sebastian has received intel that suggests the Yellow King bandit group are trying to set up a forward operating camp in the Branzow forest west of Lukow. We've stopped them building there before, but they just won't learn their lesson. Clear out the camp and you will be rewarded for your efforts. But beware - these bandits are no ordinary bandits, our information suggests there are five of them and they will be geared to the teeth. It would be wise to bring backup. Good luck, survivor.",
+        "Sebastian has received intel that suggests the Yellow King bandit group are trying to set up a forward operating camp in the Branzow forest west of Lukow. We've stopped them building there before, but they just won't learn their lesson. Clear out the camp and you will be rewarded for your efforts. But beware - these bandits are no ordinary bandits, our information suggests there are five of them and they will be geared to the teeth. It would be wise to bring backup. Good luck, survivor.",
+        "Thank you for your efforts survivor!"
+    ],
+    "ObjectiveText": "Wipe out the bandits in Branzow forest.",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 1,
+    "ObjectSetFileName": "WestLukowBanditCamp",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionSilverBar",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "Expansion_Ammo_FlareSupplyRed",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ExpansionCircuitBoard_Airdrop",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "AmmoBox",
+            "Amount": 1,
+            "Attachments": [
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 1,
+    "RandomRewardAmount": 1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1,
+            "ObjectiveType": 8
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        3
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

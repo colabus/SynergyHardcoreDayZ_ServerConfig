@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 0,
+    "ClassName": "ExpansionQuestNPCAIMirek",
+    "Position": [
+        5634.07958984375,
+        180.2701416015625,
+        10587.6513671875
+    ],
+    "Orientation": [
+        -178.9617462158203,
+        0.0,
+        0.0
+    ],
+    "NPCName": "Zenarchist",
+    "DefaultNPCText": "He's the server admin. Somehow he's managed to turn the sexy down to a 5.",
+    "Waypoints": [],
+    "NPCEmoteID": 13,
+    "NPCEmoteIsStatic": -1,
+    "NPCLoadoutFile": "Quest_Zenarchist",
+    "NPCInteractionEmoteID": -1,
+    "NPCQuestCancelEmoteID": -1,
+    "NPCQuestStartEmoteID": -1,
+    "NPCQuestCompleteEmoteID": -1,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 2,
+    "Active": 1
+}

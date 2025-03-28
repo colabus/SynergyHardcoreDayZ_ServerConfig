@@ -1,0 +1,120 @@
+{
+    "m_Version": 12,
+    "DisplayName": "TABLETS - TIER 2",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+		{
+            "ClassName": "TabletsTetracycline",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsAmoksiklav",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsAmpicylin",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsPiperacylin",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsTrihopol",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsCyprolet",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsAmoksivan",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsAmibaktam",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsCharcoal",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsMezimForte",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

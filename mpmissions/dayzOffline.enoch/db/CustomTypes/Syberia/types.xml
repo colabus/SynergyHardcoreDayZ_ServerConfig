@@ -1,0 +1,2151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<!--SYBERIAPROJECT TYPES-->
+	<type name="Syb_Geigercounter">
+		<nominal>8</nominal>
+		<lifetime>14400</lifetime>
+		<restock>14400</restock>
+		<min>4</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="Military"/>
+		<usage name="Firefighter"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="InjectorPerkReset">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Special"/>
+	</type>
+	<type name="InjectorExpBoost10x">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Special"/>
+	</type>
+	<type name="InjectorExpBoost5x">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Special"/>
+	</type>
+	<type name="InjectorExpBoost2x">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<!--PDA-->
+	<type name="ItemPDA">
+        <nominal>12</nominal>
+        <lifetime>14400</lifetime>
+        <restock>3600</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+	</type>
+	<!--FOOD//ROTTEN-->
+	<type name="SodaCan_MadBull">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="BakedBeansCan_OpenedRotten">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+	</type>
+	<type name="PeachesCan_OpenedRotten">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+	</type>
+	<type name="TacticalBaconCan_OpenedRotten">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Military"/>
+	</type>
+	<type name="SpaghettiCan_OpenedRotten">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+	</type>
+	<type name="SardinesCan_OpenedRotten">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+	</type>
+	<type name="TunaCan_OpenedRotten">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+	</type>
+	<type name="DogFoodCan_OpenedRotten">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+	</type>
+	<type name="CatFoodCan_OpenedRotten">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+	</type>
+	<type name="PorkCan_OpenedRotten">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+	</type>
+	<type name="Lunchmeat_OpenedRotten">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+	</type>
+	<type name="UnknownFoodCan_OpenedRotten">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+	</type>
+	<type name="Pajka_OpenedRotten">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+	</type>
+	<type name="Pate_OpenedRotten">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+	</type>
+	<type name="BrisketSpread_OpenedRotten">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+	</type>
+	<!--medicAmpoule-->
+	<!--1-->
+	<type name="AmpouleAlcohol">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="AmpouleHihlofos">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="AmpouleCypermetrin">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="AmpouleDiazinon">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmpouleArsenic">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmpouleNovocain">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmpouleIrineks">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="AmpouleNimesulid">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="AmpouleKetoprofen">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+	</type>
+	<!--2-->
+	<type name="AmpoulePropofol">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="AmpouleTiopental">
+		<nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="AmpouleKetamin">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="AmpoulePropanidid">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="AmpouleGexobarbital">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="AmpouleSodiumOxybutirate">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="AmpouleMetoclopramid">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="AmpouleZerukal">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="AmpouleKetorol">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmpouleDiklofenak">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<!--3-->
+	<type name="AmpouleHeptral">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="AmpouleCylaspen">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="AmpouleGrimipenem">
+		<nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="AmpouleZeftriaxon">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="AmpouleErytromicyn">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="AmpouleFlemoclav">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="AmpouleOcsacylin">
+		<nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="AmpouleImipenem">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="AmpouleAmoksivan">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmpouleZivirol">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+	</type>
+	<!--4-->
+	<type name="AmpouleMeksidol">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="AmpouleActovegin">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="AmpouleNeiroks">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmpoulePeklitakcel">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmpouleNonacogAlpha">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmpouleAminokaprolSulfat">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmpouleVikasol">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="AmpouleEtamzilat">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmpoulePerftoran">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="AmpouleMaltofer">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<!--5-->
+	<type name="AmpouleErytropoenin">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="AmpouleAdrenalin05">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="AmpouleAdrenalin10">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="AmpouleAdrenalin30">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="AmpoulePentacin">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmpouleCarboxyme">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmpouleMetralindol">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="AmpouleActaparoxetine">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="AmpouleAmitriptyline">
+        <nominal>8</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<!--MedicInjector-->
+	<type name="InjectorPromedol">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="InjectorZivirol">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="InjectorTopoizomeraza">
+        <nominal>8</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="InjectorErytropoenin">
+        <nominal>8</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="InjectorNeiroks">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="InjectorAmoksivan">
+        <nominal>8</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="InjectorKetorol">
+        <nominal>8</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+	</type>
+	<type name="InjectorEpipen">
+        <nominal>10</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+	</type>
+	<type name="InjectorNovichek">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+	</type>
+	<type name="InjectorRadioprotector">
+        <nominal>12</nominal>
+        <lifetime>14400</lifetime>
+        <restock>3600</restock>
+        <min>8</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+	</type>
+	<!--Medic Salve (pomada) -->
+	<type name="SalveKapsikam">
+        <nominal>15</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+	</type>
+	<type name="SalveFinalgon">
+        <nominal>15</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SalveViprosal">
+        <nominal>15</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+	</type>
+	<!--MedicTablets -->
+	<!--1-->
+	<type name="TabletsAnalgin">
+        <nominal></nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+	</type>
+	<type name="TabletsNaiz">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+	</type>
+	<type name="TabletsAertal">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+	</type>
+	<type name="TabletsNimesil">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+	</type>
+	<type name="TabletsPentalgin">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+	</type>
+	<type name="TabletsMovalis">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+	</type>
+	<type name="TabletsCytramon">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+	</type>
+	<type name="TabletsParacetamol">
+        <nominal>10</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>8</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+	</type>
+	<type name="TabletsIbuprofen">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+	</type>
+	<type name="TabletsNurofen">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+	</type>
+	<!--2-->
+	<type name="TabletsTetracycline">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+	</type>
+	<type name="TabletsAmoksiklav">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+        <usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="TabletsAmpicylin">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+        <value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="TabletsPiperacylin">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+        <usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="TabletsTrihopol">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="TabletsCyprolet">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="TabletsAmoksivan">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+        <value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="TabletsAmibaktam">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+        <usage name="Military"/>
+	</type>
+	<type name="TabletsCharcoal">
+        <nominal>18</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>10</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+	</type>
+	<type name="TabletsMezimForte">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+	</type>
+	<!--3-->
+	<type name="TabletsZerukal">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="TabletsNifuroksazid">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="TabletsPolisorb">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="TabletsKarbopekt">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="TabletsEnterofuril">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="TabletsErsefuril">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="TabletsSalofalk">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="TabletsFtalazol">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="TabletsMesalazin">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="TabletsNoopept">
+        <nominal>20</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>12</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+	</type>
+	<!--4-->
+	<type name="TabletsVikasol">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+        <usage name="Military"/>
+	</type>
+	<type name="TabletsDycinon">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+        <usage name="Military"/>
+	</type>
+	<type name="TabletsIrovit">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="TabletsTardiferon">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="TabletsHeferol">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="TabletsSorbiferDurulis">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+        <usage name="Military"/>
+	</type>
+	<type name="TabletsPotassiumIodide">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="TabletsPotassiumHexacyanoferrate">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+        <usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="TabletsCystamine">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="TabletsB190">
+        <nominal>12</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<!--5-->
+	<type name="TabletsMexamine">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="TabletsAgteminol">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="TabletsAdepress">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="TabletsActaparoxetine">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="TabletsAmitriptyline">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="TabletsVenlafaxine">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Medic"/>
+	</type>
+	<!--MedicUsageKit-->
+	<type name="SyringeEmpty">
+        <nominal>50</nominal>
+        <lifetime>14400</lifetime>
+        <restock>2700</restock>
+        <min>40</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+        <usage name="Town"/>
+		<usage name="Military"/>
+        <usage name="Village"/>
+	</type>
+	<type name="SyringeFull">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="BandageHemostatic">
+        <nominal>20</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+	</type>
+	<type name="SleepingBag_Blue">
+        <nominal>0</nominal>
+        <lifetime>1</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Village"/>
+	</type>
+	<type name="SleepingBagPlaced_Blue">
+        <nominal>0</nominal>
+        <lifetime>38800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="SleepingBag_Woodland">
+        <nominal>0</nominal>
+        <lifetime>1</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+	</type>
+	    <type name="SleepingBagPlaced_Woodland">
+        <nominal>0</nominal>
+        <lifetime>38800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Stethoscope">
+        <nominal>15</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>8</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+    </type>
+	<type name="SurgicalKit">
+        <nominal>50</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>25</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="shelves"/>
+        <usage name="Medic"/>
+    </type>
+	<!--MedicContainers-->
+	<type name="MedContainerSmall">
+        <nominal>7</nominal>
+        <lifetime>28800</lifetime>
+        <restock>1800</restock>
+        <min>9</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="containers"/>
+        <tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+    </type>
+    <type name="MedContainerMedium">
+        <nominal>3</nominal>
+        <lifetime>28800</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="containers"/>
+        <tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Medic"/>
+    </type>
+    <type name="MedContainerLarge">
+        <nominal>3</nominal>
+        <lifetime>28800</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="shelves"/>
+		<tag name="floor"/>
+        <tag name="ground"/>
+		<usage name="Special"/>
+    </type>
+</types>

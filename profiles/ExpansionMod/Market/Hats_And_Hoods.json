@@ -1,0 +1,283 @@
+{
+    "m_Version": 12,
+    "DisplayName": "HATS, CAPS & HOODS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+		{
+            "ClassName": "zen_baseballcap_darkcamo",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "baseballcap_pink",
+                "baseballcap_blue",
+                "baseballcap_beige",
+                "baseballcap_red",
+                "baseballcap_cmmg_black",
+                "baseballcap_black",
+                "baseballcap_olive",
+                "baseballcap_camo",
+				"zen_baseballcap_camo",
+				"baseballcap_cmmg_pink"
+            ]
+        },
+        {
+            "ClassName": "prisonercap",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 5,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "pilotkacap",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "policecap",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "flatcap_blue",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "flatcap_red",
+                "flatcap_brown",
+                "flatcap_grey",
+                "flatcap_browncheck",
+                "flatcap_greycheck",
+                "flatcap_black",
+                "flatcap_blackcheck"
+            ]
+        },
+        {
+            "ClassName": "zmijovkacap_blue",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 5,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "zmijovkacap_brown",
+                "zmijovkacap_red",
+                "zmijovkacap_black",
+                "zmijovkacap_green"
+            ]
+        },
+        {
+            "ClassName": "radarcap_blue",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "radarcap_brown",
+                "radarcap_red",
+                "radarcap_black",
+                "radarcap_green"
+            ]
+        },
+        {
+            "ClassName": "medicalscrubshat_blue",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "medicalscrubshat_white",
+                "medicalscrubshat_green"
+            ]
+        },
+        {
+            "ClassName": "cowboyhat_brown",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 25,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "cowboyhat_black",
+                "cowboyhat_darkbrown",
+                "cowboyhat_green",
+                "expansioncowboyhatgator",
+                "expansioncowboyhatsnake",
+                "expansioncowboyhatrattlesnake"
+            ]
+        },
+        {
+            "ClassName": "militaryberet_chdkz",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 25,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "militaryberet_red",
+                "militaryberet_un",
+                "militaryberet_cdf",
+                "militaryberet_nz"
+            ]
+        },
+        {
+            "ClassName": "militaryberet_cdf",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militaryberet_nz",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "beaniehat_green",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "beaniehat_beige",
+                "beaniehat_blue",
+                "beaniehat_brown",
+                "beaniehat_grey",
+                "beaniehat_red",
+                "beaniehat_pink",
+                "beaniehat_black"
+            ]
+        },
+        {
+            "ClassName": "ushanka_black",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 25,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ushanka_blue",
+                "ushanka_green"
+            ]
+        },
+        {
+            "ClassName": "booniehat_blue",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "booniehat_navyblue",
+                "booniehat_orange",
+                "booniehat_red",
+                "booniehat_black",
+                "booniehat_tan",
+                "booniehat_olive",
+                "booniehat_dpm",
+                "booniehat_dubok",
+                "booniehat_flecktran"
+            ]
+        },
+        {
+            "ClassName": "officerhat",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 25,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "poncho_yellow_checkered",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 25,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"poncho_red_checkered",
+				"poncho_blue_checkered",
+				"poncho_white",
+				"poncho_brown",
+				"poncho_green",
+				"poncho_red",
+				"poncho_black",
+				"poncho_blackandwhite",
+				"poncho_blackandwhite2"
+			]
+        },
+		{
+			"ClassName": "Slouch_Hat_Brown",
+			"MaxPriceThreshold": 50,
+			"MinPriceThreshold": 50,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 5,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

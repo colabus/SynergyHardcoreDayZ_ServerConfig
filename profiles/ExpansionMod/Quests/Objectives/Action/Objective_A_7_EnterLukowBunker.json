@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 7,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Enter the Airfield Bunker",
+    "TimeLimit": 3600,
+    "Active": 1,
+    "ActionNames": [
+        "ActionEnterLukowBunker"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

@@ -1,0 +1,120 @@
+{
+    "m_Version": 12,
+    "DisplayName": "AMPOULES - TIER 4",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+		{
+            "ClassName": "AmpouleMeksidol",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleActovegin",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleNeiroks",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpoulePeklitakcel",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleNonacogAlpha",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleAminokaprolSulfat",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleVikasol",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleEtamzilat",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpoulePerftoran",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleMaltofer",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

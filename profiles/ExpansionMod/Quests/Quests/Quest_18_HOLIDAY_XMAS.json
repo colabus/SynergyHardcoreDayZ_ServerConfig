@@ -1,0 +1,95 @@
+{
+    "ConfigVersion": 22,
+    "ID": 18,
+    "Type": 1,
+    "Title": "Santa's Slay",
+    "Descriptions": [
+        "Sebastian: I don't wanna be no grinch, but we've had reports of unusually strong zombies appearing all over Livonia - and they're dressed like Santa Clause. If you do your part to keep Livonia safe by killing at least one of these jolly bastards every day, I'll give you a little present for the trouble. There's some pretty good stuff in my collection - you never know what you'll get.",
+        "Sebastian: I don't wanna be no grinch, but we've had reports of unusually strong zombies appearing all over Livonia - and they're dressed like Santa Clause. If you do your part to keep Livonia safe by killing at least one of these jolly bastards every day, I'll give you a little present for the trouble. There's some pretty good stuff in my collection - you never know what you'll get.",
+        "Sebastian: Looks like you'll be getting coal for Christmas. Thanks survivor, come back tomorrow if you want to kill another one for another gift."
+    ],
+    "ObjectiveText": "Kill Santa",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "GiftBox_Large_1",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "GiftBox_Large_2",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "GiftBox_Large_3",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "GiftBox_Large_4",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 1,
+    "RandomRewardAmount": 1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        1,
+		2
+    ],
+    "QuestTurnInIDs": [
+        1,
+		2
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 5,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": -30208,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        3
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

@@ -1,0 +1,8 @@
+{
+    "CONFIG_VERSION": "1",
+    "ForgetTimeSecs": 7889400,
+    "GuardAngryTimeMurderSecs": 1209600,
+    "GuardsAngryTimeGunAssaultSecs": 86400,
+    "GuardsAngryTimeMeleeAssaultSecs": 3600,
+    "NaughtyPlayers": []
+}

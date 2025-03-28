@@ -1,0 +1,109 @@
+{
+    "ConfigVersion": 22,
+    "ID": 41,
+    "Type": 1,
+    "Title": "Prison Break",
+    "Descriptions": [
+        "Sebastian: We just received word that an ally of ours, Doctor Mobius, has been captured. The Yellow King Bandit remnants have him locked in a cell at Lukow airfield in a bunker beneath the radiated evacuation zone. We hear he's being tortured for information on how to weaponize the virus - please, there isn't much time - we need you to rescue him within the hour. I know you're a mercenary, so don't worry - you'll be rewarded for the job. These guys are ex-special forces, and it's dark down there - you'll need to be well-prepared. Don't forget to wear NBC gear.",
+        "Sebastian: We just received word that an ally of ours, Doctor Mobius, has been captured. The Yellow King Bandit remnants have him locked in a cell at Lukow airfield in a bunker beneath the radiated evacuation zone. We hear he's being tortured for information on how to weaponize the virus - please, there isn't much time - we need you to rescue him within the hour. I know you're a mercenary, so don't worry - you'll be rewarded for the job. These guys are ex-special forces, and it's dark down there - you'll need to be well-prepared. Don't forget to wear NBC gear.",
+        "Sebastian: Dependable as usual. Thanks, survivor. You saved god knows how many lives. Here's your payment."
+    ],
+    "ObjectiveText": "Rescue Dr Mobius.",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionSilverBar",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "HDSN_BreachingChargeHeavy",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "HDSN_BreachingCharge",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 1,
+    "RandomRewardAmount": 1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        2
+    ],
+    "QuestTurnInIDs": [
+        2
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 7,
+            "ObjectiveType": 10
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 5,
+            "ObjectiveType": 8
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 8,
+            "ObjectiveType": 10
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 9,
+            "ObjectiveType": 10
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 9,
+            "ObjectiveType": 10
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 2,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        3
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

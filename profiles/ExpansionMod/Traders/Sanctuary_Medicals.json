@@ -1,0 +1,33 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_MEDICALS",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": 3,
+    "TraderIcon": "Medic Box",
+    "Currencies": [
+        "nail"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Medical:0",
+        "Syberia_Advanced",
+        "Syberia_Tradeables",
+        "Syberia_Ampoules_Tier1",
+        "Syberia_Ampoules_Tier2",
+        "Syberia_Ampoules_Tier3",
+        "Syberia_Ampoules_Tier4",
+        "Syberia_Ampoules_Tier5",
+        "Syberia_Tablets_Tier1",
+        "Syberia_Tablets_Tier2",
+        "Syberia_Tablets_Tier3",
+        "Syberia_Tablets_Tier4",
+        "Syberia_Tablets_Tier5",
+        "Syberia_Injectors",
+        "Marijuana:2",
+        "Exchange"
+    ],
+    "Items": {}
+}

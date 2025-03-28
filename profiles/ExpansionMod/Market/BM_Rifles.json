@@ -1,0 +1,76 @@
+{
+    "m_Version": 12,
+    "DisplayName": "WEAPONS - RIFLES",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+        {
+            "ClassName": "izh18",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ruger1022",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "repeater",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "sks",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansion_m1a",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 180,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "m14",
+            "MaxPriceThreshold": 280,
+            "MinPriceThreshold": 240,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

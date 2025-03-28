@@ -1,0 +1,27 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": 3,
+    "TraderIcon": "Backpack",
+    "Currencies": [
+        "nail"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Helmets:0",
+        "Hats_And_Hoods:0",
+        "Backpacks:0",
+        "Eyewear:0",
+        "Gloves:0",
+        "Masks:0",
+        "Vests:0",
+        "Belts:0",
+        "Armbands:0",
+        "Exchange"
+    ],
+    "Items": {}
+}

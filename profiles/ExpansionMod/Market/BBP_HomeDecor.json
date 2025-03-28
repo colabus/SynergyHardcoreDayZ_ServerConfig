@@ -1,0 +1,98 @@
+{
+    "m_Version": 12,
+    "DisplayName": "HOME DECOR",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+        {
+            "ClassName": "BBP_Carpet_1",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_Carpet_2",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_Plaster_1",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_Plaster_2",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_WallPaper_1",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_WallPaper_2",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_WallPaper_Mural_1",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_WallPaper_Mural_2",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

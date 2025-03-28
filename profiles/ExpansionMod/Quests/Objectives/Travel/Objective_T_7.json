@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 7,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Investigate Hedrykow Prison",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        4469.330078125,
+        283.09600830078127,
+        4814.509765625
+    ],
+    "MaxDistance": 2.0,
+    "MarkerName": "Investigate Hedrykow Prison",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

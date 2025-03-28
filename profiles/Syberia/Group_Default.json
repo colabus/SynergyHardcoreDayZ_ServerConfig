@@ -1,0 +1,173 @@
+{
+  "m_spawnpoints": [
+    {
+      "m_name": "Livonia",
+      "m_positions": [
+        {
+          "m_pos": [
+            2881.25,
+            0.0,
+            10312.5
+          ],
+          "m_radius": 600.0
+        },
+        {
+          "m_pos": [
+            5159.38,
+            0.0,
+            11650.0
+          ],
+          "m_radius": 1000.0
+        },
+        {
+          "m_pos": [
+            7206.25,
+            0.0,
+            12112.5
+          ],
+          "m_radius": 500.0
+        },
+        {
+          "m_pos": [
+            9612.5,
+            0.0,
+            12234.38
+          ],
+          "m_radius": 500.0
+        },
+        {
+          "m_pos": [
+            8471.88,
+            0.0,
+            12365.62
+          ],
+          "m_radius": 400.0
+        },
+        {
+          "m_pos": [
+            10831.25,
+            0.0,
+            12018.75
+          ],
+          "m_radius": 450.0
+        },
+        {
+          "m_pos": [
+            12162.5,
+            0.0,
+            12040.62
+          ],
+          "m_radius": 600.0
+        },
+        {
+          "m_pos": [
+            1003.12,
+            0.0,
+            12081.25
+          ],
+          "m_radius": 500.0
+        },
+        {
+          "m_pos": [
+            1306.25,
+            0.0,
+            10356.25
+          ],
+          "m_radius": 500.0
+        },
+        {
+          "m_pos": [
+            2556.25,
+            0.0,
+            11953.13
+          ],
+          "m_radius": 500.0
+        },
+        {
+          "m_pos": [
+            1820.31,
+            0.0,
+            8914.06
+          ],
+          "m_radius": 500.0
+        }
+      ]
+    }
+  ],
+  "m_gearBody": [
+    "TShirt_Black; H0.5",
+    "TShirt_Beige; H0.5",
+    "TShirt_Blue; H0.5",
+    "TShirt_Green; H0.5",
+    "TShirt_White; H0.5",
+    "TShirt_Grey; H0.5",
+    "TShirt_Red; H0.5",
+    "TShirt_OrangeWhiteStripes; H0.5",
+    "TShirt_RedBlackStripes; H0.5"
+  ],
+  "m_gearPants": [
+    "CanvasPantsMidi_Beige; H0.5",
+    "CanvasPantsMidi_Blue; H0.5",
+    "CanvasPantsMidi_Grey; H0.5",
+    "CanvasPantsMidi_Red; H0.5",
+    "CanvasPantsMidi_Violet; H0.5"
+  ],
+  "m_gearFoot": [
+    "AthleticShoes_Black; H0.5",
+    "AthleticShoes_Blue; H0.5",
+    "AthleticShoes_Brown; H0.5",
+    "AthleticShoes_Green; H0.5",
+    "AthleticShoes_Grey; H0.5",
+    "FlipFlops_Colorbase; H0.5"
+  ],
+  "m_gearHead": [],
+  "m_gearMask": [],
+  "m_gearGloves": [],
+  "m_gearVest": [],
+  "m_gearBackpack": [],
+  "m_gearWeapon": [],
+  "m_gearItems": [
+    {
+      "m_name": "Spawn With Compass",
+      "m_items": [
+        "Roadflare",
+        "Rag; Q4",
+        "Matchbox; Q23",
+        "SodaCan_Pipsi",
+        "BakedBeansCan",
+        "SmallStone",
+        "Compass; H0.1",
+        "TabletsParacetamol",
+        "BookLivoniaGuide"
+      ]
+    },
+    {
+      "m_name": "Spawn With Map",
+      "m_items": [
+        "Roadflare",
+        "Rag; Q4",
+        "Matchbox; Q23",
+        "SodaCan_Pipsi",
+        "BakedBeansCan",
+        "SmallStone",
+        "ChernarusMap; H0.1",
+        "TabletsParacetamol",
+        "BookLivoniaGuide"
+      ]
+    },
+    {
+      "m_name": "Spawn With Heatpack",
+      "m_items": [
+        "Roadflare",
+        "Rag; Q4",
+        "Matchbox; Q23",
+        "SodaCan_Pipsi",
+        "BakedBeansCan",
+        "SmallStone",
+        "Heatpack",
+        "TabletsParacetamol",
+        "BookLivoniaGuide"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+    "QuestRewards": [
+        "EyeMask_ZenRabbit"
+    ],
+    "PlayerRaresList": [
+        {
+            "SteamID": "76561197983963610",
+            "SpawnItems": [
+                "eyemask_zenrabbit_black"
+            ]
+        },
+        {
+            "SteamID": "76561198008931773",
+            "SpawnItems": [
+                "eyemask_zenrabbit_black"
+            ]
+        }
+    ]
+}

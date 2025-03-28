@@ -1,0 +1,139 @@
+{
+    "m_Version": 12,
+    "DisplayName": "CLOTHING - MILITARY ARMOUR",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+        {
+            "ClassName": "PlateCarrierVest",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"PlateCarrierVest_Black",
+				"PlateCarrierVest_Green",
+				"PlateCarrierVest_Camo",
+				"PlateCarrierVest_Winter",
+				"Zen_PlateCarrierVest_Desert_Camo",
+				"Zen_PlateCarrierVest_Wood_Camo",
+				"Zen_PlateCarrierVest_Black_Camo"
+			]
+        },
+		{
+            "ClassName": "Defender_Vest_Classic",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Defender_Vest_Green",
+				"Defender_Vest_Black"
+			]
+        },
+		{
+            "ClassName": "PlateCarrierHolster",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"PlateCarrierHolster_Black",
+				"PlateCarrierHolster_Green",
+				"PlateCarrierHolster_Camo",
+				"Zen_PlateCarrierHolster_Desert_Camo",
+				"Zen_PlateCarrierHolster_Wood_Camo",
+				"Zen_PlateCarrierHolster_Black_Camo",
+				"PlateCarrierHolster_Spur_Green",
+				"PlateCarrierHolster_Spur_Tan",
+				"PlateCarrierHolster_Spur_Black",
+				"PlateCarrierHolster_Spur_WoodlandCamo",
+				"PlateCarrierHolster_Spur_MultiCamo",
+				"PlateCarrierHolster_Spur_WinterCamo"
+			]
+        },
+		{
+            "ClassName": "PlateCarrierPouches",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"PlateCarrierPouches_Camo",
+				"Zen_PlateCarrierPouches_Black",
+				"Zen_PlateCarrierPouches_Green",
+				"Zen_PlateCarrierPouches_Desert_Camo",
+				"Zen_PlateCarrierPouches_Wood_Camo",
+				"Zen_PlateCarrierPouches_Black_Camo"
+			]
+        },
+		{
+            "ClassName": "BallisticHelmet_UN",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"BallisticHelmet_Green",
+				"BallisticHelmet_Black"
+			]
+        },
+		{
+            "ClassName": "GorkaHelmet",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"GorkaHelmet_Green",
+				"GorkaHelmet_Black"
+			]
+        },
+		{
+            "ClassName": "GorkaHelmetVisor",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "Mich2001Helmet",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 75,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Zen_Mich2001Helmet_Black",
+				"Zen_Mich2001Helmet_Camo",
+				"Zen_Mich2001Helmet_DarkCamo"
+			]
+        }
+    ]
+}

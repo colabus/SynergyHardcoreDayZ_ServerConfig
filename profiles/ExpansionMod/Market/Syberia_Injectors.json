@@ -1,0 +1,120 @@
+{
+    "m_Version": 12,
+    "DisplayName": "INJECTORS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+		{
+            "ClassName": "InjectorPromedol",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "InjectorZivirol",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "InjectorTopoizomeraza",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "InjectorErytropoenin",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "InjectorNeiroks",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "InjectorAmoksivan",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "InjectorKetorol",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "InjectorEpipen",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "InjectorNovichek",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "InjectorRadioprotector",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

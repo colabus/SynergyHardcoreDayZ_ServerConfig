@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 8,
+    "ClassName": "ExpansionQuestNPCManua",
+    "Position": [
+        5637.691406,
+		180.927094,
+		10620.022461
+    ],
+    "Orientation": [
+        136.0,
+        0.0,
+        0.0
+    ],
+    "NPCName": "Hans",
+    "DefaultNPCText": "Hmm?",
+    "Waypoints": [],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "Quest_HansSanctuaryLoadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 0,
+    "Active": 1
+}

@@ -1,0 +1,3606 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<!-- Proxy objects -->
+	<type name="ZenProxySink">
+        <lifetime>604800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenProxySearchDummy">
+        <lifetime>57600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	
+	<!-- Ice sheets -->
+	<type name="Land_ZenIceSheet_4x4_Hole">
+        <lifetime>604800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+
+	<!-- Discord raid alarm -->
+	<type name="Zen_RaidAlarmStation">
+        <lifetime>1209600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_RaidAlarmRadar">
+        <lifetime>1209600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_RaidAlarmStationKit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_RaidAlarmRadarKit">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+		<value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+	
+	<type name="ZenFlint">
+		<nominal>10</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>75</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="Hunting"/>
+	</type>
+
+	<type name="Zen_SambucusBerry">
+        <lifetime>3600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_CaninaBerry">
+        <lifetime>3600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_SambucusBerry_Poison">
+        <lifetime>3600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_CaninaBerry_Poison">
+        <lifetime>3600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+
+	<type name="ZenMapUnfolded">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_CraftableMap">
+        <lifetime>1209600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_CraftableMapKit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenHumanSkull">
+        <lifetime>86400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	
+	<!-- Rabbit mask -->
+	<type name="EyeMask_ZenRabbit_Black">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="EyeMask_ZenRabbit_Blue">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="EyeMask_ZenRabbit_Pink">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="EyeMask_ZenRabbit_Green">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	
+	<!-- Wolf mask -->
+	<type name="ZenWolfMask">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenWolfMask_Black">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenWolfMask_Hyena">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenWolfMask_Contaminated">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	
+	<!-- Runes -->
+	<type name="ZenRune_Air">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenRune_Body">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenRune_Chaos">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenRune_Cosmic">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenRune_Earth">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenRune_Fire">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenRune_Law">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenRune_Mind">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenRune_Nature">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenRune_Water">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	
+	<type name="ZenRaybans_Black">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="clothes"/>
+        <tag name="shelves"/>
+		<usage name="Military"/>
+    </type>
+	<type name="ZenRaybans_Red">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenRaybans_Blue">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenRaybans_Green">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	
+	<type name="ZenLogBag_Yellow">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>3600</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Farm"/>
+    </type>
+	
+	<!-- Swiss knife -->
+	<type name="ZenSwissKnife">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>3600</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Hunting"/>
+		<value name="Tier3"/>
+    </type>
+	<type name="ZenSwissKnife_CanOpener">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenSwissKnife_Knife">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenSwissKnife_Lockpick">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenSwissKnife_Scissors">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenSwissKnife_Screwdriver">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenSwissKnife_SmallSaw">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	
+	<type name="Iceaxe">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+    </type>
+
+	<type name="WinterStash">
+        <lifetime>1209600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<!-- Is this required? -->
+	<type name="Land_Misc_Polytunnel">
+		<lifetime>9999999</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<!-- Mission objects -->
+	<type name="ZenCasinoChips">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenCasinoChips_Red">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_Mission_MediumTent">
+        <lifetime>3600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_MissionCar_1">
+        <lifetime>3600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenMission_Wreck_C130J">
+        <lifetime>3600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenMission_Wreck_Heli">
+        <lifetime>3600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenMission_Wreck_Hummer">
+        <lifetime>3600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="NailBox_250">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Flag_ZenYellowKing">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Armband_DoubleZenYellowKing">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Armband_ZenLoneWolf">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Armband_ZenLoneWolfBlack">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="NailBox_1k">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="NailBox_2k">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="NailBox_5k">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_ExpansionMilitaryCargo_Contam">
+        <lifetime>604800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_ExpansionMilitaryCargo">
+        <lifetime>604800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_QuickieBow">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="MilitaryBoots_BlackPunk">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="floor"/>
+        <usage name="Military"/>
+    </type>
+	
+	
+	<!-- Black knives -->
+	<type name="HuntingKnife_Black">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Hunting"/>
+		<value name="Tier3"/>
+    </type>
+	<type name="AK_Bayonet_Black">
+        <nominal>3</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+	<type name="M9A1_Bayonet_Black">
+        <nominal>3</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+	
+	<!-- Lazer sight -->
+	<type name="mm_DBALI2_Red">
+		<nominal>6</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+	</type>
+	<!-- Camo net shelter -->
+	<type name="Zen_ImprovisedShelter">
+        <lifetime>1209600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_CamoShelterKit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<!-- Marijuana -->
+	<type name="CannabisSeedsPack">
+        <nominal>8</nominal>
+        <lifetime>14400</lifetime>
+        <restock>10800</restock>
+        <min>6</min>
+        <quantmin>80</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <usage name="Farm"/>
+        <usage name="Police"/>
+    </type>
+	<type name="Cannabis">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="CannabisSeeds">
+        <nominal>8</nominal>
+        <lifetime>14400</lifetime>
+        <restock>7200</restock>
+        <min>6</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <usage name="Farm"/>
+        <usage name="Police"/>
+    </type>
+	<!-- Quiver -->
+	<type name="ZenQuiver">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>0</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Hunting"/>
+    </type>
+	<!-- workbench -->
+	<type name="Zen_CarWorkbench">
+        <lifetime>1209600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_CarWorkbenchKit">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools" />
+		<tag name="floor"/>
+		<usage name="Industrial" />
+    </type>
+	<!-- Viking axe -->
+	<type name="Zen_VikingAxe">
+		<nominal>20</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>12</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
+    </type>
+	<!-- Chess -->
+	<type name="Zen_ChessBoard">
+		<nominal>3</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="Zen_ChessBoard_Static">
+		<lifetime>9999999</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="Zen_ChessWhitePawn">
+        <lifetime>3600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_ChessBlackPawn">
+        <lifetime>3600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_ChessWhiteBishop">
+        <lifetime>3600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_ChessBlackBishop">
+        <lifetime>3600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_ChessWhiteKing">
+        <lifetime>3600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_ChessBlackKing">
+        <lifetime>3600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_ChessWhiteKnight">
+        <lifetime>3600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_ChessBlackKnight">
+        <lifetime>3600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_ChessWhiteQueen">
+        <lifetime>3600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_ChessBlackQueen">
+        <lifetime>3600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_ChessWhiteRook">
+        <lifetime>3600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_ChessBlackRook">
+        <lifetime>3600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<!-- Tire rack -->
+	<type name="Zen_TireRack">
+        <lifetime>1209600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<!-- Flags -->
+	<type name="Flag_Aboriginal">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+    </type>
+	<type name="Armband_Aboriginal">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<!-- Zenvirus -->
+	<type name="Zen_Virus_Cure_Microscope_Static">
+		<lifetime>9999999</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_Virus_Cure_Petridish"> <!-- Cures the virus -->
+        <nominal>25</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Medic"/>
+    </type>
+	<type name="Zen_Virus_Brain"> <!-- Cures the virus -->
+        <lifetime>14400</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenGraves_DeadPlayerCross">
+        <lifetime>259200</lifetime>
+    </type>
+	<type name="ZenGraves_UndergroundStash">
+        <lifetime>259200</lifetime>
+    </type>
+	<type name="ZenGraves_DeadPlayerSkeleton">
+        <lifetime>14400</lifetime>
+    </type>
+	<type name="TradingFlag">
+        <lifetime>9999999</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="TraderFlag">
+        <lifetime>9999999</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<!-- Alkaline battery -->
+	<type name="Battery9vLithium">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Industrial"/>
+        <usage name="Village"/>
+    </type>
+	<!-- Beers -->
+	<type name="Fraochan">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="BlackGroat">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="AuldBroon">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Laboureuse">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Boilermaker">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="PilgrimsPale">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Handfasted">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="CreuseWit">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Forgeronne">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Caoranach">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="BeerCan_XXXX">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+		<restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="BeerCan_VB">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+		<restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="BeerCan_Corona">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+		<restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<!-- Empty beers -->
+	<type name="Empty_Fraochan">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Empty_BlackGroat">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Empty_AuldBroon">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Empty_Boilermaker">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Empty_PilgrimsPale">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Empty_Handfasted">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Empty_CreuseWit">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Empty_Forgeronne">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Empty_Caoranach">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Empty_BeerCan_XXXX">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Empty_BeerCan_VB">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Empty_BeerCan_Corona">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<!-- Painted guns -->
+	<type name="Winchester70_Black">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Hunting"/>
+		<usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+	<type name="Winchester70_Green">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Hunting"/>
+		<usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+	<!-- Camonet ghillie -->
+	<type name="Zen_CamoNet_GhillieSuit">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Zen_CamoNet_GhillieHood">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Zen_CamoNet_GhillieTop">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Zen_CamoNet_GhillieBushrag">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Zen_CamoNet_GhillieAtt">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Zen_CamoNet_Strip">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_WinterCamoNet_GhillieSuit">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Zen_WinterCamoNet_GhillieHood">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Zen_WinterCamoNet_GhillieTop">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Zen_WinterCamoNet_GhillieAtt">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Zen_WinterCamoNet_Strip">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="1" deloot="0"/>
+    </type>
+	<!-- Artillery strike grenade -->
+    <type name="Zen_ArtillerySmokeGrenade">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Zen_ArtillerySmokeGrenadeChem">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+		<usage name="ContaminatedArea"/>
+    </type>
+	<type name="Zen_DexBottle">
+        <nominal>12</nominal>
+        <lifetime>14400</lifetime>
+        <restock>3600</restock>
+        <min>6</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Medic"/>
+    </type>
+	
+	<!-- Sleeping bags -->
+	<type name="ZenSleepingBagBlack_Packed">
+		<nominal>5</nominal>
+		<min>4</min>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<usage />
+		<value />
+		<category name="clothes" />
+	</type>
+	<type name="ZenSleepingBagBlue_Packed">
+		<nominal>5</nominal>
+		<min>4</min>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<usage />
+		<value />
+		<category name="clothes" />
+	</type>
+	<type name="ZenSleepingBagGrey_Packed">
+		<nominal>5</nominal>
+		<min>4</min>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<usage />
+		<value />
+		<category name="clothes" />
+	</type>
+	<type name="ZenSleepingBagRed_Packed">
+		<nominal>5</nominal>
+		<min>4</min>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<usage />
+		<value />
+		<category name="clothes" />
+	</type>
+	<type name="ZenSleepingBagGreen_Packed">
+		<nominal>5</nominal>
+		<min>4</min>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<usage />
+		<value />
+		<category name="clothes" />
+	</type>
+	
+	<!-- Deployed -->
+	<type name="ZenSleepingBagBlack_Deployed">
+		<lifetime>604800</lifetime> <!-- 1 week -->
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="1" deloot="0" />
+	</type>
+	<type name="ZenSleepingBagBlue_Deployed">
+		<lifetime>604800</lifetime> <!-- 1 week -->
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="1" deloot="0" />
+	</type>
+	<type name="ZenSleepingBagGrey_Deployed">
+		<lifetime>604800</lifetime> <!-- 1 week -->
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="1" deloot="0" />
+	</type>
+	<type name="ZenSleepingBagRed_Deployed">
+		<lifetime>604800</lifetime> <!-- 1 week -->
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="1" deloot="0" />
+	</type>
+	<type name="ZenSleepingBagGreen_Deployed">
+		<lifetime>604800</lifetime> <!-- 1 week -->
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="1" deloot="0" />
+	</type>
+
+	<!-- Camo plate carrier -->
+	<type name="PlateCarrierHolster_Camo">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+	<type name="PlateCarrierPouches_Camo">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+	<type name="PlateCarrierVest_Camo">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+	<!-- BASEBUILDING START -->
+	<type name="MoreDoorSmall">
+        <lifetime>1209600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="MoreDoorSmallMetal">
+        <lifetime>1209600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="MoreDoorBarricade">
+        <lifetime>1209600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="MoreDoorMetalBarricade">
+        <lifetime>1209600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Fence">
+        <lifetime>1209600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<!-- Kits -->
+    <type name="FenceKit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="MoreDoorSmallKit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="MoreDoorBarricadeKit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="New_Candle">
+        <nominal>12</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+    </type>
+	<type name="HumanBone">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	
+	<!-- Tent bags -->
+	<type name="TentBag_Orel">
+		<nominal>2</nominal>
+		<min>2</min>
+		<lifetime>28800</lifetime>
+		<restock>7200</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<usage />
+		<category name="containers"/>
+        <usage name="Hunting"/>
+	</type>
+	<type name="TentBag_Camo">
+		<nominal>2</nominal>
+		<min>1</min>
+		<lifetime>28800</lifetime>
+		<restock>7200</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers"/>
+        <usage name="Hunting"/>
+		<value name="Tier3" />
+	</type>
+	<type name="TentBag">
+		<nominal>2</nominal>
+		<min>2</min>
+		<lifetime>28800</lifetime>
+		<restock>7200</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers"/>
+        <usage name="Hunting"/>
+	</type>
+	<type name="LargeTentBackpack">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+	</type>
+	
+	<!-- Cat shirts -->
+	<type name="Zen_Shirt_HunterCat">
+		<nominal>3</nominal>
+		<min>1</min>
+		<lifetime>300</lifetime>
+		<restock>0</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<usage />
+		<value />
+		<category name="clothes" />
+	  </type>
+	  <type name="Zen_Shirt_PharaohCat">
+		<nominal>3</nominal>
+		<min>1</min>
+		<lifetime>300</lifetime>
+		<restock>0</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<usage />
+		<value />
+		<category name="clothes" />
+	  </type>
+	  <type name="Zen_Shirt_BothCat">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>300</lifetime>
+		<restock>0</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="1" />
+		<usage />
+		<value />
+		<category name="clothes" />
+	</type>
+	
+	<type name="Pen_Pink">
+        <nominal>6</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+    </type>
+    <type name="Pen_Purple">
+        <nominal>6</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+    </type>
+    <type name="Pen_Orange">
+        <nominal>6</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+    </type>
+	<type name="Pen_Black">
+        <nominal>12</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+    </type>
+    <type name="Pen_Blue">
+        <nominal>12</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+    </type>
+    <type name="Pen_Green">
+        <nominal>12</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+    </type>
+    <type name="Pen_Red">
+        <nominal>12</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+    </type>
+	<!-- Zen fire barrel can't be picked up -->
+	<type name="Zen_BarrelHoles_Red">
+		<lifetime>9999999</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_EternalFireplace">
+		<lifetime>9999999</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="1" deloot="0"/>
+    </type>
+	<!-- Mission Storage containers -->
+	<type name="Zen_Mission_WoodenCrate">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_Mission_SeaChest">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_PlateCarrierVest_Police">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="clothes"/>
+        <usage name="Police"/>
+    </type>
+	<!-- Colored bandanas -->
+	<type name="Bandana_Yellow">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+    </type>
+	<type name="Bandana_Pink">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+    </type>
+	<type name="Bandana_Blue">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+    </type>
+	<!-- Written notes -->
+	<type name="ZenNote">
+        <lifetime>5260000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<!-- Concussion grenade -->
+	<type name="Zen_ConcussionGrenade">
+        <nominal>10</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="explosives"/>
+        <usage name="Military"/>
+    </type>
+
+	<!-- Infected animals -->
+	<type name="InfectedWolfMeat">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	
+	<!-- Cigarettes -->
+	<type name="CigarettePack_Chernamorka">
+        <nominal>6</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>5</min>
+        <quantmin>5</quantmin>
+        <quantmax>75</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="CigarettePack_Merkur">
+        <nominal>6</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>5</min>
+        <quantmin>5</quantmin>
+        <quantmax>75</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="CigarettePack_Partyzanka">
+        <nominal>6</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>5</min>
+        <quantmin>5</quantmin>
+        <quantmax>75</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Cigarette">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Cigarette_Butt">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	
+	<!-- Zippo -->
+	<type name="ZenZippoLighter">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+    </type>
+	<type name="ZenZippoLighter_Peace">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+    </type>
+	<type name="ZenZippoLighter_Anarchy">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+    </type>
+	<type name="ZenZippoLighter_Zenarchist">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+    </type>
+	
+	<!-- Alcohol spirits -->
+	<type name="ZenFlask">
+        <nominal>6</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>5</min>
+        <quantmin>90</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+		<usage name="Military"/>
+    </type>
+	<type name="Empty_ZenFlask">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="ZenJameson">
+        <nominal>6</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>5</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Empty_ZenJameson">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Vodka">
+        <nominal>6</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>5</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+		<usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Empty_Vodka">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	
+	<!-- Solar panel -->
+	<type name="RFSolarPanel">
+		<lifetime>1209600</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="RFSolarPanelKit">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools" />
+		<tag name="floor"/>
+		<usage name="Military" />
+		<usage name="Industrial" />
+		<value name="Tier3" />
+	</type>
+	<type name="RF_helipad_kit">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools" />
+		<tag name="floor"/>
+		<usage name="Military" />
+		<usage name="Industrial" />
+		<value name="Tier3" />
+	</type>
+	<type name="rf_helipad">
+		<lifetime>1209600</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+
+	<!-- Black hunting outfit -->
+	<type name="Zen_HuntingJacket_Black">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Hunting"/>
+        <value name="Tier3"/>
+    </type>
+	<type name="Zen_HunterPants_Black">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Hunting"/>
+        <value name="Tier3"/>
+    </type>
+	
+	<!-- Paint & Dye -->
+    <type name="Spraycan_Black">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+		<usage name="Industrial"/>
+    </type>
+	<type name="Spraycan_Green">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+		<usage name="Industrial"/>
+    </type>
+	<type name="Zen_Dye_Black">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+		<usage name="Industrial"/>
+    </type>
+	<type name="Zen_Dye_Green">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+		<usage name="Industrial"/>
+    </type>
+	<type name="Zen_Dye_White">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+		<usage name="Industrial"/>
+    </type>
+	<type name="Zen_AliceBag_Winter">
+        <nominal>3</nominal>
+        <lifetime>28800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="containers"/>
+        <usage name="Military"/>
+    </type>
+
+	<!-- Snow ghillie -->
+    <type name="Zen_GhillieAtt_Winter">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+    <type name="Zen_GhillieBushrag_Winter">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+    <type name="Zen_GhillieHood_Winter">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+    <type name="Zen_GhillieSuit_Winter">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+    <type name="Zen_GhillieTop_Winter">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	
+	<!-- Custom animals -->
+	<type name="Animal_ZenUrsusMaritimus">
+        <lifetime>1800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="Animal_ZenUrsusMaritimusRed">
+        <lifetime>1800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="BearPelt_Polar">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="BearPelt_PolarRed">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="Animal_ContaminatedBear">
+        <lifetime>1800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="Animal_ZenUrsusArctosRed">
+        <lifetime>1800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="Animal_ZenUrsusArctosBlack">
+        <lifetime>1800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="BearPelt_Black">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	
+	<type name="Animal_VulpesVulpes">
+        <lifetime>1800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="FoxPelt">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="FoxMeat">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	
+	<type name="Animal_CanisLupus_Black">
+        <lifetime>1800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="BlackWolfPelt">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	
+	<type name="Animal_CanisLupus_Brown">
+        <lifetime>1800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="BrownWolfPelt">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	
+	<type name="Animal_ContaminatedBear">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="RadioactiveBearPelt">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="RadioactiveBearMeat">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	
+	<type name="Animal_ContaminatedWolf">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="RadioactiveWolfPelt">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="RadioactiveWolfMeat">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	
+	<type name="Animal_CanisPestis">
+        <lifetime>1800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="InfectedWolfMeat">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="InfectedWolfPelt">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	
+	<type name="Zen_PoliceVest_Orel">
+        <nominal>7</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Police"/>
+    </type>
+	<type name="Zen_HuntingVest_Black">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Hunting"/>
+    </type>
+	
+	
+	<!-- Custom Zenarchist clothing -->
+	<type name="Zen_BaseballCap_Zenarchist"> <!-- heli loot -->
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="ContaminatedArea"/>
+    </type>
+	<type name="Zen_Mich2001Helmet_Zenarchist"> <!-- heli loot -->
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="ContaminatedArea"/>
+    </type>
+	<type name="Zen_TacticalShirt_Zenarchist"> <!-- heli loot -->
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+	
+	<!-- Custom press vests -->
+	<type name="Zen_PressVest_Green_Camo">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+	<type name="Zen_PressVest_Black_Camo">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+	
+	<!-- Custom plate carriers -->
+	<type name="Zen_PlateCarrierVest_Desert_Camo">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="clothes"/>
+        <tag name="shelves"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="Zen_PlateCarrierHolster_Desert_Camo">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="shelves"/>
+        <usage name="Military"/>
+    </type>
+    <type name="Zen_PlateCarrierPouches_Desert_Camo">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Zen_PlateCarrierVest_Wood_Camo">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="Zen_PlateCarrierHolster_Wood_Camo">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="shelves"/>
+        <usage name="Military"/>
+    </type>
+    <type name="Zen_PlateCarrierPouches_Wood_Camo">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Zen_PlateCarrierVest_Black_Camo">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="Zen_PlateCarrierHolster_Black_Camo">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="shelves"/>
+        <usage name="Military"/>
+    </type>
+    <type name="Zen_PlateCarrierPouches_Black_Camo">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	
+	
+	<!-- Custom Shirts -->
+	<type name="Zen_TacticalShirt_Black_Australia"> <!-- heli loot -->
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+	<type name="Zen_TacticalShirt_Olive_Australia">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+	<type name="Zen_TacticalShirt_Tan_Australia">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+	
+	<!-- Custom backpack bags -->
+	<type name="Zen_HuntingBag_Brown">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Hunting"/>
+    </type>
+	<type name="Zen_HuntingBag_Blue">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Hunting"/>
+    </type>
+	<type name="Zen_HuntingBag_Camo">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Hunting"/>
+    </type>
+	<type name="Zen_HuntingBag_Teal">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Hunting"/>
+    </type>
+	
+	<!-- Custom hats -->
+	<type name="BaseballCap_Winter">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Hunting"/>
+    </type>
+	<type name="Zen_BaseballCap_Camo">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Hunting"/>
+    </type>
+	<type name="Zen_BaseballCap_DarkCamo">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Hunting"/>
+    </type>
+	
+	<!-- Custom helmets -->
+	<type name="BallisticHelmet_Winter">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Zen_Mich2001Helmet_Black">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+	<type name="Zen_Mich2001Helmet_Camo">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+	<type name="Zen_Mich2001Helmet_DarkCamo">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+	
+	<!-- Dyed items -->
+	<type name="Ushanka_Winter">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+    </type>
+	<type name="RadarCap_Winter">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+    </type>
+	<type name="Zen_PressVest_Winter">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Zen_PressVest_Black">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Zen_PressVest_Green">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Zen_HuntingBag_Black">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Hunting"/>
+    </type>
+	<type name="Zen_HuntingBag_Green">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Hunting"/>
+    </type>
+	<type name="Zen_HuntingBag_Winter">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Hunting"/>
+    </type>
+	<type name="Zen_MountainBag_Black">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+    </type>
+	<type name="Zen_MountainBag_DarkGreen">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+    </type>
+	<type name="Zen_MountainBag_Winter">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+    </type>
+	<type name="Zen_TaloonBag_Winter">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Village"/>
+		<value name="Tier2"/>
+    </type>
+	<type name="Zen_TaloonBag_Black">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Village"/>
+		<value name="Tier2"/>
+    </type>
+	<type name="Zen_TaloonBag_DarkGreen">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Village"/>
+		<value name="Tier2"/>
+    </type>
+	
+	<!-- Music -->
+	<type name="Zen_CassetteCase">
+        <nominal>20</nominal>
+        <lifetime>604800</lifetime>
+        <restock>1600</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_BoomBox">
+        <nominal>20</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_BoomBox_Static">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_Walkman">
+        <nominal>20</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_WelcomeGuide">
+		<lifetime>21600</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="1" deloot="0"/>
+    </type>
+	<type name="Zen_Cassette_Zen1">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Zen2">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Zen3">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Zen4">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Zen5">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Zen6">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Zen7">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Zen8">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Zen9">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Zen10">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Zen11">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Zen12">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Zen13">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Zen14">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Zen15">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<!-- Classical music -->
+	<type name="Zen_Cassette_Classical1">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Classical2">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Classical3">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Classical4">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Classical5">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Classical6">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Classical7">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Classical8">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Classical9">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<!-- Alan Watts -->
+	<type name="Zen_Cassette_Alan1">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Alan2">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Alan3">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Alan4">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Alan5">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Alan6">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Alan7">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Alan8">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Alan9">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song1">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song2">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song3">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song4">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song5">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song6">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song7">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song8">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song9">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song10">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song11">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song12">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song13">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song14">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song15">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song16">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song17">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song18">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song19">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song20">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song21">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song22">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song23">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song24">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song25">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song26">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song27">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song28">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song29">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song30">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song31">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song32">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<type name="Zen_Cassette_Song33">
+        <nominal>1</nominal>
+        <lifetime>21600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+    </type>
+	<!-- Guidebook -->
+	<type name="BookLivoniaGuide">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="books"/>
+		<tag name="shelves"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+	</type>
+</types>

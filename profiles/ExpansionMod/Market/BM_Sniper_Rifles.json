@@ -1,0 +1,153 @@
+{
+    "m_Version": 12,
+    "DisplayName": "WEAPONS - SNIPER RIFLES",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+        {
+            "ClassName": "svd",
+            "MaxPriceThreshold": 316,
+            "MinPriceThreshold": 221,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "mosin9130",
+            "MaxPriceThreshold": 106,
+            "MinPriceThreshold": 74,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "cz550",
+            "MaxPriceThreshold": 207,
+            "MinPriceThreshold": 145,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "winchester70",
+            "MaxPriceThreshold": 103,
+            "MinPriceThreshold": 72,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "b95",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 67,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "vss",
+            "MaxPriceThreshold": 372,
+            "MinPriceThreshold": 260,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "scout_livonia",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 42,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "cz527",
+            "MaxPriceThreshold": 57,
+            "MinPriceThreshold": 39,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "ssg82",
+            "MaxPriceThreshold": 85,
+            "MinPriceThreshold": 59,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "sawedoffmosin9130",
+            "MaxPriceThreshold": 72,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "sawedoffb95",
+            "MaxPriceThreshold": 72,
+            "MinPriceThreshold": 49,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansion_awm",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansion_kar98",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 70,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

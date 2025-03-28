@@ -1,0 +1,89 @@
+{
+    "ConfigVersion": 22,
+    "ID": 24,
+    "Type": 1,
+    "Title": "Brain Surgeon",
+    "Descriptions": [
+        "The medical trader is studying the zombie virus, trying to discover more effective treatments. She needs 10 zombie brains. Bring these back to Sanctuary and she'll reward you for your effort! [+500 Medicine EXP]",
+        "The medical trader is studying the zombie virus, trying to discover more effective treatments. She needs 10 zombie brains. Bring these back to Sanctuary and she'll reward you for your effort! [+500 Medicine EXP]",
+        "Thank you survivor!"
+    ],
+    "ObjectiveText": "Collect 10 Zombie Brains.",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ZenTreasure_RandomPhoto",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ZenCasinoChips_Red",
+            "Amount": 50,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "Deagle_Gold",
+            "Amount": 1,
+            "Attachments": [
+                "PistolSuppressor",
+                "Mag_Deagle_9rnd",
+                "Mag_Deagle_9rnd",
+                "AmmoBox_357_20Rnd"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 1,
+    "RandomRewardAmount": 1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 9,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        3
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

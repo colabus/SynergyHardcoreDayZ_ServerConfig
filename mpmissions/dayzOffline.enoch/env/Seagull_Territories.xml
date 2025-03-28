@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="4285971400">
+        <zone name="Zone_Seagull" smin="0" smax="0" dmin="2" dmax="5" x="12333.0" z="10874.0" r="100"/>
+    </territory>
+</territory-type>

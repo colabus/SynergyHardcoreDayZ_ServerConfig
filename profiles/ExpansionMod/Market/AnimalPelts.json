@@ -1,0 +1,120 @@
+{
+    "m_Version": 12,
+    "DisplayName": "ANIMAL - PELTS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+        {
+            "ClassName": "TannedLeather",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": 100.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BrownWolfPelt",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": 100.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BlackWolfPelt",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": 100.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "InfectedWolfPelt",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": 100.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BearPelt",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": 100.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BearPelt_Red",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": 100.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BearPelt_Black",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": 100.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BearPelt_Polar",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": 100.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "RadioactiveWolfPelt",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": 100.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "RadioactiveBearPelt",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": 100.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

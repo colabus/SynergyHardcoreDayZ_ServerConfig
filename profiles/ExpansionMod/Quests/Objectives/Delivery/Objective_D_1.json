@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1,
+    "ObjectiveType": 5,
+    "ObjectiveText": "Deliver a Truck Battery to Irena at Karlin Power Plant",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "TruckBattery",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "MaxDistance": 10.0,
+    "MarkerName": "Deliver Items"
+}

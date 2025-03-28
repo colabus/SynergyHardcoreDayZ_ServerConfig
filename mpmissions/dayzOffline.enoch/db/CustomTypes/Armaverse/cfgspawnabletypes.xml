@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<spawnabletypes>
+	<type name="ZmbM_CDF_Dubok_Officer">
+		<cargo preset="foodArmy" />
+		<attachments preset="headtorches" />
+		<attachments chance="1.00">
+			<item name="OfficerCap_CDF" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.2" />
+		</attachments>
+	</type>
+	<type name="ZmbM_LDF_Woodland_Officer">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.2" />
+		</attachments>
+	</type>
+	<type name="ZmbM_LDF_Olive_Officer">
+		<cargo preset="foodArmy" />
+		<attachments preset="headtorches" />
+		<attachments chance="1.00">
+			<item name="OfficerCap_CDF" chance="1.0" />
+		</attachments>
+		<cargo chance="1.0">
+			<item name="PunchedCard" chance="0.4" />
+		</cargo>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.2" />
+		</attachments>
+	</type>
+	<type name="ZmbM_RU_EMR_Officer">
+		<cargo preset="foodArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="OfficerHatArmy" />
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.2" />
+		</attachments>
+	</type>
+	<type name="ZmbM_RU_Olive_Officer">
+		<cargo preset="foodArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="OfficerHatArmy" />
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.2" />
+		</attachments>
+	</type>
+	<type name="ZmbM_CDF_Dubok_PilotCoveralls">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments chance="1.00">
+			<item name="ZSh3PilotHelmet" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Green" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.4" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ADM_ParachuteBag_Fabric" chance="0.1" />
+			<item name="ADM_ParachuteBag_Target" chance="0.1" />
+			<item name="ADM_ParachuteBag_RWB" chance="0.1" />
+			<item name="ADM_ParachuteBag_Skull" chance="0.1" />
+			<item name="ADM_ParachuteBag_ADM" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_CDF_Grey_PilotCoveralls">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments chance="1.00">
+			<item name="ZSh3PilotHelmet" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Green" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.4" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ADM_ParachuteBag_Fabric" chance="0.1" />
+			<item name="ADM_ParachuteBag_Target" chance="0.1" />
+			<item name="ADM_ParachuteBag_RWB" chance="0.1" />
+			<item name="ADM_ParachuteBag_Skull" chance="0.1" />
+			<item name="ADM_ParachuteBag_ADM" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_CDF_Olive_PilotCoveralls">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments chance="1.00">
+			<item name="ZSh3PilotHelmet" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Green" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.4" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ADM_ParachuteBag_Fabric" chance="0.1" />
+			<item name="ADM_ParachuteBag_Target" chance="0.1" />
+			<item name="ADM_ParachuteBag_RWB" chance="0.1" />
+			<item name="ADM_ParachuteBag_Skull" chance="0.1" />
+			<item name="ADM_ParachuteBag_ADM" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_LDF_Olive_PilotCoveralls">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments chance="1.00">
+			<item name="ZSh3PilotHelmet" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Green" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.4" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ADM_ParachuteBag_Fabric" chance="0.1" />
+			<item name="ADM_ParachuteBag_Target" chance="0.1" />
+			<item name="ADM_ParachuteBag_RWB" chance="0.1" />
+			<item name="ADM_ParachuteBag_Skull" chance="0.1" />
+			<item name="ADM_ParachuteBag_ADM" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_LDF_Woodland_PilotCoveralls">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments chance="1.00">
+			<item name="ZSh3PilotHelmet" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Green" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.4" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ADM_ParachuteBag_Fabric" chance="0.1" />
+			<item name="ADM_ParachuteBag_Target" chance="0.1" />
+			<item name="ADM_ParachuteBag_RWB" chance="0.1" />
+			<item name="ADM_ParachuteBag_Skull" chance="0.1" />
+			<item name="ADM_ParachuteBag_ADM" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_RU_Blue_PilotCoveralls">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments chance="1.00">
+			<item name="ZSh3PilotHelmet" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Green" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.4" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ADM_ParachuteBag_Fabric" chance="0.1" />
+			<item name="ADM_ParachuteBag_Target" chance="0.1" />
+			<item name="ADM_ParachuteBag_RWB" chance="0.1" />
+			<item name="ADM_ParachuteBag_Skull" chance="0.1" />
+			<item name="ADM_ParachuteBag_ADM" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_RU_Orange_PilotCoveralls">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments chance="1.00">
+			<item name="ZSh3PilotHelmet" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Green" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.4" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ADM_ParachuteBag_Fabric" chance="0.1" />
+			<item name="ADM_ParachuteBag_Target" chance="0.1" />
+			<item name="ADM_ParachuteBag_RWB" chance="0.1" />
+			<item name="ADM_ParachuteBag_Skull" chance="0.1" />
+			<item name="ADM_ParachuteBag_ADM" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_UN_Grey_PilotCoveralls">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments chance="1.00">
+			<item name="PressVest_UN" chance="0.6" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ZSh3PilotHelmet" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Green" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.4" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ADM_ParachuteBag_Fabric" chance="0.1" />
+			<item name="ADM_ParachuteBag_Target" chance="0.1" />
+			<item name="ADM_ParachuteBag_RWB" chance="0.1" />
+			<item name="ADM_ParachuteBag_Skull" chance="0.1" />
+			<item name="ADM_ParachuteBag_ADM" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_US_Airforce_Grey_PilotCoveralls">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments chance="1.00">
+			<item name="ZSh3PilotHelmet" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Green" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.4" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ADM_ParachuteBag_Fabric" chance="0.1" />
+			<item name="ADM_ParachuteBag_Target" chance="0.1" />
+			<item name="ADM_ParachuteBag_RWB" chance="0.1" />
+			<item name="ADM_ParachuteBag_Skull" chance="0.1" />
+			<item name="ADM_ParachuteBag_ADM" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_US_Airforce_Olive_PilotCoveralls">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments chance="1.00">
+			<item name="ZSh3PilotHelmet" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Green" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.4" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ADM_ParachuteBag_Fabric" chance="0.1" />
+			<item name="ADM_ParachuteBag_Target" chance="0.1" />
+			<item name="ADM_ParachuteBag_RWB" chance="0.1" />
+			<item name="ADM_ParachuteBag_Skull" chance="0.1" />
+			<item name="ADM_ParachuteBag_ADM" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_US_Airforce_Tan_PilotCoveralls">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments chance="1.00">
+			<item name="ZSh3PilotHelmet" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Green" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.4" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ADM_ParachuteBag_Fabric" chance="0.1" />
+			<item name="ADM_ParachuteBag_Target" chance="0.1" />
+			<item name="ADM_ParachuteBag_RWB" chance="0.1" />
+			<item name="ADM_ParachuteBag_Skull" chance="0.1" />
+			<item name="ADM_ParachuteBag_ADM" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_US_Army_M81_PilotCoveralls">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments chance="1.00">
+			<item name="ZSh3PilotHelmet" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Green" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.4" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ADM_ParachuteBag_Fabric" chance="0.1" />
+			<item name="ADM_ParachuteBag_Target" chance="0.1" />
+			<item name="ADM_ParachuteBag_RWB" chance="0.1" />
+			<item name="ADM_ParachuteBag_Skull" chance="0.1" />
+			<item name="ADM_ParachuteBag_ADM" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_US_Army_OCP_PilotCoveralls">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments chance="1.00">
+			<item name="ZSh3PilotHelmet" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Green" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.4" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ADM_ParachuteBag_Fabric" chance="0.1" />
+			<item name="ADM_ParachuteBag_Target" chance="0.1" />
+			<item name="ADM_ParachuteBag_RWB" chance="0.1" />
+			<item name="ADM_ParachuteBag_Skull" chance="0.1" />
+			<item name="ADM_ParachuteBag_ADM" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_US_Army_Olive_PilotCoveralls">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments chance="1.00">
+			<item name="ZSh3PilotHelmet" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Green" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.4" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ADM_ParachuteBag_Fabric" chance="0.1" />
+			<item name="ADM_ParachuteBag_Target" chance="0.1" />
+			<item name="ADM_ParachuteBag_RWB" chance="0.1" />
+			<item name="ADM_ParachuteBag_Skull" chance="0.1" />
+			<item name="ADM_ParachuteBag_ADM" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_US_Army_Tan_PilotCoveralls">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments chance="1.00">
+			<item name="ZSh3PilotHelmet" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Green" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.4" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ADM_ParachuteBag_Fabric" chance="0.1" />
+			<item name="ADM_ParachuteBag_Target" chance="0.1" />
+			<item name="ADM_ParachuteBag_RWB" chance="0.1" />
+			<item name="ADM_ParachuteBag_Skull" chance="0.1" />
+			<item name="ADM_ParachuteBag_ADM" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_US_Army_UCP_PilotCoveralls">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments chance="1.00">
+			<item name="ZSh3PilotHelmet" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Green" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.4" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ADM_ParachuteBag_Fabric" chance="0.1" />
+			<item name="ADM_ParachuteBag_Target" chance="0.1" />
+			<item name="ADM_ParachuteBag_RWB" chance="0.1" />
+			<item name="ADM_ParachuteBag_Skull" chance="0.1" />
+			<item name="ADM_ParachuteBag_ADM" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_US_Marines_M81_PilotCoveralls">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments chance="1.00">
+			<item name="ZSh3PilotHelmet" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Green" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.4" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ADM_ParachuteBag_Fabric" chance="0.1" />
+			<item name="ADM_ParachuteBag_Target" chance="0.1" />
+			<item name="ADM_ParachuteBag_RWB" chance="0.1" />
+			<item name="ADM_ParachuteBag_Skull" chance="0.1" />
+			<item name="ADM_ParachuteBag_ADM" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_US_Marines_Olive_PilotCoveralls">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments chance="1.00">
+			<item name="ZSh3PilotHelmet" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Green" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.4" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ADM_ParachuteBag_Fabric" chance="0.1" />
+			<item name="ADM_ParachuteBag_Target" chance="0.1" />
+			<item name="ADM_ParachuteBag_RWB" chance="0.1" />
+			<item name="ADM_ParachuteBag_Skull" chance="0.1" />
+			<item name="ADM_ParachuteBag_ADM" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_US_Marines_Tan_PilotCoveralls">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments chance="1.00">
+			<item name="ZSh3PilotHelmet" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Green" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.4" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ADM_ParachuteBag_Fabric" chance="0.1" />
+			<item name="ADM_ParachuteBag_Target" chance="0.1" />
+			<item name="ADM_ParachuteBag_RWB" chance="0.1" />
+			<item name="ADM_ParachuteBag_Skull" chance="0.1" />
+			<item name="ADM_ParachuteBag_ADM" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_US_National_M81_PilotCoveralls">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments chance="1.00">
+			<item name="ZSh3PilotHelmet" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Green" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.4" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ADM_ParachuteBag_Fabric" chance="0.1" />
+			<item name="ADM_ParachuteBag_Target" chance="0.1" />
+			<item name="ADM_ParachuteBag_RWB" chance="0.1" />
+			<item name="ADM_ParachuteBag_Skull" chance="0.1" />
+			<item name="ADM_ParachuteBag_ADM" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_US_National_OCP_PilotCoveralls">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments chance="1.00">
+			<item name="ZSh3PilotHelmet" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Green" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.4" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ADM_ParachuteBag_Fabric" chance="0.1" />
+			<item name="ADM_ParachuteBag_Target" chance="0.1" />
+			<item name="ADM_ParachuteBag_RWB" chance="0.1" />
+			<item name="ADM_ParachuteBag_Skull" chance="0.1" />
+			<item name="ADM_ParachuteBag_ADM" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_US_National_Olive_PilotCoveralls">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments chance="1.00">
+			<item name="ZSh3PilotHelmet" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Green" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.4" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ADM_ParachuteBag_Fabric" chance="0.1" />
+			<item name="ADM_ParachuteBag_Target" chance="0.1" />
+			<item name="ADM_ParachuteBag_RWB" chance="0.1" />
+			<item name="ADM_ParachuteBag_Skull" chance="0.1" />
+			<item name="ADM_ParachuteBag_ADM" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_US_National_UCP_PilotCoveralls">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="glassesVillage" />
+		<attachments chance="1.00">
+			<item name="ZSh3PilotHelmet" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Green" chance="0.25" />
+			<item name="ZSh3PilotHelmet_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="0.4" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ADM_ParachuteBag_Fabric" chance="0.1" />
+			<item name="ADM_ParachuteBag_Target" chance="0.1" />
+			<item name="ADM_ParachuteBag_RWB" chance="0.1" />
+			<item name="ADM_ParachuteBag_Skull" chance="0.1" />
+			<item name="ADM_ParachuteBag_ADM" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_UN_doctor_WHO_F">
+		<cargo preset="toolsMedic" />
+		<attachments preset="hatsMedic" />
+		<attachments chance="1.00">
+			<item name="Reflex_WHO_BluWht_Vest" chance="0.1" />
+			<item name="Reflex_WHO_Wht_Vest" chance="0.1" />
+			<item name="Reflex_WHO_WhtBlu_Vest" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_UN_doctor_WHO_M">
+		<cargo preset="toolsMedic" />
+		<attachments preset="hatsMedic" />
+		<attachments chance="1.00">
+			<item name="Reflex_WHO_BluWht_Vest" chance="0.1" />
+			<item name="Reflex_WHO_Wht_Vest" chance="0.1" />
+			<item name="Reflex_WHO_WhtBlu_Vest" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_UN_nurse_WHO_F">
+		<cargo preset="toolsMedic" />
+		<attachments chance="0.1">
+			<item name="Reflex_WHO_BluWht_Vest" chance="0.1" />
+			<item name="Reflex_WHO_Wht_Vest" chance="0.1" />
+			<item name="Reflex_WHO_WhtBlu_Vest" chance="0.1" />
+		</attachments>
+	</type>
+	<type name="ZmbM_CDF_Dubok_EasternNBCSuit">
+		<cargo preset="ContaminatedCargo" />
+	</type>
+	<type name="ZmbM_CDF_Dubok_EasternNBCSuit">
+		<cargo preset="ContaminatedCargo" />
+	</type>
+	<type name="ZmbM_CDF_Olive_EasternNBCSuit">
+		<cargo preset="ContaminatedCargo" />
+	</type>
+	<type name="ZmbM_LDF_Olive_EasternNBCSuit">
+		<cargo preset="ContaminatedCargo" />
+	</type>
+	<type name="ZmbM_LDF_Woodland_EasternNBCSuit">
+		<cargo preset="ContaminatedCargo" />
+	</type>
+	<type name="ZmbM_LDF_Olive_WesternNBCSuit">
+		<cargo preset="ContaminatedCargo" />
+	</type>
+	<type name="ZmbM_LDF_Woodland_WesternNBCSuit">
+		<cargo preset="ContaminatedCargo" />
+	</type>
+	<type name="ZmbM_UN_WHO_WesternNBCSuit">
+		<cargo preset="ContaminatedCargo" />
+	</type>
+	<type name="ZmbM_US_M81_WesternNBCSuit">
+		<cargo preset="ContaminatedCargo" />
+	</type>
+	<type name="ZmbM_US_OCP_WesternNBCSuit">
+		<cargo preset="ContaminatedCargo" />
+	</type>
+	<type name="ZmbM_US_UCP_WesternNBCSuit">
+		<cargo preset="ContaminatedCargo" />
+	</type>
+	<type name="ZmbM_US_UCP_WesternNBCSuit">
+		<cargo preset="ContaminatedCargo" />
+	</type>
+	<type name="ZmbM_CDF_Dubok_GorkaSuit">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+		<attachments chance="0.60">
+			<item name="PatrolCap_CDF" chance="0.20" />
+			<item name="Ssh68Helmet_CDF" chance="0.05" />
+		</attachments>
+	</type>
+	<type name="ZmbM_CDF_DubokAlt_GorkaSuit">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+		<attachments chance="0.60">
+			<item name="PatrolCap_CDF" chance="0.20" />
+			<item name="Ssh68Helmet_CDF" chance="0.05" />
+		</attachments>
+	</type>
+	<type name="ZmbM_RU_Classic_GorkaSuit">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+		<attachments preset="hatsArmy" />
+		<attachments preset="HeavyArmorArmy" />
+		<attachments preset="HeavyHelmetArmy" />
+	</type>
+	<type name="ZmbM_RU_EMR_GorkaSuit">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+		<attachments preset="hatsArmy" />
+		<attachments preset="HeavyArmorArmy" />
+		<attachments preset="HeavyHelmetArmy" />
+	</type>
+	<type name="ZmbM_RU_EMRAlt_GorkaSuit">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+		<attachments preset="hatsArmy" />
+		<attachments preset="HeavyArmorArmy" />
+		<attachments preset="HeavyHelmetArmy" />
+	</type>
+	<type name="ZmbM_RU_EMRDes_GorkaSuit">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+		<attachments preset="hatsArmy" />
+		<attachments preset="HeavyArmorArmy" />
+		<attachments preset="HeavyHelmetArmy" />
+	</type>
+	<type name="ZmbM_RU_EMRFull_GorkaSuit">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+		<attachments preset="hatsArmy" />
+		<attachments preset="HeavyArmorArmy" />
+		<attachments preset="HeavyHelmetArmy" />
+	</type>
+	<type name="ZmbM_RU_Multicam_GorkaSuit">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+		<attachments preset="hatsArmy" />
+		<attachments preset="HeavyArmorArmy" />
+		<attachments preset="HeavyHelmetArmy" />
+	</type>
+	<type name="ZmbM_RU_SURPAT_GorkaSuit">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+		<attachments preset="hatsArmy" />
+		<attachments preset="HeavyArmorArmy" />
+		<attachments preset="HeavyHelmetArmy" />
+	</type>
+	<type name="ZmbM_ChDKZ_Woodland_GorkaSuit">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+		<attachments chance="1.0">
+			<item name="MilitaryBeret_ChDKZ" chance="0.75" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="PressVest_ChDkz_Blk" chance="0.2" />
+			<item name="PressVest_ChDkz_Olive" chance="0.2" />
+		</attachments>
+	</type>
+	<type name="ZmbM_LDF_Olive_Soldier">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+		<attachments chance="1.0">
+			<item name="MilitaryBeret_LDF" chance="0.4" />
+			<item name="PatrolCap_LDF" chance="0.4" />
+		</attachments>
+	</type>
+	<type name="ZmbM_LDF_Woodland_Soldier">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+		<attachments preset="HeavyArmorArmy" />
+		<attachments preset="HeavyHelmetArmy" />
+		<attachments chance="1.0">
+			<item name="MilitaryBeret_LDF" chance="0.4" />
+			<item name="PatrolCap_LDF" chance="0.4" />
+		</attachments>
+	</type>
+	
+	<type name="ZmbM_RU_EMR_Soldier">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+		<attachments preset="HeavyArmorArmy" />
+		<attachments preset="HeavyHelmetArmy" />
+		<attachments chance="1.0">
+			<item name="PatrolCap_EMR" chance="0.4" />
+		</attachments>
+	</type>
+	<type name="ZmbM_RU_EMRDes_Soldier">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+		<attachments preset="HeavyArmorArmy" />
+		<attachments preset="HeavyHelmetArmy" />
+		<attachments chance="1.0">
+			<item name="PatrolCap_EMRDes" chance="0.4" />
+		</attachments>
+	</type>
+	<type name="ZmbM_US_Army_M81_BDU">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments chance="0.5">
+			<item name="MilitaryBeret_NATO" chance="0.1" />
+			<item name="PatrolCap_CDF" chance="0.4" />
+			<item name="PatrolCap_LDF" chance="0.4" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="UKAssVest_Black" chance="0.20" />
+			<item name="UKAssVest_Camo" chance="0.20" />
+			<item name="UKAssVest_Khaki" chance="0.2" />
+			<item name="UKAssVest_Olive" chance="0.2" />
+			<item name="SmershVest" chance="0.05" />
+		</attachments>
+		<attachments chance="0.1">
+			<item name="PressVest_AN" chance="1.0" />
+			<item name="BallisticHelmet_AN" chance="1.0" />
+		</attachments>
+		<attachments chance="0.1">
+			<item name="PressVest_UN" chance="1.0" />
+			<item name="BallisticHelmet_UN_New" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="ZmbM_US_Army_OCP_BDU">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments chance="1.0">
+			<item name="MilitaryBeret_NATO" chance="0.1" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="UKAssVest_Black" chance="0.20" />
+			<item name="UKAssVest_Camo" chance="0.20" />
+			<item name="UKAssVest_Khaki" chance="0.2" />
+			<item name="UKAssVest_Olive" chance="0.2" />
+			<item name="SmershVest" chance="0.05" />
+		</attachments>
+		<attachments chance="0.1">
+			<item name="PressVest_AN" chance="1.0" />
+			<item name="BallisticHelmet_AN" chance="1.0" />
+		</attachments>
+		<attachments chance="0.1">
+			<item name="PressVest_UN" chance="1.0" />
+			<item name="BallisticHelmet_UN_New" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="ZmbM_US_Army_UCP_BDU">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments chance="1.0">
+			<item name="MilitaryBeret_NATO" chance="0.1" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="UKAssVest_Black" chance="0.20" />
+			<item name="UKAssVest_Camo" chance="0.20" />
+			<item name="UKAssVest_Khaki" chance="0.2" />
+			<item name="UKAssVest_Olive" chance="0.2" />
+			<item name="SmershVest" chance="0.05" />
+		</attachments>
+		<attachments chance="0.1">
+			<item name="PressVest_AN" chance="1.0" />
+			<item name="BallisticHelmet_AN" chance="1.0" />
+		</attachments>
+		<attachments chance="0.1">
+			<item name="PressVest_UN" chance="1.0" />
+			<item name="BallisticHelmet_UN_New" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="ZmbM_US_Marines_DesertMarpat_BDU">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments chance="1.0">
+			<item name="MilitaryBeret_NATO" chance="0.1" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="PlateCarrierVest" chance="0.05" />
+			<item name="UKAssVest_Black" chance="0.20" />
+			<item name="UKAssVest_Camo" chance="0.20" />
+			<item name="UKAssVest_Khaki" chance="0.2" />
+			<item name="UKAssVest_Olive" chance="0.2" />
+			<item name="SmershVest" chance="0.05" />
+		</attachments>
+		<attachments chance="0.1">
+			<item name="PressVest_AN" chance="1.0" />
+			<item name="BallisticHelmet_AN" chance="1.0" />
+		</attachments>
+		<attachments chance="0.1">
+			<item name="PressVest_UN" chance="1.0" />
+			<item name="BallisticHelmet_UN_New" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="ZmbM_US_Marines_WoodlandMarpat_BDU">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments chance="1.0">
+			<item name="MilitaryBeret_NATO" chance="0.1" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="PlateCarrierVest" chance="0.05" />
+			<item name="UKAssVest_Black" chance="0.20" />
+			<item name="UKAssVest_Camo" chance="0.20" />
+			<item name="UKAssVest_Khaki" chance="0.2" />
+			<item name="UKAssVest_Olive" chance="0.2" />
+			<item name="SmershVest" chance="0.05" />
+		</attachments>
+		<attachments chance="0.1">
+			<item name="PressVest_AN" chance="1.0" />
+			<item name="BallisticHelmet_AN" chance="1.0" />
+		</attachments>
+		<attachments chance="0.1">
+			<item name="PressVest_UN" chance="1.0" />
+			<item name="BallisticHelmet_UN_New" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="ZmbM_US_Airforce_GreyDigital_BDU">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments chance="1.0">
+			<item name="MilitaryBeret_NATO" chance="0.1" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="PlateCarrierVest" chance="0.05" />
+			<item name="UKAssVest_Black" chance="0.20" />
+			<item name="UKAssVest_Camo" chance="0.20" />
+			<item name="UKAssVest_Khaki" chance="0.2" />
+			<item name="UKAssVest_Olive" chance="0.2" />
+			<item name="SmershVest" chance="0.05" />
+		</attachments>
+		<attachments chance="0.1">
+			<item name="PressVest_AN" chance="1.0" />
+			<item name="BallisticHelmet_AN" chance="1.0" />
+		</attachments>
+		<attachments chance="0.1">
+			<item name="PressVest_UN" chance="1.0" />
+			<item name="BallisticHelmet_UN_New" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="ZmbM_US_National_M81_BDU">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments chance="1.0">
+			<item name="MilitaryBeret_NATO" chance="0.1" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="PlateCarrierVest" chance="0.05" />
+			<item name="UKAssVest_Black" chance="0.20" />
+			<item name="UKAssVest_Camo" chance="0.20" />
+			<item name="UKAssVest_Khaki" chance="0.2" />
+			<item name="UKAssVest_Olive" chance="0.2" />
+			<item name="SmershVest" chance="0.05" />
+		</attachments>
+		<attachments chance="0.1">
+			<item name="PressVest_AN" chance="1.0" />
+			<item name="BallisticHelmet_AN" chance="1.0" />
+		</attachments>
+		<attachments chance="0.1">
+			<item name="PressVest_UN" chance="1.0" />
+			<item name="BallisticHelmet_UN_New" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="ZmbM_US_National_OCP_BDU">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments chance="1.0">
+			<item name="MilitaryBeret_NATO" chance="0.1" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="PlateCarrierVest" chance="0.05" />
+			<item name="PressVest_AN" chance="0.10" />
+			<item name="PressVest_UN" chance="0.10" />
+			<item name="UKAssVest_Black" chance="0.20" />
+			<item name="UKAssVest_Camo" chance="0.20" />
+			<item name="UKAssVest_Khaki" chance="0.2" />
+			<item name="UKAssVest_Olive" chance="0.2" />
+			<item name="SmershVest" chance="0.05" />
+		</attachments>
+	</type>
+	<type name="ZmbM_US_National_UCP_BDU">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments chance="1.0">
+			<item name="MilitaryBeret_NATO" chance="0.1" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="PlateCarrierVest" chance="0.05" />
+			<item name="PressVest_AN" chance="0.10" />
+			<item name="PressVest_UN" chance="0.10" />
+			<item name="UKAssVest_Black" chance="0.20" />
+			<item name="UKAssVest_Camo" chance="0.20" />
+			<item name="UKAssVest_Khaki" chance="0.2" />
+			<item name="UKAssVest_Olive" chance="0.2" />
+			<item name="SmershVest" chance="0.05" />
+		</attachments>
+	</type>
+	<type name="ZmbM_UK_DPM_BDU">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments chance="1.0">
+			<item name="MilitaryBeret_NATO" chance="0.1" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="PlateCarrierVest" chance="0.05" />
+			<item name="PressVest_AN" chance="0.10" />
+			<item name="PressVest_UN" chance="0.10" />
+			<item name="UKAssVest_Black" chance="0.20" />
+			<item name="UKAssVest_Camo" chance="0.20" />
+			<item name="UKAssVest_Khaki" chance="0.2" />
+			<item name="UKAssVest_Olive" chance="0.2" />
+			<item name="SmershVest" chance="0.05" />
+		</attachments>
+	</type>
+	<type name="ZmbM_GR_FlecktarnWoodland_BDU">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="bagsArmy" />
+		<attachments chance="1.0">
+			<item name="MilitaryBeret_NATO" chance="0.1" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="PlateCarrierVest" chance="0.05" />
+			<item name="PressVest_AN" chance="0.10" />
+			<item name="PressVest_UN" chance="0.10" />
+			<item name="UKAssVest_Black" chance="0.20" />
+			<item name="UKAssVest_Camo" chance="0.20" />
+			<item name="UKAssVest_Khaki" chance="0.2" />
+			<item name="UKAssVest_Olive" chance="0.2" />
+			<item name="SmershVest" chance="0.05" />
+		</attachments>
+	</type>
+</spawnabletypes>

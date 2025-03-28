@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 9,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Check out the Quest Board",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        5631.9599609375,
+        181.71299743652345,
+        10594.0
+    ],
+    "MaxDistance": 2.0,
+    "MarkerName": "Check out the Quest Board",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

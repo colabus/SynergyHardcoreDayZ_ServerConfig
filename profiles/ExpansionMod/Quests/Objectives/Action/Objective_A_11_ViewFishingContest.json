@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 11,
+    "ObjectiveType": 10,
+    "ObjectiveText": "View the Fishing Contest",
+    "TimeLimit": 900,
+    "Active": 1,
+    "ActionNames": [
+        "ActionViewFishingContest"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

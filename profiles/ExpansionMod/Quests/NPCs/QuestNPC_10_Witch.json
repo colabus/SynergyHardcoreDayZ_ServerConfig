@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 10,
+    "ClassName": "ExpansionQuestNPCBaty",
+    "Position": [
+        6264.622070,
+		215.207703,
+		11790.045898
+    ],
+    "Orientation": [
+        -165.367126,
+        0.0,
+        0.0
+    ],
+    "NPCName": "The Witch",
+    "DefaultNPCText": "Hmm?",
+    "Waypoints": [],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "Quest_WitchLoadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 0,
+    "Active": 1
+}

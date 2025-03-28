@@ -1,0 +1,11 @@
+{
+    "UnbanMessage": "Your PDA ban has been lifted. Abide by our rules or lose the privilege forever. HardcoreDayZ.com/rules",
+    "PlayerPdaBans": [
+        {
+            "SteamID": "example123",
+            "Reason": "exampleMsg",
+            "BanExpiry": 0,
+            "UnbanMessage": ""
+        }
+    ]
+}

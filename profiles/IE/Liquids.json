@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "liquids": [
+        {
+            "id": 1048576,
+            "name": "AVGAS",
+            "color": 3329330
+        }
+    ]
+}

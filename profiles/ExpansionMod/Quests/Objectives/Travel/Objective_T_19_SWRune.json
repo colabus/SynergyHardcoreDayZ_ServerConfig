@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 19,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Bury Earth Rune in South-West",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        785.6587524414063,
+        524.7543334960938,
+        483.9302673339844
+    ],
+    "MaxDistance": 500.0,
+    "MarkerName": "Bury Earth Rune in South-West",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

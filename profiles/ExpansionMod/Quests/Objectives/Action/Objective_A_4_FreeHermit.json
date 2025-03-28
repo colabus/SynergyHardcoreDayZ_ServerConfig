@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 4,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Free the Hermit",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionFreeHermit"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

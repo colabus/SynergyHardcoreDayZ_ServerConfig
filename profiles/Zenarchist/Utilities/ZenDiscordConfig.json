@@ -1,0 +1,61 @@
+{
+    "CONFIG_VERSION": "1",
+    "AdminUIDs": [],
+    "AdminWebhooks": [
+        "https://discord.com/api/webhooks/1265177845198487615/GjHuh97FXX5WcSOvdzlq4GHtBu9bi6JpHFTcpsdhITf3tJ-tIzJRvAJpY2Kjs_c3CUM4",
+        "https://discord.com/api/webhooks/1266290153752887327/YIU-dIgwSznD36wtkdBDyzrXjeBXBniDlfnLcy6c4wDTWBgIREcNKyGhI5Z7zaiz8u7a"
+    ],
+    "KillFeedWebhooks": [
+        "https://discord.com/api/webhooks/1265177845198487615/GjHuh97FXX5WcSOvdzlq4GHtBu9bi6JpHFTcpsdhITf3tJ-tIzJRvAJpY2Kjs_c3CUM4",
+        "https://discord.com/api/webhooks/1266290153752887327/YIU-dIgwSznD36wtkdBDyzrXjeBXBniDlfnLcy6c4wDTWBgIREcNKyGhI5Z7zaiz8u7a"
+    ],
+    "ServerName": "HardcoreDayZ",
+    "PingAdminCommand": "admin",
+    "MessageReceived": "Your message has been received and successfully relayed to the admin Discord.",
+    "JustLoggedIn": "just logged in to",
+    "Explanation": "A player on your watchlist just connected.",
+    "KillFeed": "Killfeed",
+    "Killed": "killed",
+    "With": "with",
+    "Melee": "melee",
+    "KillerAge": "Killer Age",
+    "VictimAge": "Victim Age",
+    "Minutes": "minutes",
+    "Hours": "hours",
+    "EnableDiscordKillFeed": 1,
+    "DisplayKillLocation": 1,
+    "DisplayPlayerSteamID": 1,
+    "TriggerAdminRaidAlert": 1,
+    "MapURL": "https://www.izurvive.com/livonia/",
+    "RaidAlarmRequiresTerritory": 1,
+    "RaidRadarDishInvincible": 1,
+    "RaidRadarDishCheckRoofTimerMinutes": 3600,
+    "RaidDetectionDistance": 150,
+    "RaidAlarmResetInMinutes": 3.0,
+    "RaidPlaySound": 1,
+    "RaidDiscordAlertRequiresRadar": 1,
+    "RaidDiscordAlertCooldownSecs": 1,
+    "RaidAlarmMessageTitle": "RAID ALARM",
+    "RaidAlarmAttackMessage": "Your base is under attack!",
+    "RaidAlarmWebhookUpdate": "Raid alarm configuration has been changed.",
+    "RaidAlarmConnectionOnline": "Connection established - monitoring for raid activity.",
+    "RaidAlarmConnectionOffline": "Connection lost - raid activity is no longer being monitored.",
+    "RaidAlarmRequiresTerritoryText": "You need to be the member of a territory to set up this raid alarm!",
+    "RaidAlarmTooClose": "This raid alarm is too close to an existing raid alarm!",
+    "RaidAlarmConnectionObstruction": "The radar dish is obstructed! Check for objects blocking its view of the sky.",
+    "RaidAlarmBatteryWarning": "Battery Charge",
+    "BaseDamageTriggersRaidAlert": 0,
+    "BaseDismantleTriggersRaidAlert": 0,
+    "ItemsDeployedTriggerRaidAlert": [
+        "hdsn_breachingchargebase"
+    ],
+    "RequireAnItemForIngameAlert": 1,
+    "ItemsRequiredForIngameAlert": {
+        "itempda": 1,
+        "baseradio": 1,
+        "personalradio": 1
+    },
+    "PlayerWatchlist": {
+        "4s_12UDE-PKYemc7adlZyKGVSrwzIMW0632Q69CerkE=": "Example reason they're on watchlist - potential cheater, accused by multiple players etc"
+    }
+}

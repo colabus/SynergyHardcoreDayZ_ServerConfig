@@ -1,0 +1,141 @@
+{
+    "m_Version": 12,
+    "DisplayName": "LEATHER CLOTHING - bugged as fuck",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "leathergloves_natural",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "leathergloves_beige",
+                "leathergloves_black",
+                "leathergloves_brown"
+            ]
+        },
+        {
+            "ClassName": "leatherhat_natural",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "leatherhat_beige",
+                "leatherhat_black",
+                "leatherhat_brown"
+            ]
+        },
+        {
+            "ClassName": "leatherpants_natural",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "leatherpants_beige",
+                "leatherpants_black",
+                "leatherpants_brown"
+            ]
+        },
+        {
+            "ClassName": "leathershoes_natural",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "leathershoes_beige",
+                "leathershoes_black",
+                "leathershoes_brown"
+            ]
+        },
+        {
+            "ClassName": "leatherjacket_natural",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "leatherjacket_beige",
+                "leatherjacket_black",
+                "leatherjacket_brown"
+            ]
+        },
+        {
+            "ClassName": "leatherstoragevest_natural",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "leatherstoragevest_beige",
+                "leatherstoragevest_black",
+                "leatherstoragevest_brown"
+            ]
+        },
+        {
+            "ClassName": "leathersack_natural",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "leathersack_beige",
+                "leathersack_black",
+                "leathersack_brown"
+            ]
+        },
+        {
+            "ClassName": "leatherbelt_natural",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "leatherbelt_beige",
+                "leatherbelt_black",
+                "leatherbelt_brown"
+            ]
+        },
+        {
+            "ClassName": "leather_cloak_down",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

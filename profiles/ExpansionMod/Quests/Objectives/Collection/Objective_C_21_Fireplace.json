@@ -1,0 +1,37 @@
+{
+    "ConfigVersion": 28,
+    "ID": 21,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Collect Kindling",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 6,
+            "ClassName": "Firewood",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+		{
+            "Amount": 10,
+            "ClassName": "WoodenStick",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+		{
+            "Amount": 8,
+            "ClassName": "Bark_Oak",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+		{
+            "Amount": 8,
+            "ClassName": "Bark_Birch",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

@@ -1,0 +1,18 @@
+{
+    "m_Version": 12,
+    "DisplayName": "CASINO CASHIER",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": 3,
+    "TraderIcon": "Coin",
+    "Currencies": [
+        "nail"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Casino:1"
+    ],
+    "Items": {}
+}

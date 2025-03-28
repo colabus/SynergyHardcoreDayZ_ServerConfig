@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Escort the Hermit back to his Camp.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        1892.4930419921876,
+        270.280029296875,
+        4525.794921875
+    ],
+    "MaxDistance": 5.0,
+    "MarkerName": "Escort Hermit to Camp",
+    "ShowDistance": 1,
+    "CanLootAI": 1,
+    "NPCLoadoutFile": "Quest_HermitLoadout",
+    "NPCClassName": "eAI_SurvivorM_Quinn",
+    "NPCName": "Hermit"
+}

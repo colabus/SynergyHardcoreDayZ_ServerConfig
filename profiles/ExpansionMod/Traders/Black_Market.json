@@ -1,0 +1,38 @@
+{
+    "m_Version": 12,
+    "DisplayName": "BLACK MARKET TRADER",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": 2,
+    "TraderIcon": "Gun",
+    "Currencies": [
+        "nail"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "BM_Sniper_Rifles",
+        "BM_Assault_Rifles",
+        "BM_Submachine_Guns",
+        "BM_Rifles",
+		"BM_Optics",
+        "BM_Shotguns",
+        "BM_Pistols",
+        "BM_Launchers",
+        "BM_Explosives",
+        "BM_Armour",
+        "BM_Magazines",
+        "BM_WeaponAttachments",
+        "BM_NBC",
+        "Syberia_Injectors",
+        "BM_Clothing",
+        "Supplies:0",
+        "Tools:0",
+		"BM_Electronics:0",
+        "BM_Rares:2",
+        "BM_Ammo_Boxes",
+        "Exchange"
+    ],
+    "Items": {}
+}

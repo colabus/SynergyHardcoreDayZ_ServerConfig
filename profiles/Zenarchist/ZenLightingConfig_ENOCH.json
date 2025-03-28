@@ -1,0 +1,32 @@
+{
+    "ConfigVersion": "3",
+    "LogsOn": 0,
+    "BatteryType": "TruckBattery",
+    "TimeToRespawn": 604800,
+    "BatteryTimestamp": 1737654987,
+    "ControlPanelLocation": [
+        11613.7001953125,
+        290.9049987792969,
+        7197.39990234375
+    ],
+    "ControlPanelOrientation": [
+        -159.8999786376953,
+        0.0,
+        0.0
+    ],
+    "ExtraObjects": [
+        {
+            "TypeName": "land_tower_tc3_grey",
+            "Location": [
+                11615.7998046875,
+                253.1929931640625,
+                7198.25
+            ],
+            "Offset": [
+                -69.49999237060547,
+                0.0,
+                0.0
+            ]
+        }
+    ]
+}

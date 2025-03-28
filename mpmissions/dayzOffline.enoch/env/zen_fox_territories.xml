@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+	<territory color="696168654"> 
+		<zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="1554.19" z="9709.98" r="1000" /> <!-- Bielawa -->
+		<zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="3553.78" z="11927.18" r="1000" /> <!-- Lukow -->
+		<zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6484.78" z="11275.50" r="1000" /> <!-- Brena -->
+    </territory>
+	<territory color="696168655">
+		<zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8420.29" z="12017.83" r="1000" /> <!-- Kolembrody -->
+		<zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="10909.81" z="11170.01" r="1000" /> <!-- Grabin -->
+		<zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11507.58" z="9587.69" r="1000" /> <!-- Grabin -->
+    </territory>
+	<territory color="696168656">
+		<zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="4999.35" z="9953.78" r="1000" /> <!-- Gliniska -->
+		<zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="6412.11" z="10240.94" r="1000" /> <!-- Sobotka -->
+		<zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9372.03" z="10759.78" r="1000" /> <!-- Tarnow -->
+    </territory>
+	<territory color="696168657">
+		<zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="3130.26" z="6837.19" r="1000" /> <!-- Adamow -->
+		<zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="4538.33" z="8001.47" r="1000" /> <!-- Radacz/Olszanka -->
+		<zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6848.13" z="8128.05" r="1000" /> <!-- Nidek -->
+    </territory>
+	<territory color="696168658">
+		<zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="909.54" z="5519.76" r="1000" /> <!-- Zalesie -->
+		<zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="2045.69" z="6734.05" r="1000" /> <!-- Topolin -->
+		<zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3161.52" z="4952.47" r="1000" /> <!-- Mazmundie shed -->
+    </territory>
+</territory-type>

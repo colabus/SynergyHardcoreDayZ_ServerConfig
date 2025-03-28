@@ -1,0 +1,223 @@
+{
+    "ConfigVersion": 28,
+    "ID": 4,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Tame A Dog",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview1",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview2",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview3",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview4",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview5",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview6",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview7",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview8",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview9",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview10",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview11",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview12",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview13",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview14",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview15",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview16",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview17",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview18",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview19",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview20",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview21",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview22",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview23",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview24",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview25",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview26",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview27",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview28",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview29",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview30",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview31",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview32",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview33",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview34",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DogPreview35",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 1
+}

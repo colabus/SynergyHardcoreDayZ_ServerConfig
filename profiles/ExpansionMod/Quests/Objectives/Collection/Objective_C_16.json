@@ -1,0 +1,247 @@
+{
+    "ConfigVersion": 28,
+    "ID": 16,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Collect 5 Packaged Food",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "sodacan_pipsi",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "sodacan_cola",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "sodacan_spite",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "sodacan_fronta",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "sodacan_kvass",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "beercan_vb",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "beercan_xxxx",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "beercan_corona",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "zagorky",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "zagorkychocolate",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "zagorkypeanuts",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "powderedmilk",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "boxcerealcrunchin",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "rice",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "marmalade",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "honey",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "saltysticks",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "crackers",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "chips",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "pajka",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "pate",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "brisketspread",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "sardinescan",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "tunacan",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "dogfoodcan",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "catfoodcan",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "porkcan",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "lunchmeat",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "peachescan",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "spaghettican",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "bakedbeanscan",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "tacticalbaconcan",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "expansionbread1",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "expansionbread2",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "expansionbread3",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "expansioncheese1",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "expansioncheese2",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "expansioncheese3",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        },
+        {
+            "Amount": 1,
+            "ClassName": "expansioncheese4",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 90
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 1
+}

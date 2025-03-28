@@ -1,0 +1,182 @@
+{
+    "ConfigVersion": 22,
+    "ID": 36,
+    "Type": 1,
+    "Title": "The Witch Hunt - Part II",
+    "Descriptions": [
+        "You did it! You have no idea what you just prevented from happening. Thank you, survivor, here's your reward. I have one last favour to ask of you. This cult of dark magicians know where I live now, and they won't rest until they find my runes again. Please, take these 4 powerful elemental runes and bury them throughout Livonia. Take them to the furthest corners of the country and bury them where no one will find them. Do this for me, and I'll do a little something extra for you.",
+        "You did it! You have no idea what you just prevented from happening. Thank you, survivor, here's your reward. I have one last favour to ask of you. This cult of dark magicians know where I live now, and they won't rest until they find my runes again. Please, take these 4 powerful elemental runes and bury them throughout Livonia. Take them to the furthest corners of the country and bury them where no one will find them. Do this for me, and I'll do a little something extra for you.",
+        "Livonia is safe once more. It will take those wizards a lifetime to find those runes. I don't think we'll see the demon Delrith roaming these lands again any time soon. Take your choice of reward - you've earned it."
+    ],
+    "ObjectiveText": "Bury the Runes",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [
+        {
+            "ClassName": "ZenRune_Air",
+            "Amount": 1
+        },
+        {
+            "ClassName": "ZenRune_Earth",
+            "Amount": 1
+        },
+        {
+            "ClassName": "ZenRune_Fire",
+            "Amount": 1
+        },
+        {
+            "ClassName": "ZenRune_Water",
+            "Amount": 1
+        }
+    ],
+    "Rewards": [
+        {
+            "ClassName": "InjectorExpBoost10x",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "InjectorExpBoost5x",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ExpansionCircuitBoard_Airdrop",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ZenCasinoChips_Red",
+            "Amount": 250,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "AmmoBox",
+            "Amount": 1,
+            "Attachments": [
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": 1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        10
+    ],
+    "QuestTurnInIDs": [
+        10
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 17,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 18,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 19,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 20,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 3,
+            "ObjectiveType": 10
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        35
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

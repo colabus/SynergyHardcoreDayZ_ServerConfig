@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 1,
+    "ClassName": "ExpansionQuestBoardSmall",
+    "Position": [
+        5631.9599609375,
+        181.71299743652345,
+        10594.0
+    ],
+    "Orientation": [
+        125.99999237060547,
+        0.0,
+        0.0
+    ],
+    "NPCName": "Quest Board",
+    "DefaultNPCText": "Only friends of the Sanctuary can take quests from this board. Speak to Sebastian to earn his trust.",
+    "Waypoints": [],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 1,
+    "Active": 1
+}

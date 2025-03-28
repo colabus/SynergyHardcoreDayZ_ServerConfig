@@ -1,0 +1,95 @@
+{
+    "ConfigVersion": 22,
+    "ID": 47,
+    "Type": 1,
+    "Title": "Mummy Issues",
+    "Descriptions": [
+        "Sebastian: I never thought I'd say this but... mummies seem to be appearing all over Livonia! We've had several reports of them appearing randomly in the middle of nowhere. They're kind of like infected, but with glowing heads and they move slow. We need to get rid of them. Kill 5 of them and bring us their mystical pumpkins and we'll reward you handsomely. They might be easier to find at night-time, given the glowing heads and all. As if we didn't have enough to worry about around here.",
+        "Sebastian: I never thought I'd say this but... mummies seem to be appearing all over Livonia! We've had several reports of them appearing randomly in the middle of nowhere. They're kind of like infected, but with glowing heads and they move slow. We need to get rid of them. Kill 5 of them and bring us their mystical pumpkins and we'll reward you handsomely. They might be easier to find at night-time, given the glowing heads and all. As if we didn't have enough to worry about around here.",
+        "Thank you survivor. Let's hope this is the last we see of these creatures."
+    ],
+    "ObjectiveText": "Collect 5 Mystical Pumpkins",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ZenCasinoChips_Red",
+            "Amount": 500,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SyberiaSkillBook_Random",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ExpansionCircuitBoard_Airdrop",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "InjectorExpBoost10x",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 1,
+    "RandomRewardAmount": 1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        1, 
+		2
+    ],
+    "QuestTurnInIDs": [
+        1, 
+		2
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 23,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": -30208,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        3
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 0
+}

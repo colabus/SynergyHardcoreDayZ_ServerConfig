@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 12,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Travel to Polana Radio Tower",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        3832.68994140625,
+        581.10498046875,
+        1830.050048828125
+    ],
+    "MaxDistance": 2.0,
+    "MarkerName": "Polana Radio Tower",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

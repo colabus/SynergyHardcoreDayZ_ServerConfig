@@ -1,0 +1,37 @@
+{
+    "ConfigVersion": 28,
+    "ID": 19,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Catch Small Game",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "DeadSquirrel",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "SkinnedSquirrel",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "RavenBreastMeat",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "OtterPelt",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 1
+}

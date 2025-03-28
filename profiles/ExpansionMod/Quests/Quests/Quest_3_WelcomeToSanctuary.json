@@ -1,0 +1,56 @@
+{
+    "ConfigVersion": 22,
+    "ID": 3,
+    "Type": 1,
+    "Title": "Welcome to Sanctuary",
+    "Descriptions": [
+        "Sebastion: Huh, well done... I didn't think you'd survive. Maybe I underestimated you. Alright survivor, I'm a man of my word. You helped us, we'll help you. Feel free to speak to any of our traders here. I'm sure you'll find something worth your time and money. Just don't get any funny ideas. Keep your weapons out of sight and the guards won't turn you into pink mist. Welcome to Sanctuary.",
+        "Sebastion: Huh, well done... I didn't think you'd survive. Maybe I underestimated you. Alright survivor, I'm a man of my word. You helped us, we'll help you. Feel free to speak to any of our traders here. I'm sure you'll find something worth your time and money. Just don't get any funny ideas. Keep your weapons out of sight and the guards won't turn you into pink mist. Welcome to Sanctuary.",
+        "Sebastion: Huh, well done... I didn't think you'd survive. Maybe I underestimated you. Alright survivor, I'm a man of my word. You helped us, we'll help you. Feel free to speak to any of our traders here. I'm sure you'll find something worth your time and money. Just don't get any funny ideas. Keep your weapons out of sight and the guards won't turn you into pink mist. Welcome to Sanctuary."
+    ],
+    "ObjectiveText": "Welcome to Sanctuary",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 1,
+    "RandomRewardAmount": 1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        2
+    ],
+    "QuestTurnInIDs": [
+        2
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 4,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        1
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 15,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Return to Hans",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        5637.69140625,
+        180.92709350585938,
+        10620.0224609375
+    ],
+    "MaxDistance": 2.0,
+    "MarkerName": "Return to Hans",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

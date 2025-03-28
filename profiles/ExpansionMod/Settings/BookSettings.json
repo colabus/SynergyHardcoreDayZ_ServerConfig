@@ -1,0 +1,474 @@
+{
+    "m_Version": 5,
+    "EnableStatusTab": 1,
+    "EnablePartyTab": 1,
+    "EnableServerInfoTab": 1,
+    "EnableServerRulesTab": 1,
+    "EnableTerritoryTab": 1,
+    "EnableBookMenu": 1,
+    "CreateBookmarks": 0,
+    "ShowHaBStats": 0,
+    "ShowPlayerFaction": 1,
+    "RuleCategories": [
+        {
+            "CategoryName": "Server Rules",
+            "Rules": [
+                {
+                    "RuleParagraph": "1.",
+                    "RuleText": "Don’t cheat or exploit any bugs, and don't dupe or loot cycle. We share ban lists with all AU/NZ servers."
+                },
+                {
+                    "RuleParagraph": "2.",
+                    "RuleText": "Don’t be toxic (ie. no racism, sexism, abuse, harassment, impersonating admins, stream sniping or other forms of shitty behaviour)."
+                },
+                {
+                    "RuleParagraph": "3.",
+                    "RuleText": "Don't be a dick. PVP is allowed, but if you're here to grief people and antagonize other players for fun you're on the wrong server."
+                },
+                {
+                    "RuleParagraph": "DEFINITIONS",
+                    "RuleText": "Cheating/hacking is self-explanatory. Exploitation of bugs means abusing something for your gain which is clearly not an intended game mechanic (eg. glitching through base walls to raid). Loot cycling is defined as intentionally moving an item purely so another item spawns in its place, not because you have any use for the original item. Griefing is something like dropping every item in someone's base during a raid just so it despawns, not because you need it. More detailed info can be found at HardcoreDayZ.com/rules"
+                },
+                {
+                    "RuleParagraph": "SPIRIT OF THE SERVER",
+                    "RuleText": "In short, don’t be a dick. While we are a hardcore server with minimal rules, we want a community free of toxicity and any players found to be disrespectful or particularly unpleasant company will be removed from our community at our discretion. Playing here is a privilege, not a right, and by playing here you agree to treat your fellow gamers with respect. Anything else goes - good luck survivor!"
+                }
+            ]
+        }
+    ],
+    "DisplayServerSettingsInServerInfoTab": 1,
+    "SettingCategories": [
+        {
+            "CategoryName": "Base-Building Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftVanillaBasebuilding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+				{
+                    "SettingTitle": "BaseBuildingPlus",
+                    "SettingText": "",
+                    "SettingValue": "ENABLED"
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftExpansionBasebuilding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Cabin Door Health",
+                    "SettingText": "How much health a Cabin's door has (damaged by Breaching Charges)",
+                    "SettingValue": "10 HP"
+                },
+                {
+                    "SettingTitle": "BBP Door T1 Health",
+                    "SettingText": "How much health a tier 1 BBP wall/door/gate/ramp/etc has (damaged by Breaching Charges)",
+                    "SettingValue": "1 HP"
+                },
+                {
+                    "SettingTitle": "BBP Door T2 Health",
+                    "SettingText": "How much health a tier 2 BBP wall/door/gate/ramp/etc has (damaged by Breaching Charges)",
+                    "SettingValue": "2 HP"
+                },
+                {
+                    "SettingTitle": "BBP Door T3 Health",
+                    "SettingText": "How much health a tier 3 BBP wall/door/gate/ramp/etc has (damaged by Breaching Charges)",
+                    "SettingValue": "4 HP"
+                },
+                {
+                    "SettingTitle": "Wood Door / Barricade Health",
+                    "SettingText": "How much health a wood door or window barricade has (damaged by Breaching Charges)",
+                    "SettingValue": "1 HP"
+                },
+                {
+                    "SettingTitle": "Metal Door / Barricade Health",
+                    "SettingText": "How much health a metal door or window barricade has (damaged by Breaching Charges)",
+                    "SettingValue": "2 HP"
+                },
+                {
+                    "SettingTitle": "Vanilla Wood Gate Health",
+                    "SettingText": "How much health each upper/lower part of a fully built Vanilla wooden wall has (damaged by Breaching Charges)",
+                    "SettingValue": "1 HP"
+                },
+                {
+                    "SettingTitle": "Vanilla Metal Gate Health",
+                    "SettingText": "How much health each upper/lower part of a fully built Vanilla metal wall has (damaged by Breaching Charges)",
+                    "SettingValue": "2 HP"
+                },
+                {
+                    "SettingTitle": "Safe Health",
+                    "SettingText": "How much health a Safe has (damaged by Propane Torch)",
+                    "SettingValue": "10,000 HP"
+                },
+                {
+                    "SettingTitle": "Hover for more info",
+                    "SettingText": "Only doors and gates can have Breaching Charges applied to them (anything that takes a code lock). Heavy Breaching charges deal 2 damage, Homemade ones deal 1 damage. Upgrading your wall tier will increase the health of your doors. More detailed info on our website.",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Raid Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.CanRaidSafes",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Time Before Explosion",
+                    "SettingText": "Time before a Breaching Charge explosion triggers",
+                    "SettingValue": "5 minutes"
+                },
+                {
+                    "SettingTitle": "Projectile Damage",
+                    "SettingText": "Bullet damage is disabled for raiding - use Explosives",
+                    "SettingValue": "DISABLED"
+                },
+                {
+                    "SettingTitle": "Homemade Charge Damage",
+                    "SettingText": "How much damage a Homemade Breaching Charge does to basebuilding objects",
+                    "SettingValue": "1 HP"
+                },
+                {
+                    "SettingTitle": "Heavy Breaching Charge",
+                    "SettingText": "How much damage a Heavy Breaching Charge does to basebuilding objects",
+                    "SettingValue": "2 HP"
+                }
+            ]
+        },
+        {
+            "CategoryName": "Territory Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Territory Size",
+                    "SettingText": "The total size of a territory including its perimeter",
+                    "SettingValue": "510m"
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Territory.UseWholeMapForInviteList",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Territory.MaxTerritoryPerPlayer",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Territory.MaxMembersInTerritory",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Respawn at bed",
+                    "SettingText": "Whether or not the player can respawn at their bed within their territory",
+                    "SettingValue": "ENABLED"
+                }
+            ]
+        },
+        {
+            "CategoryName": "World Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Next season change",
+                    "SettingText": "How many days until the next change to winter/summer happens",
+                    "SettingValue": "0"
+                },
+                {
+                    "SettingTitle": "World days",
+                    "SettingText": "How many days have transpired since wipe day",
+                    "SettingValue": "0"
+                },
+                {
+                    "SettingTitle": "Active characters",
+                    "SettingText": "How many characters have logged in within the past 7 days / total characters",
+                    "SettingValue": "0"
+                },
+                {
+                    "SettingTitle": "Survivors online",
+                    "SettingText": "How many players are currently online",
+                    "SettingValue": "0"
+                }
+            ]
+        }
+    ],
+    "Links": [
+        {
+            "Name": "Homepage",
+            "URL": "https://www.hardcoredayz.com/",
+            "IconName": "Homepage",
+            "IconColor": -14473430
+        },
+        {
+            "Name": "BaseBuildingPlus Guide",
+            "URL": "https://hardcoredayz.com/basebuildingplus-recipes/",
+            "IconName": "Hammer",
+            "IconColor": -14473430
+        },
+        {
+            "Name": "Syberia Medical Wiki",
+            "URL": "https://hardcoredayz.com/syberia/",
+            "IconName": "Info",
+            "IconColor": -14473430
+        },
+        {
+            "Name": "Donate to Keep the Server Going!",
+            "URL": "https://hardcoredayz.com/donate/",
+            "IconName": "PayPal",
+            "IconColor": -14473430
+        }
+    ],
+    "Descriptions": [
+        {
+            "CategoryName": "General Info",
+            "Descriptions": [
+                {
+                    "DescriptionText": "Welcome to Livonia, Syberia. This is a hardcore DayZ server hosted in Australia. Our gameplay is designed to encourage survival and adventure more so than pure PVP, but all players are welcome to take up the challenge of surviving here in their own way, so don't let your guard down."
+                },
+                {
+                    "DescriptionText": "We actively moderate this server and take care of any rule-breaking, but we don't have a public discord server. This is intentional to encourage everything being handled ingame. If you need to report a suspicious player, or if you have a suggestion or some feedback or a bug to report then please click the CONTACT ADMIN button below and send us an email and we'll get back to you ASAP. While there's no 24/7 active discord, we always sort out any issues - so don't panic if something goes horribly wrong in-game."
+                },
+                {
+                    "DescriptionText": "We don't have many rules, but we run a zero-tolerance policy with the ones we do have. This is a hobby and moderation of bad behaviour takes up our free time. If you break our rules you will most likely be permanently banned with no second chance. We keep detailed logs so cheaters, exploiters and toxic players will be caught eventually. We also share ban logs with all AU/NZ servers so if you get banned here it could affect you on other servers."
+                },
+                {
+                    "DescriptionText": "To read our rules click on the Server Rules tab."
+                },
+                {
+                    "DescriptionText": "To contact an admin or read more about the server, click the Home icon to be taken to our website (www.HardcoreDayZ.com) or send an email to admin@hardcoredayz.com. The Hammer icon will take you to an BBP Guide. The Information icon will take you to a Syberia Medicine wiki (or you can find it on our website)."
+                }
+            ]
+        },
+        {
+            "CategoryName": "Mod Info",
+            "Descriptions": [
+                {
+                    "DescriptionText": "We run several mods here designed to make the game more immersive and surviving much more of a challenge. Scroll to the very bottom for general server info (restarts etc)."
+                },
+                {
+                    "DescriptionText": "SCARCITY: Times are tough in the zombie apocalypse. You will find supplies, ammunition and weapons difficult to come by. You will need to resort to living off the land. The water wells don't work without repairing them first, and preserved food is scarce. Be prepared to hunt, fish, craft and be creative and resourceful in order to survive in these lands."
+                },
+                {
+                    "DescriptionText": "SYBERIA: We run the Syberia Project mod here which overhauls the medical system of vanilla DayZ. All vanilla illnesses are replaced with much more sophisticated systems including over 100 different types of medicine. It takes a while to learn everything, but don't worry - you'll learn the hard way. To view a guide on the medical system click the Information icon to your left. Syberia also adds a bunch of skills and perks, turning DayZ into an MMORPG experience of sorts. Certain skills are now locked behind progression - play the game normally to gain EXP and press the O key to open your skill menu to assign perks."
+                },
+                {
+                    "DescriptionText": "NEW STATS: You will notice a 'moon' symbol next to your health status icons - this is how tired your character is. If you get too tired you will begin yawning and eventually run the risk of falling unconscious from tiredness. To recover your energy use the Lie Down emote (you can bind this emote to a hotkey in your settings). Try to sleep by a fire if possible. You will also notice a 'brain' symbol. This respresents your mental well-being, and it is negatively affected by killing infected and other survivors. It can only be healed over time or by using anti-depressant tablets. If it gets bad enough, your character will exhibit strange behaviour and may even attempt to commit suicide randomly, so don't go AFK while your mental state is suffering!"
+                },
+                {
+                    "DescriptionText": "STORAGE & BASEBUILDING: Check the Crafting Recipes tab for a list of recipes for basebuilding and storage items and kits. We run BaseBuildingPlus and Vanilla basebuilding, but we also have 2 alternative base methods - Cabins and More Doors. Our BBP required materials are very different to the default required materials, check our website for an up-to-date guide for BBP."
+                },
+                {
+                    "DescriptionText": "CABINS & MORE DOORS: To build a Cabin you will need to first craft a cabin kit (use a Stone on 10 planks). Then to fully construct all parts you'll require a total of 64 large stones, 120 logs, 120 planks, 1000 nails & 20 sheet metal. Once a Code Lock is attached only players who know the code can see its inventory when the door is locked. To build a small wooden door perfect for locking up houses, you'll need to build a kit (10 planks + hammer or hatchet). To build a wooden door attach 50 nails, 10 planks, 2 wooden logs and 1 metal wire and use a hatchet. To upgrade to a metal door attach 50 nails and 10 sheet metal (and remove the Code Lock to construct). To build a window barricade attach 10 nails and 10 planks, and to upgrade to metal attach 20 nails and 3 sheet metal."
+                },
+                {
+                    "DescriptionText": "CODE LOCKS: Vanilla combination locks are disabled. You'll need to use Code Locks to secure your base. Code Locks are rare - the best place to find them is by doing quests, hunting down air drops and treasure photos, and trading with other players. To remove a Code Lock once its secured, unlock it first then cycle to Change Lock and enter the code '0000'. Then you can drag it off the door/gate."
+                },
+                {
+                    "DescriptionText": "SURVIVOR MISSIONS & QUESTS: Tune into 87.8fm on your radio to receive potential missions from the UN. Also keep your eye out for NPCs that will give you quests, especially at the Sanctuary trader. These missions and quests can result in great rewards - but also probable death, so be careful survivor."
+                },
+                {
+                    "DescriptionText": "LEATHER TANNING: To tan leather you'll need to craft a drying rack. Do this by combining 5 short sticks with a rope, and then a bone hook with a rope, and combine the rack with the hooked rope. Once completed you can attach Garden Lime and animal pelts to the drying rack to tan leather. It takes about 3 minute per leather yield (so a bear pelt takes about 30 minutes). The yield you get from each pelt depends on the quality of the pelt. If the pelt is badly damaged (influenced by your Hunting skill perks) you might only get a few pieces of leather. To craft leather clothing items, bags & attachments like holsters, combine a leather sewing kit on the tanned leather. Or you can sell the tanned leather for nails at the trader."
+                },
+                {
+                    "DescriptionText": "ANIMAL TROPHY: You can craft animal trophies by combining an animal head with a single plank of wood. For the Carp trophy you need to combine the whole fish with a plank of wood. These trophies can be sold at the trader. You can also craft wearable items from Crocodiles. Simply kill a crocodile (good luck) and then use a knife on its skin. You'll get some teeth, a leather strap and skin. Use a Leather Sewing kit on the skin to make a vest and use the teeth on the strap to make a Crocodile Dundee hat. You'll need to find a black Gambler's hat first."
+                },
+                {
+                    "DescriptionText": "DOG COMPANION: If you see a wild dog, use bones or meat on it to tame it and earn yourself a valuable post-apocalyptic companion. Check your Hotkeys under UNSORTED for keybind commands. Dogs can help you hunt, they can protect you from zombies, and they can carry some gear for you. But be cautious - if you die or your dog dies, you'll lose your furry friend forever. You can also buy a dog companion from the Sanctuary Hunting Trader if it's in stock."
+                },
+                {
+                    "DescriptionText": "BED RESPAWNING: If you have a pet dog and a Territory, you can set a bed inside your territory as a respawn point. If you die while your dog is with you, you can respawn back at your bed by selecting Bed Respawn from the spawn location list on the respawn screen. But be prepared - you will respawn with no clothes or gear and half health, so make sure to keep food and clothes at home if you plan to respawn on your bed!"
+                },
+                {
+                    "DescriptionText": "GENERAL INFO: Server restarts are at 1PM, 5PM, 9PM, 1AM, 5AM and 9AM AEST. There have been MANY tweaks to vanilla game mechanics - too many things to list. You'll need to explore to discover everything. You can open cans of food on rocks if you get desperate. You can craft a fishing hook from empty cans by using a knife. If you can't find food, use a mining tool on large rocks to make stone knives. Make sure to check your keybinds for certain modded features - like your auto run key, ear plugs key, your car radio key etc. Epoxy can be used to repair some items that it can't in vanilla such as cooking pots, lockpicks, canteens and others - just try it to see if it works. If you find Dye or Paint you can change the colour of guns, clothing and even some car parts. Regarding alt accounts, they are allowed but do not use them to engage in combat within 30 minutes if you die on another account. Using multiple accounts to defend your base from a raid for example is not allowed."
+                }
+            ]
+        }
+    ],
+    "CraftingCategories": [
+        {
+            "CategoryName": "#HardcoreDayZ - Base Building",
+            "Results": [
+				"BBP_Workbench_Kit",
+                "fencekit",
+                "watchtowerkit",
+                "cabin_kit",
+                "territoryflagkit",
+                "moredoorsmallkit",
+                "moredoorbarricadekit",
+                "bl_greenhouse_kit",
+                "bl_pallet_table_m_kit",
+                "bl_pallet_table_l_kit",
+                "bl_rain_collector_prefab_kit"
+            ]
+        },
+        {
+            "CategoryName": "#HardcoreDayZ - Storage",
+            "Results": [
+                "shelterkit",
+                "zen_camoshelterkit",
+                "bl_pallet",
+                "bl_pallet_table_s_kit",
+                "bl_pallet_box_1_kit",
+                "bl_pallet_box_2_kit",
+                "bl_pallet_box_3_kit",
+                "bl_pallet_box_4_kit",
+                "bl_pallet_cabinet_s_kit",
+                "bl_pallet_cabinet_l_kit",
+                "bl_pallet_bed_m_kit",
+                "bl_old_crate",
+                "bl_pallet_bed_s_kit",
+                "bl_pallet_cabinet_m_kit",
+                "bl_logstorage_kit",
+                "bl_workbench_kit",
+                "dog_shed_small_kit",
+                "woodencrate",
+                "bl_stove_prefab_kit",
+                "bl_rain_collector_prefab_kit"
+            ]
+        },
+        {
+            "CategoryName": "#HardcoreDayZ - Hunting",
+            "Results": [
+                "deertrophy_m",
+                "deertrophy_f",
+                "beartrophy",
+                "beartrophy_black",
+                "wolftrophy",
+                "boartrophy",
+                "carptrophy",
+                "framehookandrope",
+                "unfinisheddryingframe",
+                "dryingframe",
+                "hook",
+                "bait",
+                "bonebait",
+                "bonehook",
+                "improvisedfishingrod",
+				"ZenWolfMask"
+            ]
+        },
+        {
+            "CategoryName": "#HardcoreDayZ - Misc",
+            "Results": [
+                "zen_chessboard",
+                "zen_shirt_bothcat",
+                "mosin9130_camo",
+                "spraycan_black",
+                "spraycan_green",
+                "zen_dye_black",
+                "crossbow_black",
+				"Zen_CraftableMapKit"
+            ]
+        },
+        {
+            "CategoryName": "#HardcoreDayZ - Dismantle",
+            "Results": [
+                "screwdriver"
+            ]
+        },
+        {
+            "CategoryName": "Clothing",
+            "Results": [
+                "armband_",
+                "armband_white"
+            ]
+        },
+        {
+            "CategoryName": "Backpacks",
+            "Results": [
+                "courierbag",
+                "furcourierbag",
+                "furimprovisedbag",
+                "improvisedbag",
+                "leathersack_brown"
+            ]
+        },
+        {
+            "CategoryName": "Camouflage",
+            "Results": [
+                "camonet",
+                "ghillieatt_tan",
+                "ghillieatt_mossy",
+                "ghillieatt_woodland",
+                "ghilliebushrag_tan",
+                "ghilliebushrag_mossy",
+                "ghilliebushrag_woodland",
+                "ghilliehood_tan",
+                "ghilliehood_mossy",
+                "ghilliehood_woodland",
+                "ghilliesuit_tan",
+                "ghilliesuit_mossy",
+                "ghilliesuit_woodland",
+                "ghillietop_tan",
+                "ghillietop_mossy",
+                "ghillietop_woodland"
+            ]
+        },
+        {
+            "CategoryName": "Survival",
+            "Results": [
+                "fireplace",
+                "firewood",
+                "handdrillkit",
+                "cookingstand",
+                "longtorch",
+                "torch",
+                "stoneknife",
+                "boneknife"
+            ]
+        },
+        {
+            "CategoryName": "Food",
+            "Results": [
+                "carpfilletmeat",
+                "mackerelfilletmeat",
+                "expansionmilkbottle",
+                "potato",
+                "slicedpumpkin",
+                "pepperseeds",
+                "pumpkinseeds",
+                "tomatoseeds",
+                "zucchiniseeds"
+            ]
+        },
+        {
+            "CategoryName": "Medical Supplies",
+            "Results": [
+                "bloodbagiv",
+                "salinebagiv",
+                "splint",
+                "gasmask_filter_improvised"
+            ]
+        },
+        {
+            "CategoryName": "Weapons",
+            "Results": [
+                "nailedbaseballbat",
+                "barbedbaseballbat",
+                "improvisedsuppressor",
+                "spearbone",
+                "spearstone"
+            ]
+        },
+        {
+            "CategoryName": "Supplies",
+            "Results": [
+                "boarpelt",
+                "burlapsack",
+                "burlapstrip",
+                "longwoodenstick",
+                "rag",
+                "rope",
+                "sharpwoodenstick",
+                "smallstone",
+                "tannedleather",
+                "woodenplank",
+                "woodenstick",
+                "metalwire"
+            ]
+        }
+    ],
+    "EnableCraftingRecipesTab": 1
+}

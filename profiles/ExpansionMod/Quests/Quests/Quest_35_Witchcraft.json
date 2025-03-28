@@ -1,0 +1,103 @@
+{
+    "ConfigVersion": 22,
+    "ID": 35,
+    "Type": 1,
+    "Title": "The Witch Hunt",
+    "Descriptions": [
+        "Hello survivor. I'm offering a reward for anyone who can help me recover my runes. A few days ago a group of very dangerous magicians stole my magic runes. I know what you're thinking. But whether you believe magic is real or not is irrelevant - the reward is very real. If you're willing to kill a few dark magicians then it's all yours. They're most likely headed to the stone circle out in the far south-east - here, I'll mark it on your map. You'll need to kill all of them, and take the runes from their cold dead corpses. But please, hurry - if they complete the ritual to summon the demon Delrith before you stop them... Livonia is doomed.",
+        "Hello survivor. I'm offering a reward for anyone who can help me recover my runes. A few days ago a group of very dangerous magicians stole my magic runes. I know what you're thinking. But whether you believe magic is real or not is irrelevant - the reward is very real. If you're willing to kill a few dark magicians then it's all yours. They're most likely headed to the stone circle out in the far south-east - here, I'll mark it on your map. You'll need to kill all of them, and take the runes from their cold dead corpses. But please, hurry - if they complete the ritual to summon the demon Delrith before you stop them... Livonia is doomed.",
+        ""
+    ],
+    "ObjectiveText": "Kill the Magicians",
+    "FollowUpQuest": 36,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "WitchHunt",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionSilverBar",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "HDSN_BreachingCharge",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ExpansionCircuitBoard_Airdrop",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ZenCasinoChips_Red",
+            "Amount": 300,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 1,
+    "RandomRewardAmount": 1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        10
+    ],
+    "QuestTurnInIDs": [
+        10
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 3,
+            "ObjectiveType": 8
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 18,
+            "ObjectiveType": 4
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 16,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        34
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

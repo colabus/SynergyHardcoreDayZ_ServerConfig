@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 20,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Bury Water Rune in North-West",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        401.72698974609377,
+        406.9620056152344,
+        12325.2001953125
+    ],
+    "MaxDistance": 500.0,
+    "MarkerName": "Bury Water Rune in North-West",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,0 +1,73 @@
+{
+    "CONFIG_VERSION": "1",
+    "QuestObjects": [
+        {
+            "QuestObjectID": 5,
+            "RequiredQuestToShowID": -1,
+            "RequiredQuestToHideID": 11,
+			"StartedQuestToShowID": -1,
+			"StartedQuestToHideID": -1
+        },
+        {
+            "QuestObjectID": 6,
+            "RequiredQuestToShowID": -1,
+            "RequiredQuestToHideID": 11,
+			"StartedQuestToShowID": -1,
+			"StartedQuestToHideID": -1
+        },
+        {
+            "QuestObjectID": 8,
+            "RequiredQuestToShowID": 11,
+            "RequiredQuestToHideID": -1,
+			"StartedQuestToShowID": -1,
+			"StartedQuestToHideID": -1
+        },
+        {
+            "QuestObjectID": 9,
+            "RequiredQuestToShowID": -1,
+            "RequiredQuestToHideID": -1,
+			"StartedQuestToShowID": 25,
+			"StartedQuestToHideID": -1
+        },
+        {
+            "QuestObjectID": 10,
+            "RequiredQuestToShowID": -1,
+            "RequiredQuestToHideID": -1,
+			"StartedQuestToShowID": 34,
+			"StartedQuestToHideID": -1
+        },
+        {
+            "QuestObjectID": 7,
+            "RequiredQuestToShowID": -1,
+            "RequiredQuestToHideID": -1,
+			"StartedQuestToShowID": 17,
+			"StartedQuestToHideID": -1
+        },
+        {
+            "QuestObjectID": 7,
+            "RequiredQuestToShowID": -1,
+            "RequiredQuestToHideID": -1,
+			"StartedQuestToShowID": 39,
+			"StartedQuestToHideID": -1
+        },
+        {
+            "QuestObjectID": 11,
+            "RequiredQuestToShowID": -1,
+            "RequiredQuestToHideID": 41,
+			"StartedQuestToShowID": -1,
+			"StartedQuestToHideID": -1
+        }
+    ],
+    "HideQuests": [
+        {
+            "QuestHideID": 12,
+            "QuestCompletedID": 11
+        }
+    ],
+    "HideQuestMarkers": [
+        {
+            "QuestID": 38,
+            "QuestObjectiveHideIndex": 1
+        }
+    ]
+}

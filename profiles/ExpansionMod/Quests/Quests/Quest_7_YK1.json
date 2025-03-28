@@ -1,0 +1,65 @@
+{
+    "ConfigVersion": 22,
+    "ID": 7,
+    "Type": 1,
+    "Title": "The Yellow King - Part I",
+    "Descriptions": [
+        "Hans: You've gotta help me. I was put in here by some bandit group. They took the key with them and they only come by every few days to feed me and keep me alive. I don't know what they want with me, but I've been here for weeks. Please get me out of here! These bars are made of pure steel, nothing can cut through them - believe me, I've tried. Maybe Sebastian at Sanctuary will have an idea who these guys are? He seems to know everyone in Livonia. The leader of the group wears a yellow helmet with spikes all over it. I bet Sebastian will know who he is. Please hurry!",
+        "Hans: You've gotta help me. I was put in here by some bandit group. They took the key with them and they only come by every few days to feed me and keep me alive. I don't know what they want with me, but I've been here for weeks. Please get me out of here! These bars are made of pure steel, nothing can cut through them - believe me, I've tried. Maybe Sebastian at Sanctuary will have an idea who these guys are? He seems to know everyone in Livonia. The leader of the group wears a yellow helmet with spikes all over it. I bet Sebastian will know who he is. Please hurry!",
+        "Hans: You've gotta help me. I was put in here by some bandit group. They took the key with them and they only come by every few days to feed me and keep me alive. I don't know what they want with me, but I've been here for weeks. Please get me out of here! These bars are made of pure steel, nothing can cut through them - believe me, I've tried. Maybe Sebastian at Sanctuary will have an idea who these guys are? He seems to know everyone in Livonia. The leader of the group wears a yellow helmet with spikes all over it. I bet Sebastian will know who he is. Please hurry!"
+    ],
+    "ObjectiveText": "Speak to Sebastian.",
+    "FollowUpQuest": 10,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "InjectorExpBoost10x",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        5,
+        6
+    ],
+    "QuestTurnInIDs": [
+        2
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 5,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

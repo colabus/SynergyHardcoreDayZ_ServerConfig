@@ -1,0 +1,556 @@
+{
+    "version": 2,
+    "stations": [
+        {
+            "id": "",
+            "x": 0.0,
+            "y": 0.0,
+            "name": "",
+            "fuels": {
+                "GASOLINE": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 150.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "DIESEL": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 100.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "AVGAS": {
+                    "capacity": 0.0,
+                    "spawn_min": 0.0,
+                    "spawn_max": 0.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                }
+            }
+        },
+        {
+            "id": "34887ED3477BE0F3BC3C50B89884A7F7FEDB57F8B526C1C4A83B65567ADFAD7F",
+            "x": 3338.510498046875,
+            "y": 2037.891845703125,
+            "name": "Polana",
+            "fuels": {
+                "GASOLINE": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 150.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "DIESEL": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 100.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "AVGAS": {
+                    "capacity": 0.0,
+                    "spawn_min": 0.0,
+                    "spawn_max": 0.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                }
+            }
+        },
+        {
+            "id": "A7550A0CA8AB03C8A83857F7EB1D2E5BE12C7D8A1491341306F6B7739F99B641",
+            "x": 9048.998046875,
+            "y": 6568.0234375,
+            "name": "Lembork",
+            "fuels": {
+                "GASOLINE": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 150.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "DIESEL": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 100.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "AVGAS": {
+                    "capacity": 0.0,
+                    "spawn_min": 0.0,
+                    "spawn_max": 0.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                }
+            }
+        },
+        {
+            "id": "200EBF334605DD66BA383B65B081800B8D1081D744E1CB8A27E244D37C59FBFA",
+            "x": 0.0,
+            "y": 0.0,
+            "name": "",
+            "fuels": {
+                "GASOLINE": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 150.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "DIESEL": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 100.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "AVGAS": {
+                    "capacity": 0.0,
+                    "spawn_min": 0.0,
+                    "spawn_max": 0.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                }
+            }
+        },
+        {
+            "id": "D392E5BA18860F6A7081E85C68F03542F731B2D47523C687CC2D15EEDDD3F7EB",
+            "x": 0.0,
+            "y": 0.0,
+            "name": "",
+            "fuels": {
+                "GASOLINE": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 150.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "DIESEL": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 100.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "AVGAS": {
+                    "capacity": 0.0,
+                    "spawn_min": 0.0,
+                    "spawn_max": 0.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                }
+            }
+        },
+        {
+            "id": "6DC6904690EF14A5BDD3114E2496E9F577CB030508791BBA35DAA15554B8CF46",
+            "x": 0.0,
+            "y": 0.0,
+            "name": "",
+            "fuels": {
+                "GASOLINE": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 150.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "DIESEL": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 100.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "AVGAS": {
+                    "capacity": 0.0,
+                    "spawn_min": 0.0,
+                    "spawn_max": 0.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                }
+            }
+        },
+        {
+            "id": "DDF0853554D32D3D4201A2BB99F46421578F3A4C0B8285FEF1DE50E9283D9950",
+            "x": 0.0,
+            "y": 0.0,
+            "name": "",
+            "fuels": {
+                "GASOLINE": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 150.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "DIESEL": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 100.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "AVGAS": {
+                    "capacity": 0.0,
+                    "spawn_min": 0.0,
+                    "spawn_max": 0.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                }
+            }
+        },
+        {
+            "id": "1BDE49012AF9E2BFAD1E084BC44BC08E8EC0159A2007B60B903392FE3BA6EBB1",
+            "x": 0.0,
+            "y": 0.0,
+            "name": "",
+            "fuels": {
+                "GASOLINE": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 150.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "DIESEL": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 100.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "AVGAS": {
+                    "capacity": 0.0,
+                    "spawn_min": 0.0,
+                    "spawn_max": 0.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                }
+            }
+        },
+        {
+            "id": "1ACFFACF99597A32CEF0E84A008767C0AFC960EA061FB3AE7933025B221ABE4E",
+            "x": 2004.0040283203126,
+            "y": 7378.18994140625,
+            "name": "Topolin",
+            "fuels": {
+                "GASOLINE": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 150.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "DIESEL": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 100.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "AVGAS": {
+                    "capacity": 0.0,
+                    "spawn_min": 0.0,
+                    "spawn_max": 0.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                }
+            }
+        },
+        {
+            "id": "3BE4A0855A90C1A4720831229D9B78F6E6B7A765C6E72890BB32011D570C2F78",
+            "x": 5659.0,
+            "y": 10622.0,
+            "name": "Sanctuary",
+            "fuels": {
+                "GASOLINE": {
+                    "capacity": 999999.0,
+                    "spawn_min": 999999.0,
+                    "spawn_max": 999999.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "DIESEL": {
+                    "capacity": 999999.0,
+                    "spawn_min": 999999.0,
+                    "spawn_max": 999999.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "AVGAS": {
+                    "capacity": 0.0,
+                    "spawn_min": 0.0,
+                    "spawn_max": 0.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                }
+            }
+        },
+        {
+            "id": "1272CD1094696AFF876F657C7C2E8934A6E473E33C87163116DFFD402632EE6A",
+            "x": 6375.654296875,
+            "y": 10987.6767578125,
+            "name": "North East Brena",
+            "fuels": {
+                "GASOLINE": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 150.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "DIESEL": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 100.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "AVGAS": {
+                    "capacity": 0.0,
+                    "spawn_min": 0.0,
+                    "spawn_max": 0.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                }
+            }
+        },
+        {
+            "id": "99D9C6779E004C024ECC92020B48D52850E2EAEFB13CE47770939E0A6E7FCA52",
+            "x": 0.0,
+            "y": 0.0,
+            "name": "",
+            "fuels": {
+                "GASOLINE": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 150.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "DIESEL": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 100.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "AVGAS": {
+                    "capacity": 0.0,
+                    "spawn_min": 0.0,
+                    "spawn_max": 0.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                }
+            }
+        },
+        {
+            "id": "36A57EA7994494EF08726FE02B930CE85920B8BB189C9E30E92964BFB86822F7",
+            "x": 0.0,
+            "y": 0.0,
+            "name": "",
+            "fuels": {
+                "GASOLINE": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 150.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "DIESEL": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 100.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "AVGAS": {
+                    "capacity": 0.0,
+                    "spawn_min": 0.0,
+                    "spawn_max": 0.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                }
+            }
+        },
+        {
+            "id": "3BE4A0855A90C1A4720831229D9B78F6E6B7A765C6E72890BB3201CD570C2F78",
+            "x": 6257.564453125,
+            "y": 3950.075439453125,
+            "name": "Nadbór",
+            "fuels": {
+                "GASOLINE": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 150.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "DIESEL": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 100.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "AVGAS": {
+                    "capacity": 0.0,
+                    "spawn_min": 0.0,
+                    "spawn_max": 0.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                }
+            }
+        },
+        {
+            "id": "6A6BB3509205F223B4104BD19EF049DC095464A92F26865B8D45E162470778BC",
+            "x": 7875.0400390625,
+            "y": 9834.609375,
+            "name": "Krsnik",
+            "fuels": {
+                "GASOLINE": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 150.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "DIESEL": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 100.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "AVGAS": {
+                    "capacity": 0.0,
+                    "spawn_min": 0.0,
+                    "spawn_max": 0.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                }
+            }
+        },
+        {
+            "id": "9D58F94DE0B55CBA3D87C554E051F34919C9A48F8F9420A5BCEE6C4EAF4CD3F1",
+            "x": 0.0,
+            "y": 0.0,
+            "name": "",
+            "fuels": {
+                "GASOLINE": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 150.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "DIESEL": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 100.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "AVGAS": {
+                    "capacity": 0.0,
+                    "spawn_min": 0.0,
+                    "spawn_max": 0.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                }
+            }
+        },
+        {
+            "id": "44146B470B09BA223DA331078016920C3B21BBFA4DEBB144B3B2B63AAE712379",
+            "x": 2184.39013671875,
+            "y": 11166.474609375,
+            "name": "Branzów Castle",
+            "fuels": {
+                "GASOLINE": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 150.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "DIESEL": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 100.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "AVGAS": {
+                    "capacity": 0.0,
+                    "spawn_min": 0.0,
+                    "spawn_max": 0.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                }
+            }
+        },
+        {
+            "id": "EA1146A111149CE64C0FF29AC68BE794B4B44D49F7C44FBD362518595DB97178",
+            "x": 11525.2548828125,
+            "y": 9445.283203125,
+            "name": "Sitnik",
+            "fuels": {
+                "GASOLINE": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 150.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "DIESEL": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 100.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "AVGAS": {
+                    "capacity": 0.0,
+                    "spawn_min": 0.0,
+                    "spawn_max": 0.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                }
+            }
+        },
+        {
+            "id": "9CD492826FFC6634B45D36AF64D5FD8825A8722B57D5AABA7AAD4F3BCB86208B",
+            "x": 4936.68408203125,
+            "y": 2135.859130859375,
+            "name": "Swarog",
+            "fuels": {
+                "GASOLINE": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 150.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "DIESEL": {
+                    "capacity": 150.0,
+                    "spawn_min": 10.0,
+                    "spawn_max": 100.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                },
+                "AVGAS": {
+                    "capacity": 0.0,
+                    "spawn_min": 0.0,
+                    "spawn_max": 0.0,
+                    "reset_on_spawn": 0,
+                    "spawn_frequency": 259200
+                }
+            }
+        }
+    ]
+}

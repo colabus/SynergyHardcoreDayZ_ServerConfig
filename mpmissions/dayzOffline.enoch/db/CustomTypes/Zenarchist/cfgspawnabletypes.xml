@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<spawnabletypes>
+	<type name="ZmbM_Mummy">
+		<cargo chance="1.0"> <item name="PumpkinHelmet" /> </cargo>
+		<cargo chance="1.0"> <item name="Worm" /> </cargo>
+		<cargo chance="1.0"> <item name="Rag" /> </cargo>
+		<cargo chance="0.5"> <item name="HDSN_Charcoal" /> </cargo>
+		<cargo chance="0.5"> <item name="HDSN_Gunpowder" /> </cargo>
+		<cargo chance="0.1"> <item name="NailBox" /> </cargo>
+		<cargo chance="0.1"> <item name="ZenSwissKnife" /> </cargo>
+		<cargo chance="0.1"> <item name="Iceaxe" /> </cargo>
+		<cargo chance="0.1"> <item name="ZenZippoLighter_Zenarchist" /> </cargo>
+		<cargo chance="0.1"> <item name="ZenFlask" /> </cargo>
+		<cargo chance="0.1"> <item name="Vodka" /> </cargo>
+		<cargo chance="0.1"> <item name="ZenJameson" /> </cargo>
+		<cargo chance="0.1"> <item name="Cauldron" /> </cargo>
+		<cargo preset="Xmas_Food_Small" />
+		<cargo preset="ContaminatedCargo" />
+		<cargo preset="Xmas_Weapons_Small" />
+		<cargo preset="Xmas_Fillers_Small" />
+		<cargo preset="Xmas_Repairs_Small" />
+	</type>
+	<type name="ZenSwissKnife">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Zen_ChessBoard">
+        <attachments chance="0.5">
+            <item name="Zen_ChessWhitePawn" chance="1.0" />
+        </attachments>
+		<attachments chance="0.5">
+            <item name="Zen_ChessWhiteKing" chance="1.0" />
+        </attachments>
+		<attachments chance="0.5">
+            <item name="Zen_ChessBlackKing" chance="1.0" />
+        </attachments>
+		<attachments chance="0.5">
+            <item name="Zen_ChessBlackPawn" chance="1.0" />
+        </attachments>
+		<attachments chance="0.5">
+            <item name="Zen_ChessWhiteQueen" chance="1.0" />
+        </attachments>
+		<attachments chance="0.5">
+            <item name="Zen_ChessBlackQueen" chance="1.0" />
+        </attachments>
+    </type>
+	<type name="SmallProtectorCase">
+		<hoarder />
+		<cargo chance="0.1">
+			<item name="NailBox" />
+		</cargo>
+	</type>
+	<type name="Bear_Beige">
+		<cargo chance="0.9">
+			<item name="Pen_Blue" chance="1.0" />
+		</cargo>
+		<cargo chance="0.9">
+			<item name="ChernarusMap" chance="1.0" />
+		</cargo>
+		<cargo chance="0.9">
+			<item name="SteakKnife" chance="1.0" />
+		</cargo>
+		<cargo chance="0.03"> <item name="Battery9vLithium" /> </cargo>
+		<cargo chance="0.1"> <item name="Battery9V" /> </cargo>
+	</type>
+	<type name="Bear_Dark">
+		<cargo chance="0.9">
+			<item name="Pen_Black" chance="1.0" />
+		</cargo>
+		<cargo chance="0.9">
+			<item name="ChernarusMap" chance="1.0" />
+		</cargo>
+		<cargo chance="0.9">
+			<item name="SteakKnife" chance="1.0" />
+		</cargo>
+		<cargo chance="0.1"> <item name="Battery9vLithium" /> </cargo>
+		<cargo chance="0.5"> <item name="Battery9V" /> </cargo>
+	</type>
+	<type name="Bear_Pink">
+		<cargo chance="0.9">
+			<item name="Pen_Pink" chance="1.0" />
+		</cargo>
+		<cargo chance="0.9">
+			<item name="ChernarusMap" chance="1.0" />
+		</cargo>
+		<cargo chance="0.9">
+			<item name="SteakKnife" chance="1.0" />
+		</cargo>
+		<cargo chance="0.1"> <item name="Battery9vLithium" /> </cargo>
+		<cargo chance="0.5"> <item name="Battery9V" /> </cargo>
+	</type>
+	<type name="Bear_White">
+		<cargo chance="0.9">
+			<item name="Pen_Green" chance="1.0" />
+		</cargo>
+		<cargo chance="0.9">
+			<item name="ChernarusMap" chance="1.0" />
+		</cargo>
+		<cargo chance="0.9">
+			<item name="SteakKnife" chance="1.0" />
+		</cargo>
+		<cargo chance="0.1"> <item name="Battery9vLithium" /> </cargo>
+		<cargo chance="0.5"> <item name="Battery9V" /> </cargo>
+	</type>
+	<type name="Headtorch_Black">
+        <attachments chance="0.2">
+            <item name="Battery9V" chance="1.0" />
+        </attachments>
+    </type>
+	<type name="Headtorch_Grey">
+        <attachments chance="0.1">
+            <item name="Battery9V" chance="1.0" />
+        </attachments>
+    </type>
+	<type name="Flashlight">
+        <attachments chance="0.1">
+            <item name="Battery9V" chance="1.0" />
+        </attachments>
+    </type>
+	<type name="Megaphone">
+        <attachments chance="0.5">
+            <item name="Battery9V" chance="1.0" />
+        </attachments>
+    </type>
+	<type name="UniversalLight">
+        <attachments chance="0.1">
+            <item name="Battery9V" chance="1.0" />
+        </attachments>
+    </type>
+	<type name="NVGoggles">
+        <attachments chance="0.3">
+            <item name="Battery9V" chance="0.8" />
+            <item name="Battery9vLithium" chance="0.2" />
+        </attachments>
+    </type>
+	<type name="Zen_CassetteCase">
+		<cargo chance="1.0">
+			<item name="Zen_Cassette_Zen1" chance="0.01" />
+			<item name="Zen_Cassette_Zen2" chance="0.01" />
+			<item name="Zen_Cassette_Zen3" chance="0.01" />
+			<item name="Zen_Cassette_Zen4" chance="0.01" />
+			<item name="Zen_Cassette_Zen5" chance="0.01" />
+			<item name="Zen_Cassette_Zen6" chance="0.01" />
+			<item name="Zen_Cassette_Zen7" chance="0.01" />
+			<item name="Zen_Cassette_Zen8" chance="0.01" />
+			<item name="Zen_Cassette_Zen9" chance="0.01" />
+			<item name="Zen_Cassette_Zen10" chance="0.01" />
+			<item name="Zen_Cassette_Zen11" chance="0.01" />
+			<item name="Zen_Cassette_Zen12" chance="0.01" />
+			<item name="Zen_Cassette_Zen13" chance="0.01" />
+			<item name="Zen_Cassette_Zen14" chance="0.01" />
+			<item name="Zen_Cassette_Zen15" chance="0.01" />
+			<item name="Zen_Cassette_Classical1" chance="0.01" />
+			<item name="Zen_Cassette_Classical2" chance="0.01" />
+			<item name="Zen_Cassette_Classical3" chance="0.01" />
+			<item name="Zen_Cassette_Classical4" chance="0.01" />
+			<item name="Zen_Cassette_Classical5" chance="0.01" />
+			<item name="Zen_Cassette_Classical6" chance="0.01" />
+			<item name="Zen_Cassette_Classical7" chance="0.01" />
+			<item name="Zen_Cassette_Classical8" chance="0.01" />
+			<item name="Zen_Cassette_Classical9" chance="0.01" />
+			<item name="Zen_Cassette_Alan1" chance="0.01" />
+			<item name="Zen_Cassette_Alan2" chance="0.01" />
+			<item name="Zen_Cassette_Alan3" chance="0.01" />
+			<item name="Zen_Cassette_Alan4" chance="0.01" />
+			<item name="Zen_Cassette_Alan5" chance="0.01" />
+			<item name="Zen_Cassette_Alan6" chance="0.01" />
+			<item name="Zen_Cassette_Alan7" chance="0.01" />
+			<item name="Zen_Cassette_Alan8" chance="0.01" />
+			<item name="Zen_Cassette_Alan9" chance="0.01" />
+			<item name="Zen_Cassette_Song1" chance="0.01" />
+			<item name="Zen_Cassette_Song2" chance="0.01" />
+			<item name="Zen_Cassette_Song3" chance="0.01" />
+			<item name="Zen_Cassette_Song4" chance="0.01" />
+			<item name="Zen_Cassette_Song5" chance="0.01" />
+			<item name="Zen_Cassette_Song6" chance="0.01" />
+			<item name="Zen_Cassette_Song7" chance="0.01" />
+			<item name="Zen_Cassette_Song8" chance="0.01" />
+			<item name="Zen_Cassette_Song9" chance="0.01" />
+			<item name="Zen_Cassette_Song10" chance="0.01" />
+			<item name="Zen_Cassette_Song11" chance="0.01" />
+			<item name="Zen_Cassette_Song12" chance="0.01" />
+			<item name="Zen_Cassette_Song13" chance="0.01" />
+			<item name="Zen_Cassette_Song14" chance="0.01" />
+			<item name="Zen_Cassette_Song15" chance="0.01" />
+			<item name="Zen_Cassette_Song16" chance="0.01" />
+			<item name="Zen_Cassette_Song17" chance="0.01" />
+			<item name="Zen_Cassette_Song18" chance="0.01" />
+			<item name="Zen_Cassette_Song19" chance="0.01" />
+			<item name="Zen_Cassette_Song20" chance="0.01" />
+			<item name="Zen_Cassette_Song21" chance="0.01" />
+			<item name="Zen_Cassette_Song22" chance="0.01" />
+			<item name="Zen_Cassette_Song23" chance="0.01" />
+			<item name="Zen_Cassette_Song24" chance="0.01" />
+			<item name="Zen_Cassette_Song25" chance="0.01" />
+			<item name="Zen_Cassette_Song26" chance="0.01" />
+			<item name="Zen_Cassette_Song27" chance="0.01" />
+			<item name="Zen_Cassette_Song28" chance="0.01" />
+			<item name="Zen_Cassette_Song29" chance="0.01" />
+			<item name="Zen_Cassette_Song30" chance="0.01" />
+			<item name="Zen_Cassette_Song31" chance="0.01" />
+			<item name="Zen_Cassette_Song32" chance="0.01" />
+			<item name="Zen_Cassette_Song33" chance="0.01" />
+		</cargo>
+	</type>
+</spawnabletypes>

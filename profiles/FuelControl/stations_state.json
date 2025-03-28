@@ -1,0 +1,328 @@
+{
+    "version": 2,
+    "stations": [
+        {
+            "id": "E8613380DD0B91CCBFE70D3DAB7BB5B9A5146883C4E11A198E5CABA424950AD1",
+            "fuels": {
+                "GASOLINE": {
+                    "available": 150.0,
+                    "last_spawn": 1736924774
+                },
+                "DIESEL": {
+                    "available": 150.0,
+                    "last_spawn": 1736924774
+                },
+                "AVGAS": {
+                    "available": 0.0,
+                    "last_spawn": 1736924774
+                }
+            }
+        },
+        {
+            "id": "34887ED3477BE0F3BC3C50B89884A7F7FEDB57F8B526C1C4A83B65567ADFAD7F",
+            "fuels": {
+                "GASOLINE": {
+                    "available": 150.0,
+                    "last_spawn": 1737017740
+                },
+                "AVGAS": {
+                    "available": 0.0,
+                    "last_spawn": 1737017740
+                },
+                "DIESEL": {
+                    "available": 150.0,
+                    "last_spawn": 1737017740
+                }
+            }
+        },
+        {
+            "id": "1272CD1094696AFF876F657C7C2E8934A6E473E33C87163116DFFD402632EE6A",
+            "fuels": {
+                "GASOLINE": {
+                    "available": 150.0,
+                    "last_spawn": 1737017740
+                },
+                "AVGAS": {
+                    "available": 0.0,
+                    "last_spawn": 1737017740
+                },
+                "DIESEL": {
+                    "available": 150.0,
+                    "last_spawn": 1737017740
+                }
+            }
+        },
+        {
+            "id": "200EBF334605DD66BA383B65B081800B8D1081D744E1CB8A27E244D37C59FBFA",
+            "fuels": {
+                "GASOLINE": {
+                    "available": 54.759700775146487,
+                    "last_spawn": 1736919402
+                },
+                "DIESEL": {
+                    "available": 64.75749969482422,
+                    "last_spawn": 1736919402
+                },
+                "AVGAS": {
+                    "available": 0.0,
+                    "last_spawn": 1736919402
+                }
+            }
+        },
+        {
+            "id": "D392E5BA18860F6A7081E85C68F03542F731B2D47523C687CC2D15EEDDD3F7EB",
+            "fuels": {
+                "GASOLINE": {
+                    "available": 102.56500244140625,
+                    "last_spawn": 1736924774
+                },
+                "DIESEL": {
+                    "available": 89.37650299072266,
+                    "last_spawn": 1736924774
+                },
+                "AVGAS": {
+                    "available": 0.0,
+                    "last_spawn": 1736924774
+                }
+            }
+        },
+        {
+            "id": "6DC6904690EF14A5BDD3114E2496E9F577CB030508791BBA35DAA15554B8CF46",
+            "fuels": {
+                "GASOLINE": {
+                    "available": 23.03569984436035,
+                    "last_spawn": 1736924774
+                },
+                "DIESEL": {
+                    "available": 109.16000366210938,
+                    "last_spawn": 1736924774
+                },
+                "AVGAS": {
+                    "available": 0.0,
+                    "last_spawn": 1736924774
+                }
+            }
+        },
+        {
+            "id": "DDF0853554D32D3D4201A2BB99F46421578F3A4C0B8285FEF1DE50E9283D9950",
+            "fuels": {
+                "GASOLINE": {
+                    "available": 150.0,
+                    "last_spawn": 1736821208
+                },
+                "DIESEL": {
+                    "available": 139.81199645996095,
+                    "last_spawn": 1736821208
+                },
+                "AVGAS": {
+                    "available": 0.0,
+                    "last_spawn": 1736821208
+                }
+            }
+        },
+        {
+            "id": "1BDE49012AF9E2BFAD1E084BC44BC08E8EC0159A2007B60B903392FE3BA6EBB1",
+            "fuels": {
+                "GASOLINE": {
+                    "available": 79.34960174560547,
+                    "last_spawn": 1736924774
+                },
+                "AVGAS": {
+                    "available": 0.0,
+                    "last_spawn": 1736924774
+                },
+                "DIESEL": {
+                    "available": 26.332000732421876,
+                    "last_spawn": 1736924774
+                }
+            }
+        },
+        {
+            "id": "1ACFFACF99597A32CEF0E84A008767C0AFC960EA061FB3AE7933025B221ABE4E",
+            "fuels": {
+                "GASOLINE": {
+                    "available": 150.0,
+                    "last_spawn": 1737017740
+                },
+                "AVGAS": {
+                    "available": 0.0,
+                    "last_spawn": 1737017740
+                },
+                "DIESEL": {
+                    "available": 150.0,
+                    "last_spawn": 1737017740
+                }
+            }
+        },
+        {
+            "id": "3BE4A0855A90C1A4720831229D9B78F6E6B7A765C6E72890BB32011D570C2F78",
+            "fuels": {
+                "GASOLINE": {
+                    "available": 999999.0,
+                    "last_spawn": 1737017740
+                },
+                "AVGAS": {
+                    "available": 0.0,
+                    "last_spawn": 1737017740
+                },
+                "DIESEL": {
+                    "available": 999999.0,
+                    "last_spawn": 1737017740
+                }
+            }
+        },
+        {
+            "id": "3BE4A0855A90C1A4720831229D9B78F6E6B7A765C6E72890BB3201CD570C2F78",
+            "fuels": {
+                "GASOLINE": {
+                    "available": 116.79900360107422,
+                    "last_spawn": 1736924774
+                },
+                "AVGAS": {
+                    "available": 0.0,
+                    "last_spawn": 1736924774
+                },
+                "DIESEL": {
+                    "available": 20.490699768066408,
+                    "last_spawn": 1736924774
+                }
+            }
+        },
+        {
+            "id": "99D9C6779E004C024ECC92020B48D52850E2EAEFB13CE47770939E0A6E7FCA52",
+            "fuels": {
+                "GASOLINE": {
+                    "available": -0.00000998778978100745,
+                    "last_spawn": 1736924774
+                },
+                "DIESEL": {
+                    "available": -7.141329660953488e-8,
+                    "last_spawn": 1736924774
+                },
+                "AVGAS": {
+                    "available": 0.0,
+                    "last_spawn": 1736924774
+                }
+            }
+        },
+        {
+            "id": "36A57EA7994494EF08726FE02B930CE85920B8BB189C9E30E92964BFB86822F7",
+            "fuels": {
+                "GASOLINE": {
+                    "available": 129.39100646972657,
+                    "last_spawn": 1736924774
+                },
+                "AVGAS": {
+                    "available": 0.0,
+                    "last_spawn": 1736924774
+                },
+                "DIESEL": {
+                    "available": 141.23500061035157,
+                    "last_spawn": 1736924774
+                }
+            }
+        },
+        {
+            "id": "44146B470B09BA223DA331078016920C3B21BBFA4DEBB144B3B2B63AAE712379",
+            "fuels": {
+                "GASOLINE": {
+                    "available": 59.954498291015628,
+                    "last_spawn": 1737017740
+                },
+                "AVGAS": {
+                    "available": 0.0,
+                    "last_spawn": 1737017740
+                },
+                "DIESEL": {
+                    "available": 87.09739685058594,
+                    "last_spawn": 1737017740
+                }
+            }
+        },
+        {
+            "id": "6A6BB3509205F223B4104BD19EF049DC095464A92F26865B8D45E162470778BC",
+            "fuels": {
+                "GASOLINE": {
+                    "available": 89.89839935302735,
+                    "last_spawn": 1737017740
+                },
+                "AVGAS": {
+                    "available": 0.0,
+                    "last_spawn": 1737017740
+                },
+                "DIESEL": {
+                    "available": 62.963600158691409,
+                    "last_spawn": 1737017740
+                }
+            }
+        },
+        {
+            "id": "9D58F94DE0B55CBA3D87C554E051F34919C9A48F8F9420A5BCEE6C4EAF4CD3F1",
+            "fuels": {
+                "GASOLINE": {
+                    "available": 150.0,
+                    "last_spawn": 1736835185
+                },
+                "DIESEL": {
+                    "available": 142.65499877929688,
+                    "last_spawn": 1736835185
+                },
+                "AVGAS": {
+                    "available": 0.0,
+                    "last_spawn": 1736835185
+                }
+            }
+        },
+        {
+            "id": "A7550A0CA8AB03C8A83857F7EB1D2E5BE12C7D8A1491341306F6B7739F99B641",
+            "fuels": {
+                "GASOLINE": {
+                    "available": 146.70799255371095,
+                    "last_spawn": 1736924774
+                },
+                "AVGAS": {
+                    "available": 0.0,
+                    "last_spawn": 1736924774
+                },
+                "DIESEL": {
+                    "available": 83.90239715576172,
+                    "last_spawn": 1736924774
+                }
+            }
+        },
+        {
+            "id": "EA1146A111149CE64C0FF29AC68BE794B4B44D49F7C44FBD362518595DB97178",
+            "fuels": {
+                "GASOLINE": {
+                    "available": 132.48800659179688,
+                    "last_spawn": 1736932491
+                },
+                "AVGAS": {
+                    "available": 0.0,
+                    "last_spawn": 1736932491
+                },
+                "DIESEL": {
+                    "available": 83.97810363769531,
+                    "last_spawn": 1736932491
+                }
+            }
+        },
+        {
+            "id": "9CD492826FFC6634B45D36AF64D5FD8825A8722B57D5AABA7AAD4F3BCB86208B",
+            "fuels": {
+                "GASOLINE": {
+                    "available": 150.0,
+                    "last_spawn": 1737017740
+                },
+                "AVGAS": {
+                    "available": 0.0,
+                    "last_spawn": 1737017740
+                },
+                "DIESEL": {
+                    "available": 26.990299224853517,
+                    "last_spawn": 1737017740
+                }
+            }
+        }
+    ]
+}

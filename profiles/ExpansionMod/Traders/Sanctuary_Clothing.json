@@ -1,0 +1,23 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": 3,
+    "TraderIcon": "Backpack",
+    "Currencies": [
+        "nail"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Coats_And_Jackets:0",
+        "Shirts_And_TShirts:0",
+        "Skirts_And_Dresses:0",
+        "Pants_And_Shorts:0",
+        "Boots_And_Shoes:0",
+        "Exchange"
+    ],
+    "Items": {}
+}

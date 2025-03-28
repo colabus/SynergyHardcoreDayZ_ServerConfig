@@ -1,0 +1,89 @@
+{
+    "ConfigVersion": 22,
+    "ID": 2,
+    "Type": 1,
+    "Title": "Secret Agent Man",
+    "Descriptions": [
+        "Scarecrow: Since I imagine you'll be going back to Sanctuary sometime soon, can you give Sebastian this encrypted radio? That way he doesn't need to risk the lives of fine people like yourself to bring me such dangerous explosive equipment next time. Do this for me, and you can access my marketplace next time you visit. I think you'll like what I've got.",
+        "Scarecrow: I haven't received word from Sanctuary that they received the radio I gave you yet. Give them the radio, then we can talk.",
+        "Sebastian: Scarecrow's still alive, huh? That's good news. Thanks for bringing this back. We've had trouble with bandits intercepting our trading expeditions. This encrypted radio should help my people safe."
+    ],
+    "ObjectiveText": "Return the Encrypted Radio to Sebastian at Sanctuary.",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [
+        {
+            "ClassName": "ExpansionQuestItem_EncryptedRadio",
+            "Amount": 1
+        }
+    ],
+    "Rewards": [
+        {
+            "ClassName": "InjectorExpBoost5x",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "Hatchet",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "Hacksaw",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        3
+    ],
+    "QuestTurnInIDs": [
+        2
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 2,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        1
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

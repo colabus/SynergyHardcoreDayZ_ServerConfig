@@ -1,0 +1,21 @@
+{
+    "m_Version": 2,
+    "NewsFeedTexts": [
+		{
+            "m_Title": "LATEST UPDATES",
+            "m_Text": "Visit www.HardcoreDayZ.com/changes to see the server's changelog which lists the most recent updates/changes/bugfixes."
+        }
+    ],
+    "NewsFeedLinks": [
+        {
+            "m_Label": "Website & Contact Admin",
+            "m_Icon": "set:expansion_iconset image:icon_home",
+            "m_URL": "http://hardcoredayz.com/"
+        },
+        {
+            "m_Label": "Donate",
+            "m_Icon": "set:expansion_iconset image:icon_paypal",
+            "m_URL": "https://www.paypal.com/donate/?hosted_button_id=2682KA93PLS66"
+        }
+    ]
+}

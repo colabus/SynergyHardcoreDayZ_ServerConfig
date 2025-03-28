@@ -1,0 +1,56 @@
+{
+    "ConfigVersion": 22,
+    "ID": 15,
+    "Type": 1,
+    "Title": "Odd Jobs",
+    "Descriptions": [
+        "Sebastian: Make sure to check out the notice board in the common area when you get time. We get a lot of drifters coming through here so the locals like to leave jobs there for them to do in exchange for various payments.",
+        "Sebastian: Make sure to check out the notice board in the common area when you get time. We get a lot of drifters coming through here so the locals like to leave jobs there for them to do in exchange for various payments.",
+        "Here you will find a list of repeatable quests. Most quests listed here are Weekly quests which reset every Wednesday, so make sure to check back often if you're bored or need any of the quest reward supplies."
+    ],
+    "ObjectiveText": "Check out the Quest Board",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        2
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 9,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        3
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

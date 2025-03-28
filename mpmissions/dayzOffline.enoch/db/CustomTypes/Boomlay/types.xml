@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<!-- New stuff -->
+	<type name="zen_bl_logstorage_kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_firewoodstorage_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_solar_panel_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_greenhouse_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_repairbench_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_workbench_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_rain_collector_Kit">
+		<lifetime>14400</lifetime> 
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+	</type>
+	<type name="bl_rain_collector_prefab_Kit">
+		<lifetime>14400</lifetime> 
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+	</type>
+	<type name="bl_rain_collector">
+		<lifetime>1814400</lifetime> 
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+	</type>
+	<type name="bl_firewoodstorage">
+        <lifetime>1814400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_workbench">
+        <lifetime>1814400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_greenhouse">
+        <lifetime>1814400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_floor_lamp">
+        <lifetime>1814400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_desk_lamp">
+        <lifetime>1814400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_firewoodstorage">
+        <lifetime>1814400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_solar_panel">
+        <lifetime>1814400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_repairbench">
+		<lifetime>1814400</lifetime> 
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+	</type>
+	<type name="bl_logstorage">
+		<lifetime>1814400</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+	</type>
+	<type name="bl_small_spot">
+		<nominal>12</nominal>
+		<min>6</min>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor" />
+		<usage name="Industrial" />
+	</type>
+	<type name="bl_repair_anvil">
+		<nominal>12</nominal>
+		<min>8</min>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial" />
+		<usage name="Farm" />
+	</type>
+	<type name="bl_painting_1">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>604800</lifetime>
+		<restock>0</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Town" />
+	</type>
+	<type name="bl_painting_2">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>604800</lifetime>
+		<restock>0</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Town" />
+	</type>
+	<type name="bl_painting_3">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>604800</lifetime>
+		<restock>0</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Town" />
+	</type>
+	<type name="bl_painting_4">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>604800</lifetime>
+		<restock>0</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Town" />
+	</type>
+	<type name="bl_painting_5">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>604800</lifetime>
+		<restock>0</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Town" />
+	</type>
+	<type name="bl_painting_6">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>604800</lifetime>
+		<restock>0</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Town" />
+	</type>
+	<type name="bl_painting_7">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>604800</lifetime>
+		<restock>0</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Town" />
+	</type>
+	<type name="bl_painting_8">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>604800</lifetime>
+		<restock>0</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Town" />
+	</type>
+	<type name="bl_painting_9">
+		<nominal>1</nominal>
+		<min>1</min>
+		<lifetime>604800</lifetime>
+		<restock>0</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools"/>
+		<tag name="floor" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Town" />
+	</type>
+	
+	<!-- kits -->
+	<type name="bl_pallet_cabinet_s_kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_pallet_cabinet_m_kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_pallet_cabinet_l_kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	
+	<!-- old stuff -->
+	<type name="bl_anatolian_carpet_1">
+        <lifetime>1814400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_anatolian_carpet_2">
+        <lifetime>1814400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_old_fridge">
+        <lifetime>1814400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_pallet_bed_m">
+        <lifetime>1814400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_pallet_bed_s">
+        <lifetime>1814400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_pallet_cabinet_m">
+        <lifetime>1814400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_pallet_cabinet_l">
+        <lifetime>1814400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_pallet_cabinet_s">
+        <lifetime>1814400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_pallet_table_s">
+        <lifetime>1814400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_pallet_table_m">
+        <lifetime>1814400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_pallet_table_l">
+        <lifetime>1814400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_old_crate">
+        <lifetime>1814400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_pallet_box_1">
+        <lifetime>1814400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_pallet_box_2">
+        <lifetime>1814400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_pallet_box_3">
+        <lifetime>1814400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_pallet_box_4">
+        <lifetime>1814400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_pallet_box_1_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_pallet_box_2_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_pallet_box_3_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_pallet_box_4_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_stove_barrel">
+        <lifetime>1814400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<!-- Kits -->
+    <type name="bl_pallet">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+		<usage name="Military"/>
+    </type>
+	<type name="bl_paint_tube">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+		<usage name="Military"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="bl_pallet_box_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_pallet_frame_solo">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_old_fridge_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_pallet_bed_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_pallet_cabinet_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_pallet_table_s_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_pallet_table_m_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_pallet_table_l_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="bl_anatolian_carpet_1_Kit">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="bl_anatolian_carpet_2_Kit">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="bl_ficus_bonsai">
+        <nominal>1</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="bl_cercestis_mirabilis">
+        <nominal>1</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="bl_dieffenbachia">
+        <nominal>1</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="bl_monstera">
+        <nominal>1</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+</types>

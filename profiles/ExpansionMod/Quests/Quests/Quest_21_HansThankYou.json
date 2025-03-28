@@ -1,0 +1,66 @@
+{
+    "ConfigVersion": 22,
+    "ID": 21,
+    "Type": 1,
+    "Title": "Hans",
+    "Descriptions": [
+        "Sebastian: Hans made it back to Sanctuary in one piece. He's taken one of the bunks over in the rest area past the games machine - go and speak to him when you find time, he wants to say thanks - and he might have some work for you if you're interested.",
+        "Sebastian: Hans made it back to Sanctuary in one piece. He's taken one of the bunks over in the rest area past the games machine - go and speak to him when you find time, he wants to say thanks - and he might have some work for you if you're interested.",
+        "Hans: You saved me, survivor. I'll forever be in your debt. That Yellow King was a bastard. We're all grateful for your work in taking him out. Now that I'm back in Sanctuary Sebastian has tasked me with keeping a few important things in order. Check back with me regularly if you need some work - it pays well. Oh, and hey - take this. I found it on my way back to Sanctuary. There's something written on the back about some treasure, but I can't leave my station, so it's no use to me."
+    ],
+    "ObjectiveText": "Speak to Hans",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ZenTreasure_RandomPhoto",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        2
+    ],
+    "QuestTurnInIDs": [
+        8
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 11,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        11
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

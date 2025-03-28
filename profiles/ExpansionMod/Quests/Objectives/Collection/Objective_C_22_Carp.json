@@ -1,0 +1,25 @@
+{
+    "ConfigVersion": 28,
+    "ID": 22,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Catch Carp",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 10,
+            "ClassName": "Carp",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+		{
+            "Amount": 1,
+            "ClassName": "PotatoSeed",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

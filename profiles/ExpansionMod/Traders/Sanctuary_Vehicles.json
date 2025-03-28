@@ -1,0 +1,23 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_VEHICLES",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": 3,
+    "TraderIcon": "Car",
+    "Currencies": [
+        "nail"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Vehicle_Cars",
+		"Vehicle_Snowmobiles",
+        "Vehicle_Parts",
+        "Vehicle_Tools",
+		"Vehicle_Spraycans:0",
+        "Exchange"
+    ],
+    "Items": {}
+}

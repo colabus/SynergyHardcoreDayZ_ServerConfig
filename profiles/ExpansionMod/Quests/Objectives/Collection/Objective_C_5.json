@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 5,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Take the Yellow King's Helmet to Sebastian",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "DarkMotoHelmet_YellowScarred",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

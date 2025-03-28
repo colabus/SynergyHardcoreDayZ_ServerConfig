@@ -1,0 +1,109 @@
+{
+    "m_Version": 12,
+    "DisplayName": "AMPOULES - TIER 1",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+        {
+            "ClassName": "AmpouleAlcohol",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleHihlofos",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleCypermetrin",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleDiazinon",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleArsenic",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleNovocain",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleIrineks",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleNimesulid",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "AmpouleKetoprofen",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+	]
+}

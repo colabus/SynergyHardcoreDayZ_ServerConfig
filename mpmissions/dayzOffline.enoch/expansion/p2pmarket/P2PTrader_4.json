@@ -1,0 +1,48 @@
+{
+    "m_Version": 8,
+    "m_TraderID": 4,
+    "m_ClassName": "Zen_TraderObjectP2P",
+    "m_Position": [
+        11532.015625,
+        181.8401336669922,
+        9464.552734375
+    ],
+    "m_Orientation": [
+        -39.5999641418457,
+        0.0,
+        0.0
+    ],
+    "m_LoadoutFile": "",
+    "m_VehicleSpawnPosition": [
+        11532.015625,
+        181.8401336669922,
+        9464.552734375
+    ],
+    "m_WatercraftSpawnPosition": [
+        11532.015625,
+        181.8401336669922,
+        9464.552734375
+    ],
+    "m_AircraftSpawnPosition": [
+        11532.015625,
+        181.8401336669922,
+        9464.552734375
+    ],
+    "m_DisplayName": "Player-to-Player Market",
+    "m_DisplayIcon": "Deliver",
+    "m_Faction": "InvincibleObservers",
+    "m_Waypoints": [],
+    "m_EmoteID": 46,
+    "m_EmoteIsStatic": 0,
+    "m_RequiredFaction": "",
+    "m_UseReputation": 0,
+    "m_MinRequiredReputation": 0,
+    "m_MaxRequiredReputation": 2147483647,
+    "m_RequiredCompletedQuestID": -1,
+    "m_IsGlobalTrader": 1,
+    "m_Currencies": [
+        "nail"
+    ],
+    "m_DisplayCurrencyValue": 1,
+    "m_DisplayCurrencyName": ""
+}

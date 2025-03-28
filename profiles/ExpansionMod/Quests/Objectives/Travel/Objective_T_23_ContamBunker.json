@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 23,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Find the Contaminated Mineshaft",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        7417.173340,
+		300.0,
+		2694.006592
+    ],
+    "MaxDistance": 100.0,
+    "MarkerName": "Find Tunnel Entrance",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

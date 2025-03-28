@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+	<event name="InfectedArmyRussia">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>250</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="20" type="ZmbM_PatrolNormal_Autumn"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_PatrolNormal_Flat"/>
+            <child lootmax="5" lootmin="0" max="0" min="20" type="ZmbM_PatrolNormal_PautRev"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_RU_Olive_Officer"/>
+            <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_SoldierNormal"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_RU_EMR_Officer"/>
+            <child lootmax="5" lootmin="0" max="0" min="3" type="ZmbM_RU_EMRDes_Soldier"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_RU_EMR_Soldier"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_RU_SURPAT_GorkaSuit"/>
+			<child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_RU_EMRFull_GorkaSuit"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_RU_Classic_GorkaSuit"/>
+            <child lootmax="5" lootmin="0" max="0" min="3" type="ZmbM_RU_EMR_GorkaSuit"/>
+			<child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_RU_EMRAlt_GorkaSuit"/>
+			<child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_RU_EMRDes_GorkaSuit"/>
+			<child lootmax="5" lootmin="0" max="0" min="3" type="ZmbM_RU_Multicam_GorkaSuit"/>
+        </children>
+    </event>
+	<event name="InfectedArmyMarines">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>250</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="20" type="ZmbM_PatrolNormal_Autumn"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_PatrolNormal_Flat"/>
+            <child lootmax="5" lootmin="0" max="0" min="20" type="ZmbM_PatrolNormal_PautRev"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_PatrolNormal_Summer"/>
+            <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_SoldierNormal"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_Heavy_Woodland"/>
+            <child lootmax="5" lootmin="0" max="0" min="3" type="ZmbM_usSoldier_Officer_Desert"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_normal_Desert"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_normal_Woodland"/>
+			<child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_LDF_Olive_Soldier"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_LDF_Woodland_Soldier"/>
+            <child lootmax="5" lootmin="0" max="0" min="3" type="ZmbM_LDF_Woodland_Officer"/>
+			<child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_US_Army_M81_BDU"/>
+			<child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_US_Marines_WoodlandMarpat_BDU"/>
+			<child lootmax="5" lootmin="0" max="0" min="3" type="ZmbM_US_OCP_WesternNBCSuit"/>
+        </children>
+    </event>
+	<event name="InfectedArmyAirforce">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>250</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="30" type="ZmbM_LDF_Olive_Soldier"/>
+            <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_LDF_Olive_PilotCoveralls"/>
+            <child lootmax="5" lootmin="0" max="0" min="20" type="ZmbM_LDF_Woodland_Soldier"/>
+            <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_US_Army_M81_BDU"/>
+            <child lootmax="5" lootmin="0" max="0" min="20" type="ZmbM_US_Marines_WoodlandMarpat_BDU"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_LDF_Woodland_Officer"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_US_Airforce_GreyDigital_BDU"/>
+        </children>
+    </event>
+	<event name="InfectedMedicWHO">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>100</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_UN_doctor_WHO_F"/>
+			<child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_UN_nurse_WHO_F"/>
+            <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbF_PatientOld"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_UN_doctor_WHO_M"/>
+            <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbM_PatientSkinny"/>
+			<child lootmax="5" lootmin="0" max="0" min="1" type="ZmbF_JournalistNormal_Blue"/>
+			<child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_UN_WHO_WesternNBCSuit"/>
+        </children>
+    </event>
+	<event name="InfectedNBCWHO">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>100</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_UN_WHO_WesternNBCSuit"/>
+        </children>
+    </event>
+</events>

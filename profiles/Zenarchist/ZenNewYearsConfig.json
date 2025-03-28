@@ -1,0 +1,25 @@
+{
+    "Message": "Happy New Year! Good luck in 2025 survivor...",
+    "TriggerDay": 31,
+    "TriggerMonth": 12,
+    "TriggerYear": 2024,
+    "TriggerHour": 23,
+    "TriggerMinute": 59,
+	"TriggerSecond": 55,
+    "PlayerFireworksCount": 3,
+    "MinFireworksDistance": 50,
+    "MaxFireworksDistance": 150,
+    "MinFireworksTime": 0,
+    "MaxFireworksTime": 5000,
+    "StaticFireworksCount": 1,
+    "MinStaticFireworksDistance": 0,
+    "MaxStaticFireworksDistance": 0,
+    "StaticFireworkSpawns": [
+        [
+            5631.078125,
+            184.75515747070313,
+            10607.4970703125
+        ]
+    ],
+    "SpawnObject": "FireworksLauncher"
+}

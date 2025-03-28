@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 6,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Speak to Scarecrow",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        5153.0029296875,
+        517.1423950195313,
+        2236.315185546875
+    ],
+    "MaxDistance": 2.0,
+    "MarkerName": "Speak to Scarecrow",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,0 +1,13 @@
+{
+    "m_Version": 6,
+    "m_DisplayName": "Black Market",
+    "Position": [
+        5154.60986328125,
+        518.030029296875,
+        2232.800048828125
+    ],
+    "Radius": 5.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": -1.0,
+    "Stock": {}
+}

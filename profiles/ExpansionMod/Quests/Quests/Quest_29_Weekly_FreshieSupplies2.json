@@ -1,0 +1,66 @@
+{
+    "ConfigVersion": 22,
+    "ID": 29,
+    "Type": 1,
+    "Title": "Charity (Next Item)",
+    "Descriptions": [
+        "Sometimes strangers and new survivors find our camp. They're always in need of food. If you can bring 5 food or drink items back to camp each day, you will be rewarded with 25x Casino Chips. These chips can only be exchanged for nails after gambling, so good luck! [This quest will also reset any EXP nerfs acquired from murder]",
+        "Sometimes strangers and new survivors find our camp. They're always in need of food. If you can bring 5 food or drink items back to camp each day, you will be rewarded with 25x Casino Chips. These chips can only be exchanged for nails after gambling, so good luck! [This quest will also reset any EXP nerfs acquired from murder]",
+        "Thank you survivor!"
+    ],
+    "ObjectiveText": "Donate 5 packaged food.",
+    "FollowUpQuest": 30,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ZenCasinoChips_Red",
+            "Amount": 5,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 1,
+    "RandomRewardAmount": 1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 13,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": -1,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        28
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

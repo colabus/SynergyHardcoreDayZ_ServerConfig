@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 16,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Speak to the Witch",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        6264.6220703125,
+        215.20770263671876,
+        11790.0458984375
+    ],
+    "MaxDistance": 2.0,
+    "MarkerName": "Find the Witch",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

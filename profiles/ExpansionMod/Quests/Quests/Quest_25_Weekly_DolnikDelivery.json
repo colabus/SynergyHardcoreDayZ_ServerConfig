@@ -1,0 +1,111 @@
+{
+    "ConfigVersion": 22,
+    "ID": 25,
+    "Type": 1,
+    "Title": "Express Delivery",
+    "Descriptions": [
+        "I just received word that one of our doctors has an urgent request for medical supplies. Dr Eva was scouting out some settlements down near Dolnik and discovered that some children had wandered into the radiation zone near the hospital again. I don't know what their parents are thinking letting their kids go near that place, but we don't have time to think about that. She needs some anti-radiation meds as quickly as possible. Do you think you could deliver these meds within this timeframe in exchange for this payment? You'll need a fast vehicle and an even faster driver. [+1000 Medical EXP]",
+        "Hans: I just received word that one of our doctors has an urgent request for medical supplies. Dr Eva was scouting out some settlements down near Dolnik and discovered that some children had wandered into the radiation zone near the hospital again. I don't know what their parents are thinking letting their kids go near that place, but we don't have time to think about that. She needs some anti-radiation meds as quickly as possible. Do you think you could deliver these within this timeframe in exchange for this payment? You'll need a fast vehicle and an even faster driver. [+1000 Medical EXP]",
+        "Dr Eva: Thank you survivor! You don't know how many children's lives you just saved. Here, take this."
+    ],
+    "ObjectiveText": "Deliver the medicine to Dolnik Hospital within 20 minutes.",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 1,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ZenTreasure_RandomPhoto",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "NailBox_250",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "PunchedCard",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "Expansion_Ammo_FlareSupplyRed",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ExpansionCircuitBoard_Airdrop",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "HDSN_BreachingCharge",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 1,
+    "RandomRewardAmount": 1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        8
+    ],
+    "QuestTurnInIDs": [
+        9
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 4,
+            "ObjectiveType": 5
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        11
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

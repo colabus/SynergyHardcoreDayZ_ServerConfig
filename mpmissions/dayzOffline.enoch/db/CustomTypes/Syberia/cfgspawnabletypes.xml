@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="MedContainerSmall">
+		<cargo chance="0.1">
+			<item name="AmpouleNovocain" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleIrineks" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleNimesulid" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleKetoprofen" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpoulePropofol" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleTiopental" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleKetamin" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpoulePropanidid" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleGexobarbital" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleSodiumOxybutirate" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleMetoclopramid" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleZerukal" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleKetorol" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleDiklofenak" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleHeptral" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleCylaspen" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleGrimipenem" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleZeftriaxon" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleErytromicyn" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleFlemoclav" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleOcsacylin" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleImipenem" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleAmoksivan" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleZivirol" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleMeksidol" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleActovegin" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleNeiroks" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpoulePeklitakcel" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleNonacogAlpha" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleAminokaprolSulfat" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleVikasol" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleEtamzilat" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpoulePerftoran" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleMaltofer" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleErytropoenin" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleAdrenalin05" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleAdrenalin10" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleAdrenalin30" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpoulePentacin" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleCarboxyme" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleMetralindol" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleActaparoxetine" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="AmpouleAmitriptyline" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="InjectorPromedol" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="InjectorZivirol" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="InjectorTopoizomeraza" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="InjectorErytropoenin" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="InjectorNeiroks" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="InjectorAmoksivan" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="InjectorKetorol" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="InjectorEpipen" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="InjectorNovichek" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="InjectorRadioprotector" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="SalveKapsikam" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="SalveFinalgon" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="SalveViprosal" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsAnalgin" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsNaiz" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsAertal" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsNimesil" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsPentalgin" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsMovalis" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsCytramon" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsParacetamol" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsIbuprofen" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsNurofen" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsTetracycline" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsAmoksiklav" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsAmpicylin" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsPiperacylin" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsTrihopol" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsCyprolet" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsAmoksivan" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsAmibaktam" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsCharcoal" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsMezimForte" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsZerukal" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsNifuroksazid" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsPolisorb" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsKarbopekt" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsEnterofuril" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsErsefuril" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsSalofalk" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsFtalazol" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsMesalazin" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsNoopept" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsVikasol" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsDycinon" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsIrovit" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsTardiferon" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsHeferol" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsSorbiferDurulis" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsPotassiumIodide" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsPotassiumHexacyanoferrate" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsCystamine" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsB190" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsMexamine" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsAgteminol" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsAdepress" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsPotassiumIodide" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsActaparoxetine" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="TabletsAmitriptyline" />
+		</cargo>
+		<cargo chance="0.1">
+			<item name="SyringeEmpty" />
+		</cargo>
+	</type>
+	<type name="MedContainerMedium">
+		<cargo chance="0.2">
+			<item name="AmpouleNovocain" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleIrineks" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleNimesulid" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleKetoprofen" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpoulePropofol" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleTiopental" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleKetamin" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpoulePropanidid" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleGexobarbital" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleSodiumOxybutirate" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleMetoclopramid" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleZerukal" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleKetorol" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleDiklofenak" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleHeptral" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleCylaspen" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleGrimipenem" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleZeftriaxon" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleErytromicyn" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleFlemoclav" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleOcsacylin" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleImipenem" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleAmoksivan" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleZivirol" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleMeksidol" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleActovegin" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleNeiroks" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpoulePeklitakcel" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleNonacogAlpha" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleAminokaprolSulfat" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleVikasol" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleEtamzilat" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpoulePerftoran" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleMaltofer" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleErytropoenin" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleAdrenalin05" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleAdrenalin10" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleAdrenalin30" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpoulePentacin" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleCarboxyme" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleMetralindol" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleActaparoxetine" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="AmpouleAmitriptyline" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="InjectorPromedol" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="InjectorZivirol" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="InjectorTopoizomeraza" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="InjectorErytropoenin" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="InjectorNeiroks" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="InjectorAmoksivan" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="InjectorKetorol" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="InjectorEpipen" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="InjectorNovichek" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="InjectorRadioprotector" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="SalveKapsikam" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="SalveFinalgon" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="SalveViprosal" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsAnalgin" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsNaiz" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsAertal" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsNimesil" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsPentalgin" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsMovalis" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsCytramon" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsParacetamol" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsIbuprofen" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsNurofen" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsTetracycline" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsAmoksiklav" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsAmpicylin" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsPiperacylin" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsTrihopol" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsCyprolet" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsAmoksivan" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsAmibaktam" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsCharcoal" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsMezimForte" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsZerukal" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsNifuroksazid" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsPolisorb" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsKarbopekt" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsEnterofuril" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsErsefuril" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsSalofalk" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsFtalazol" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsMesalazin" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsNoopept" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsVikasol" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsDycinon" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsIrovit" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsTardiferon" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsHeferol" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsSorbiferDurulis" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsPotassiumIodide" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsPotassiumHexacyanoferrate" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsCystamine" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsB190" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsMexamine" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsAgteminol" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsAdepress" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsPotassiumIodide" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsActaparoxetine" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TabletsAmitriptyline" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="SyringeEmpty" />
+		</cargo>
+	</type>
+	<type name="MedContainerLarge">
+		<cargo chance="0.3">
+			<item name="AmpouleNovocain" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleIrineks" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleNimesulid" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleKetoprofen" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpoulePropofol" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleTiopental" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleKetamin" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpoulePropanidid" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleGexobarbital" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleSodiumOxybutirate" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleMetoclopramid" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleZerukal" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleKetorol" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleDiklofenak" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleHeptral" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleCylaspen" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleGrimipenem" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleZeftriaxon" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleErytromicyn" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleFlemoclav" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleOcsacylin" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleImipenem" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleAmoksivan" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleZivirol" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleMeksidol" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleActovegin" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleNeiroks" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpoulePeklitakcel" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleNonacogAlpha" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleAminokaprolSulfat" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleVikasol" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleEtamzilat" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpoulePerftoran" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleMaltofer" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleErytropoenin" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleAdrenalin05" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleAdrenalin10" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleAdrenalin30" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpoulePentacin" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleCarboxyme" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleMetralindol" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleActaparoxetine" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="AmpouleAmitriptyline" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="InjectorPromedol" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="InjectorZivirol" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="InjectorTopoizomeraza" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="InjectorErytropoenin" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="InjectorNeiroks" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="InjectorAmoksivan" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="InjectorKetorol" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="InjectorEpipen" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="InjectorNovichek" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="InjectorRadioprotector" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="SalveKapsikam" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="SalveFinalgon" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="SalveViprosal" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsAnalgin" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsNaiz" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsAertal" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsNimesil" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsPentalgin" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsMovalis" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsCytramon" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsParacetamol" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsIbuprofen" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsNurofen" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsTetracycline" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsAmoksiklav" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsAmpicylin" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsPiperacylin" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsTrihopol" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsCyprolet" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsAmoksivan" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsAmibaktam" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsCharcoal" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsMezimForte" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsZerukal" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsNifuroksazid" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsPolisorb" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsKarbopekt" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsEnterofuril" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsErsefuril" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsSalofalk" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsFtalazol" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsMesalazin" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsNoopept" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsVikasol" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsDycinon" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsIrovit" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsTardiferon" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsHeferol" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsSorbiferDurulis" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsPotassiumIodide" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsPotassiumHexacyanoferrate" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsCystamine" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsB190" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsMexamine" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsAgteminol" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsAdepress" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsPotassiumIodide" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsActaparoxetine" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="TabletsAmitriptyline" />
+		</cargo>
+		<cargo chance="0.3">
+			<item name="SyringeEmpty" />
+		</cargo>
+	</type>
+
+</spawnabletypes>

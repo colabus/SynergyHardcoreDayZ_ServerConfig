@@ -1,0 +1,246 @@
+{
+  "m_defaultZone": {
+    "m_id": 0,
+    "m_displayName": "Default Zone",
+    "m_position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "m_radius": 0.0,
+    "m_height": 0.0,
+    "m_enterMessage": "",
+    "m_leaveMessage": "",
+    "m_leaveTime": 0.0,
+    "m_godMode": 0,
+    "m_inverseDammage": 0,
+    "m_blockBuildingMode": 0,
+    "m_blockInteractionWithPlayers": 0,
+    "m_radiation": 0.0,
+    "m_psi": 0.0,
+    "m_gas": 0.0,
+    "m_spawnChance": 0.0
+  },
+  "m_customZones": [
+    {
+      "m_id": 1,
+      "m_displayName": "Bunker1",
+      "m_position": [
+        633.2093,
+        531.454163,
+        1147.59277
+      ],
+      "m_radius": 30.0,
+      "m_height": 10.0,
+      "m_enterMessage": "I feel strange...",
+      "m_leaveMessage": "The strange feeling is gone...",
+      "m_leaveTime": 0.0,
+      "m_godMode": 0,
+      "m_inverseDammage": 0,
+      "m_blockBuildingMode": 0,
+      "m_blockInteractionWithPlayers": 0,
+      "m_radiation": 0.0,
+      "m_psi": 0.1,
+      "m_gas": 0.0,
+      "m_spawnChance": 1.0
+    },
+    {
+      "m_id": 2,
+      "m_displayName": "Bunker2",
+      "m_position": [
+        616.104736,
+        516.5841,
+        1146.696
+      ],
+      "m_radius": 30.0,
+      "m_height": 10.0,
+      "m_enterMessage": "I feel strange...",
+      "m_leaveMessage": "The strange feeling is gone...",
+      "m_leaveTime": 0.0,
+      "m_godMode": 0,
+      "m_inverseDammage": 0,
+      "m_blockBuildingMode": 0,
+      "m_blockInteractionWithPlayers": 0,
+      "m_radiation": 0.0,
+      "m_psi": 0.1,
+      "m_gas": 0.0,
+      "m_spawnChance": 1.0
+    },
+    {
+      "m_id": 3,
+      "m_displayName": "ContamIndustrialBunker",
+      "m_position": [
+        7470.28467,
+        5287.28174,
+        2665.98975
+      ],
+      "m_radius": 500.0,
+      "m_height": -1.0,
+      "m_enterMessage": "I feel strange...",
+      "m_leaveMessage": "The strange feeling is gone...",
+      "m_leaveTime": 0.0,
+      "m_godMode": 0,
+      "m_inverseDammage": 0,
+      "m_blockBuildingMode": 0,
+      "m_blockInteractionWithPlayers": 0,
+      "m_radiation": 0.5,
+      "m_psi": 0.0,
+      "m_gas": 0.1,
+      "m_spawnChance": 1.0
+    },
+    {
+      "m_id": 3,
+      "m_displayName": "ContamIndustrial",
+      "m_position": [
+        7346.513,
+        287.024,
+        2638.31274
+      ],
+      "m_radius": 500.0,
+      "m_height": -1.0,
+      "m_enterMessage": "I feel strange...",
+      "m_leaveMessage": "The strange feeling is gone...",
+      "m_leaveTime": 0.0,
+      "m_godMode": 0,
+      "m_inverseDammage": 0,
+      "m_blockBuildingMode": 0,
+      "m_blockInteractionWithPlayers": 0,
+      "m_radiation": 0.5,
+      "m_psi": 0.0,
+      "m_gas": 0.1,
+      "m_spawnChance": 1.0
+    },
+    {
+      "m_id": 4,
+      "m_displayName": "LukowEvac",
+      "m_position": [
+        4090.13867,
+        238.0,
+        10213.2607
+      ],
+      "m_radius": 50.0,
+      "m_height": 30.0,
+      "m_enterMessage": "I feel strange...",
+      "m_leaveMessage": "The strange feeling is gone...",
+      "m_leaveTime": 0.0,
+      "m_godMode": 0,
+      "m_inverseDammage": 0,
+      "m_blockBuildingMode": 0,
+      "m_blockInteractionWithPlayers": 0,
+      "m_radiation": 0.1,
+      "m_psi": 0.0,
+      "m_gas": 0.0,
+      "m_spawnChance": 1.0
+    },
+    {
+      "m_id": 3,
+      "m_displayName": "LukowBunker",
+      "m_position": [
+        4123.38672,
+        5000.90771,
+        10186.8818
+      ],
+      "m_radius": 500.0,
+      "m_height": -1.0,
+      "m_enterMessage": "I feel strange...",
+      "m_leaveMessage": "The strange feeling is gone...",
+      "m_leaveTime": 0.0,
+      "m_godMode": 0,
+      "m_inverseDammage": 0,
+      "m_blockBuildingMode": 0,
+      "m_blockInteractionWithPlayers": 0,
+      "m_radiation": 0.5,
+      "m_psi": 0.0,
+      "m_gas": 0.1,
+      "m_spawnChance": 1.0
+    },
+    {
+      "m_id": 5,
+      "m_displayName": "RaduninEvac",
+      "m_position": [
+        7546.95459,
+        225.552887,
+        6059.80664
+      ],
+      "m_radius": 80.0,
+      "m_height": 10.0,
+      "m_enterMessage": "I feel strange...",
+      "m_leaveMessage": "The strange feeling is gone...",
+      "m_leaveTime": 0.0,
+      "m_godMode": 0,
+      "m_inverseDammage": 0,
+      "m_blockBuildingMode": 0,
+      "m_blockInteractionWithPlayers": 0,
+      "m_radiation": 0.5,
+      "m_psi": 0.0,
+      "m_gas": 0.0,
+      "m_spawnChance": 1.0
+    },
+    {
+      "m_id": 6,
+      "m_displayName": "DolnikEvac",
+      "m_position": [
+        11578.1943,
+        212.4709,
+        386.0571
+      ],
+      "m_radius": 50.0,
+      "m_height": 15.0,
+      "m_enterMessage": "I feel strange...",
+      "m_leaveMessage": "The strange feeling is gone...",
+      "m_leaveTime": 0.0,
+      "m_godMode": 0,
+      "m_inverseDammage": 0,
+      "m_blockBuildingMode": 0,
+      "m_blockInteractionWithPlayers": 0,
+      "m_radiation": 0.5,
+      "m_psi": 0.0,
+      "m_gas": 0.0,
+      "m_spawnChance": 1.0
+    },
+    {
+      "m_id": 7,
+      "m_displayName": "PolanaEvac",
+      "m_position": [
+        3831.53418,
+        550.792358,
+        1836.2229
+      ],
+      "m_radius": 60.0,
+      "m_height": 10.0,
+      "m_enterMessage": "I feel strange...",
+      "m_leaveMessage": "The strange feeling is gone...",
+      "m_leaveTime": 0.0,
+      "m_godMode": 0,
+      "m_inverseDammage": 0,
+      "m_blockBuildingMode": 0,
+      "m_blockInteractionWithPlayers": 0,
+      "m_radiation": 0.5,
+      "m_psi": 0.0,
+      "m_gas": 0.0,
+      "m_spawnChance": 1.0
+    },
+    {
+      "m_id": 9,
+      "m_displayName": "PolanaEvac",
+      "m_position": [
+        9866.508,
+        350.0,
+        3881.771
+      ],
+      "m_radius": 30.0,
+      "m_height": 10.0,
+      "m_enterMessage": "I feel strange...",
+      "m_leaveMessage": "The strange feeling is gone...",
+      "m_leaveTime": 0.0,
+      "m_godMode": 0,
+      "m_inverseDammage": 0,
+      "m_blockBuildingMode": 0,
+      "m_blockInteractionWithPlayers": 0,
+      "m_radiation": 0.5,
+      "m_psi": 0.0,
+      "m_gas": 0.0,
+      "m_spawnChance": 1.0
+    }
+  ]
+}

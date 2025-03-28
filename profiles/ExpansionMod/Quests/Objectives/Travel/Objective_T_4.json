@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 4,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Welcome to Sanctuary",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        5624.8603515625,
+        180.96849060058595,
+        10608.3271484375
+    ],
+    "MaxDistance": 5.0,
+    "MarkerName": "Welcome to Sanctuary",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

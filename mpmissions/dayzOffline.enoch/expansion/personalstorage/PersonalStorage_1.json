@@ -1,0 +1,21 @@
+{
+    "ConfigVersion": 2,
+    "StorageID": 1,
+    "ClassName": "",
+    "DisplayName": "",
+    "DisplayIcon": "",
+    "Position": [
+        -1000.0,
+        -1000.0,
+        -1000.0
+    ],
+    "Orientation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "QuestID": -1,
+    "Reputation": 0,
+    "Faction": "",
+    "IsGlobalStorage": 0
+}

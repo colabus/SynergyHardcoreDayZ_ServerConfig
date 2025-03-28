@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 6,
+    "ClassName": "Quest_Prison_MainCastle_barsdoors",
+    "Position": [
+        4469.330078,
+		283.096008,
+		4814.509766
+    ],
+    "Orientation": [
+        -90.699997,
+        0.0,
+        0.0
+    ],
+    "NPCName": "Hans",
+    "DefaultNPCText": "You've gotta help me. I was put in here by some bandit group. They took the key with them and they only come by every few days to feed me and keep me alive. I don't know what they want with me, but I've been here for weeks. Please get me out of here! These bars are made of pure steel, nothing can cut through them - believe me, I've tried. Maybe Sebastian at Sanctuary will have an idea who these guys are? He seems to know everyone in Livonia. The leader of the group wears a yellow helmet with spikes all over it. I bet Sebastian will know who he is. Please hurry!",
+    "Waypoints": [],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 1,
+    "Active": 1
+}

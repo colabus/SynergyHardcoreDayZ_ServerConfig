@@ -1,0 +1,10 @@
+{
+    "InfectedWolfSpawnTime": 60,
+    "ExtraWolfChance": 0.5,
+    "DamageSolarBattery": 0.00009999999747378752,
+    "DamageSolarPanel": 0.0,
+    "DamageGPS": 0.00009999999747378752,
+    "DamageRadio": 0.00009999999747378752,
+    "Contam_TickSecs": 90,
+    "Contam_Damage": 1.0
+}

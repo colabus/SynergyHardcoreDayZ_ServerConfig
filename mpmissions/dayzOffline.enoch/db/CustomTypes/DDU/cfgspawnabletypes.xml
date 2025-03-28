@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<spawnabletypes>
+	<type name="ddu_nbc_pouch_tan">
+        <attachments chance="0.1">
+            <item name="NBCBootsYellow" chance="1.0" />
+        </attachments>
+		<attachments chance="0.1">
+            <item name="NBCGlovesYellow" chance="1.0" />
+        </attachments>
+		<attachments chance="0.1">
+            <item name="NBCHoodYellow" chance="1.0" />
+        </attachments>
+		<attachments chance="0.1">
+            <item name="NBCJacketYellow" chance="1.0" />
+        </attachments>
+		<attachments chance="0.1">
+            <item name="NBCPantsYellow" chance="1.0" />
+        </attachments>
+		<attachments chance="0.1">
+            <item name="GasMask" chance="1.0" />
+        </attachments>
+    </type>
+	<type name="ddu_nbc_pouch_green">
+        <attachments chance="0.1">
+            <item name="NBCBootsYellow" chance="1.0" />
+        </attachments>
+		<attachments chance="0.1">
+            <item name="NBCGlovesYellow" chance="1.0" />
+        </attachments>
+		<attachments chance="0.1">
+            <item name="NBCHoodYellow" chance="1.0" />
+        </attachments>
+		<attachments chance="0.1">
+            <item name="NBCJacketYellow" chance="1.0" />
+        </attachments>
+		<attachments chance="0.1">
+            <item name="NBCPantsYellow" chance="1.0" />
+        </attachments>
+		<attachments chance="0.1">
+            <item name="GasMask" chance="1.0" />
+        </attachments>
+    </type>
+    <type name="ddu_nbc_pouch_black">
+        <attachments chance="0.1">
+            <item name="NBCBootsYellow" chance="1.0" />
+        </attachments>
+        <attachments chance="0.1">
+            <item name="NBCGlovesYellow" chance="1.0" />
+        </attachments>
+        <attachments chance="0.1">
+            <item name="NBCHoodYellow" chance="1.0" />
+        </attachments>
+        <attachments chance="0.1">
+            <item name="NBCJacketYellow" chance="1.0" />
+        </attachments>
+        <attachments chance="0.1">
+            <item name="NBCPantsYellow" chance="1.0" />
+        </attachments>
+        <attachments chance="0.1">
+            <item name="GasMask" chance="1.0" />
+        </attachments>
+    </type>
+
+    <type name="DDU_MilitaryBelt_Black">
+        <attachments chance="1.0">
+            <item name="ThighStraps_Black" chance="1.0" />
+        </attachments>
+    </type>
+</spawnabletypes>

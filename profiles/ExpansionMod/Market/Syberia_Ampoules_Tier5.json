@@ -1,0 +1,109 @@
+{
+    "m_Version": 12,
+    "DisplayName": "AMPOULES - TIER 5",
+    "Icon": "Deliver",
+    "Color": "D8B926FF",
+    "InitStockPercent": 0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "AmpouleErytropoenin",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "AmpouleAdrenalin05",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "AmpouleAdrenalin10",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "AmpouleAdrenalin30",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "AmpoulePentacin",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "AmpouleCarboxyme",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "AmpouleMetralindol",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "AmpouleActaparoxetine",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "AmpouleAmitriptyline",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

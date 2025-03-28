@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<types>
+	<!-- Attachments Start -->
+    <type name="bastard_izh_Wheel">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="bastard_izh_Wheel_Ruined">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<!-- Vehicles Start -->
+	<type name="bastard_izh_stock">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>1209600</lifetime>
+        <restock>1800</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="bastard_izh_blue">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>1209600</lifetime>
+        <restock>1800</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="bastard_izh_white">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>1209600</lifetime>
+        <restock>1800</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="bastard_izh_black">
+        <nominal>0</nominal>
+        <min>0</min>
+        <lifetime>1209600</lifetime>
+        <restock>1800</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+</types>

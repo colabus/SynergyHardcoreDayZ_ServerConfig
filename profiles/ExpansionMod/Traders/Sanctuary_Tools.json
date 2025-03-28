@@ -1,0 +1,30 @@
+{
+    "m_Version": 12,
+    "DisplayName": "TOOLS TRADER",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": 3,
+    "TraderIcon": "Hammer",
+    "Currencies": [
+        "nail"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+		"BBP_HomeDecor:0",
+        "Tools:0",
+        "Supplies:0",
+        "Kits:0",
+        "Electronics:0",
+        "Lights:0",
+        "Flags:0",
+        "Tools_Tradeable",
+        "Music",
+        "Collectables",
+        "Boomlay_Sellable:2",
+		"Books:2",
+        "Exchange"
+    ],
+    "Items": {}
+}

@@ -1,0 +1,103 @@
+{
+    "DebugOn": 0,
+	"RestockTimer": 1800,
+    "RestockChance": 0.05,
+    "RestockQuantity": 0.05,
+    "IGNORE_ITEMS": [
+        "expansionsatchel",
+		"hdsn_breachingcharge",
+		"hdsn_breachingchargeheavy",
+        "plastic_explosive",
+        "improvisedexplosive",
+		"expansionsupplysignal",
+        "dogpreview",
+        "zagorky",
+        "zagorkychocolate",
+        "zagorkypeanuts",
+        "powderedmilk",
+        "boxcerealcrunchin",
+        "rice",
+        "marmalade",
+        "honey",
+        "saltysticks",
+        "crackers",
+        "chips",
+        "pajka",
+        "pate",
+        "brisketspread",
+        "sardinescan",
+        "tunacan",
+        "dogfoodcan",
+        "catfoodcan",
+        "porkcan",
+        "lunchmeat",
+        "peachescan",
+        "spaghettican",
+        "bakedbeanscan",
+        "tacticalbaconcan",
+        "expansionbread1",
+        "expansionbread2",
+        "expansionbread3",
+        "expansioncheese1",
+        "expansioncheese2",
+        "expansioncheese3",
+        "expansioncheese4"
+    ],
+	"SPECIFIC_ITEMS": [
+        {
+            "ClassName": "offroadhatchback",
+            "RestockChance": 0.1,
+            "RestockQuantity": 0.1
+        },
+		{
+            "ClassName": "hatchback_02",
+            "RestockChance": 0.1,
+            "RestockQuantity": 0.1
+        },
+		{
+            "ClassName": "sedan_02",
+            "RestockChance": 0.1,
+            "RestockQuantity": 0.1
+        },
+		{
+            "ClassName": "civiliansedan",
+            "RestockChance": 0.1,
+            "RestockQuantity": 0.1
+        },
+		{
+            "ClassName": "truck_01_covered",
+            "RestockChance": 0.01,
+            "RestockQuantity": 0.1
+        },
+		{
+            "ClassName": "offroad_02",
+            "RestockChance": 0.01,
+            "RestockQuantity": 0.1
+        },
+		{
+            "ClassName": "expansiontractor",
+            "RestockChance": 0.25,
+            "RestockQuantity": 0.1
+        },
+		{
+            "ClassName": "expansionuaz",
+            "RestockChance": 0.05,
+            "RestockQuantity": 0.1
+        },
+		{
+            "ClassName": "expansionbus",
+            "RestockChance": 0.01,
+            "RestockQuantity": 0.1
+        },
+		{
+            "ClassName": "expansion_landrover",
+            "RestockChance": 0.01,
+            "RestockQuantity": 0.1
+        },
+		{
+            "ClassName": "bastard_izh_stock",
+            "RestockChance": 0.25,
+            "RestockQuantity": 0.1
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 13,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Travel to Swarog Radio Tower",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        5175.259765625,
+        619.156982421875,
+        2251.659912109375
+    ],
+    "MaxDistance": 2.0,
+    "MarkerName": "Polana Swarog Tower",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

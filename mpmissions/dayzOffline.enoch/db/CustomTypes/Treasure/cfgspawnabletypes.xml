@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="ZenTreasure_Photo01">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo02">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo03">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo04">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo05">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo06">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo07">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo08">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo09">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo10">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo11">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo12">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo13">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo14">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo15">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo16">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo17">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo18">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo19">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo20">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo21">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo22">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo23">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo24">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo25">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo26">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo27">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo28">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo29">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo30">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo31">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo32">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo33">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo34">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo35">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo36">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo37">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo38">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo39">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo40">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo41">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo42">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo43">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo44">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo45">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo46">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo47">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo48">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo49">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="ZenTreasure_Photo50">
+		<damage min="0.0" max="0.0" />
+	</type>
+</spawnabletypes>

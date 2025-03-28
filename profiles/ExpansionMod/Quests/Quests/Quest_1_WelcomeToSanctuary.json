@@ -1,0 +1,87 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1,
+    "Type": 1,
+    "Title": "Welcome to Sanctuary",
+    "Descriptions": [
+        "Sebastian: We don't trust new faces around here. If you want to barter with us you'll need to prove yourself first. Take this package to the black market trader at Swarog military base. He hangs out in the radio tower station - you can't miss it. Don't worry, he's expecting the delivery. He'll reward you handsomely for the trouble. Help us out, and we'll help you out.\n\n[This quest unlocks the ability to use the traders at Sanctuary and the Player-to-Player marketplace located at every gas station in Livonia. Press / to disable the quest goal HUD and press B to open the Quest Log]",
+        "Sebastian: I haven't received word from the Black Market Trader that you delivered that package yet. Until you prove yourself, you're not welcome here.",
+        "Scarecrow: Jesus, you look like you've been through some shit! What brings you to my neck of the woods? Sanctuary you say? Wait... what is this? Oh wow. They finally got their hands on it! I don't believe my eyes. They trusted you to bring this here? Did they tell you how explosive it is? Never mind, you made it, that's all that matters. I'll give you something for your trouble - but I need to ask a favour."
+    ],
+    "ObjectiveText": "Deliver the package to the Black Market Trader at Swarog Military Base.",
+    "FollowUpQuest": 2,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [
+        {
+            "ClassName": "ExpansionQuestItem_SanctuaryPackage",
+            "Amount": 1
+        }
+    ],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionCodeLock",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "NailBox_250",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ItemPDA",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        2
+    ],
+    "QuestTurnInIDs": [
+        3
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

@@ -1,0 +1,6 @@
+{
+    "ServerIP": "",
+    "ServerPort": -1,
+    "ServerPass": "",
+    "RedirectMessage": "The server has moved to a new IP address (%ip:%port) - you will be automatically redirected shortly. Please update your server bookmarks in the launcher."
+}

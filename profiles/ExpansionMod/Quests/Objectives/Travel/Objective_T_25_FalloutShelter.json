@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 28,
+    "ID": 25,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Investigate the Bunker.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        11151.517578, 294.895264, 3771.480957
+    ],
+    "MaxDistance": 3.0,
+    "MarkerName": "Bunker",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

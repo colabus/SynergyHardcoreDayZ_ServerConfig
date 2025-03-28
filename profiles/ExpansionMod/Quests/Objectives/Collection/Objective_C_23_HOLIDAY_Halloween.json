@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 23,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Collect 5 Mystical Pumpkins",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 5,
+            "ClassName": "PumpkinHelmet",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 100
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 1
+}

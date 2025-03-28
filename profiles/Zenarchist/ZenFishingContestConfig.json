@@ -1,0 +1,29 @@
+{
+    "CONFIG_VERSION": "1",
+    "Competitors": {},
+    "LastWeek": {
+        "OLbKtWQPUuO2Rs02dS4naE9EhA_z-EsTuYTzSEeVUaM=": {
+            "FishType": "Carp",
+            "FishQuantity": 967.0,
+            "FishQuality": 1.0,
+            "PlayerName": "Salty Fries",
+            "SubmissionTime": 1736698303
+        },
+        "hDAlWFdH7X_PRy0fFA1DzVh_qjD7ttJsnsgf9RI9M6g=": {
+            "FishType": "Carp",
+            "FishQuantity": 978.0,
+            "FishQuality": 1.0,
+            "PlayerName": "Hazel Macgregor",
+            "SubmissionTime": 1736431956
+        }
+    },
+    "LastWinner": "",
+    "FishContest": "Carp",
+    "RewardItem": "Nail",
+    "RewardQuantity": 250,
+    "LastCompetitionEndTimestamp": 1736946035,
+    "TimeBetweenCompetitions": 604800,
+    "RandomFishSelection": [
+        "Carp"
+    ]
+}

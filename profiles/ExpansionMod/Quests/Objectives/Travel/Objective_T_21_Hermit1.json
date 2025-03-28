@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 21,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Find the Hermit's Camp",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        1892.4930419921876,
+        270.2757873535156,
+        4525.794921875
+    ],
+    "MaxDistance": 3.0,
+    "MarkerName": "Hermit Camp?",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

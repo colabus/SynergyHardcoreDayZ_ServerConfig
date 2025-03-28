@@ -1,0 +1,6 @@
+{
+    "ServerIP": "",
+    "ServerPort": -1,
+    "ServerPass": "",
+	"RedirectMessage": "The server has moved back to the old IP address (%ip:%port) - you will be automatically redirected shortly. Please update your server bookmarks."
+}

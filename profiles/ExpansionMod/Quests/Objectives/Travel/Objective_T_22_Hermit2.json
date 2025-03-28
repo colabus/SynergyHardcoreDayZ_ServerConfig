@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 22,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Track the Blood Trail",
+    "TimeLimit": 1200,
+    "Active": 1,
+    "Position": [
+        1789.17578125,
+        363.4011535644531,
+        3790.93115234375
+    ],
+    "MaxDistance": 30.0,
+    "MarkerName": "???",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

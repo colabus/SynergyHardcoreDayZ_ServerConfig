@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2,
+    "ObjectiveType": 5,
+    "ObjectiveText": "Return the Encrypted Radio to Sanctuary",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "ExpansionQuestItem_EncryptedRadio",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "MaxDistance": 10.0,
+    "MarkerName": "Deliver Items"
+}

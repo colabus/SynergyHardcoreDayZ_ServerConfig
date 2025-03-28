@@ -1,0 +1,89 @@
+{
+    "ConfigVersion": 22,
+    "ID": 48,
+    "Type": 1,
+    "Title": "Fallout Shelter",
+    "Descriptions": [
+        "Sebastian: My spies have informed me of a bunker they discovered south of Gieraltow. I thought we'd mapped every inch of Livonia but I guess we somehow missed this place. Would you be interested in scouting out this new location? I'll pay you for your time if you come back and tell me what you see there.",
+        "Sebastian: My spies have informed me of a bunker they discovered south of Gieraltow. I thought we'd mapped every inch of Livonia but I guess we somehow missed this place. Would you be interested in scouting out this new location? I'll pay you for your time if you come back and tell me what you see there.",
+        "Sebastian: Some sort of vault bunker, you say? I've heard of this setup before from travelers passing by from out of country. If it's the same security system I've heard of, you'll need a glow plug and some gasoline for the generator there, and you'll probably need a companion to activate the switches. Military vaults like that usually use a two-person integrity system. I'd be willing to bet there's some decent gear stashed away in those bunkers."
+    ],
+    "ObjectiveText": "Investigate the Bunker.",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+		{
+            "ClassName": "InjectorExpBoost5x",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+		{
+            "ClassName": "SyberiaSkillBook_Random",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+		{
+            "ClassName": "ExpansionCircuitBoard_Airdrop",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": 1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        2
+    ],
+    "QuestTurnInIDs": [
+        2
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 25,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 2,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        3
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

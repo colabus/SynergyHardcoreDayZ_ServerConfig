@@ -1,0 +1,15 @@
+{
+    "ConfigVersion": 28,
+    "ID": 6,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Enter the Contaminated Mine",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionEnterContamBunker1",
+		"ActionEnterContamBunker2"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

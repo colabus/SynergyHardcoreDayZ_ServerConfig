@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+	<event name="AmbientRabbit">
+		<nominal>25</nominal>
+		<min>5</min>
+		<max>50</max>
+		<lifetime>33</lifetime>
+		<restock>60</restock>
+		<saferadius>10</saferadius>
+		<distanceradius>70</distanceradius>
+		<cleanupradius>140</cleanupradius>
+		<flags deletable="0" init_random="0" remove_damaged="0"/>
+		<position>fixed</position>
+		<limit>child</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="0" lootmin="0" max="2" min="1" type="Animal_Rabbit_Brown"/>
+			<child lootmax="0" lootmin="0" max="4" min="1" type="Animal_Rabbit_Grey"/>
+		</children>
+	</event>
+	<event name="AmbientRat">
+		<nominal>25</nominal>
+		<min>10</min>
+		<max>50</max>
+		<lifetime>33</lifetime>
+		<restock>60</restock>
+		<saferadius>10</saferadius>
+		<distanceradius>70</distanceradius>
+		<cleanupradius>140</cleanupradius>
+		<flags deletable="0" init_random="0" remove_damaged="0"/>
+		<position>fixed</position>
+		<limit>child</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="0" lootmin="0" max="2" min="1" type="Animal_Rat_Grey"/>
+			<child lootmax="0" lootmin="0" max="4" min="1" type="Animal_Rat_White"/>
+		</children>
+	</event>
+	<event name="AmbientRaven">
+		<nominal>25</nominal>
+		<min>5</min>
+		<max>50</max>
+		<lifetime>360</lifetime>
+		<restock>90</restock>
+		<saferadius>30</saferadius>
+		<distanceradius>150</distanceradius>
+		<cleanupradius>300</cleanupradius>
+		<flags deletable="0" init_random="0" remove_damaged="0"/>
+		<position>fixed</position>
+		<limit>child</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="0" lootmin="0" max="2" min="1" type="Animal_Raven"/>
+			<child lootmax="0" lootmin="0" max="4" min="1" type="Animal_Raven2"/>
+			<child lootmax="0" lootmin="0" max="2" min="1" type="Animal_Raven_Airborne"/>
+		</children>
+	</event>
+	<event name="AmbientSquirrel">
+		<nominal>25</nominal>
+		<min>20</min>
+		<max>50</max>
+		<lifetime>300</lifetime>
+		<restock>90</restock>
+		<saferadius>10</saferadius>
+		<distanceradius>70</distanceradius>
+		<cleanupradius>140</cleanupradius>
+		<flags deletable="0" init_random="0" remove_damaged="0"/>
+		<position>fixed</position>
+		<limit>child</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="0" lootmin="0" max="4" min="1" type="Animal_Squirrel"/>
+		</children>
+	</event>
+	<event name="AmbientOtter">
+		<nominal>25</nominal>
+		<min>10</min>
+		<max>20</max>
+		<lifetime>33</lifetime>
+		<restock>60</restock>
+		<saferadius>10</saferadius>
+		<distanceradius>70</distanceradius>
+		<cleanupradius>140</cleanupradius>
+		<flags deletable="0" init_random="0" remove_damaged="0"/>
+		<position>fixed</position>
+		<limit>child</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="0" lootmin="0" max="2" min="1" type="Animal_Otter"/>
+		</children>
+	</event>
+</events>

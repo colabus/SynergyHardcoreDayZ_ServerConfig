@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="CarpTrophy">
+        <lifetime>1209600</lifetime> <!-- 1 week -->
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+
+    <type name="DeerTrophy_m">
+        <lifetime>1209600</lifetime> <!-- 1 week -->
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="DeerHead_m">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	
+	<type name="DeerTrophy_f">
+        <lifetime>1209600</lifetime> <!-- 1 week -->
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="DeerHead_f">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	
+	<type name="BearTrophy">
+        <lifetime>1209600</lifetime> <!-- 1 week -->
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="BearHead">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+
+	<type name="WolfTrophy">
+        <lifetime>1209600</lifetime> <!-- 1 week -->
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="WolfHead">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	
+	<type name="BoarTrophy">
+        <lifetime>1209600</lifetime> <!-- 1 week -->
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="BoarHead">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	
+	<type name="BearTrophy_black">
+        <lifetime>1209600</lifetime> <!-- 1 week -->
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="BearHead_black">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	
+	<type name="BearTrophy_red">
+        <lifetime>1209600</lifetime> <!-- 1 week -->
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="BearHead_red">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	
+	<type name="BearTrophy_contaminated">
+        <lifetime>1209600</lifetime> <!-- 1 week -->
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="BearHead_contaminated">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	
+	<type name="BearTrophy_Polar">
+        <lifetime>1209600</lifetime> <!-- 1 week -->
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="BearHead_Polar">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+
+	<type name="WolfHead_Hyena">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="WolfTrophy_Hyena">
+        <lifetime>1209600</lifetime> <!-- 1 week -->
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="WolfHead_Contaminated">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="WolfTrophy_Contaminated">
+        <lifetime>1209600</lifetime> <!-- 1 week -->
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="WolfHead_Black">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="WolfTrophy_Black">
+        <lifetime>1209600</lifetime> <!-- 1 week -->
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	
+</types>

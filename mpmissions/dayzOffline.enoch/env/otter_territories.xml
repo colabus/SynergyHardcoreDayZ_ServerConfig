@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="4286619433">
+        <zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="333.145" z="7146.28" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="542.479" z="7997.08" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="739.879" z="7623.64" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="747.952" z="8530.04" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="781.97" z="8645.46" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="903.086" z="7621.94" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="1177.74" z="5194.92" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="1293.15" z="4964.73" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="1419.54" z="11705.9" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="2558.78" z="8130.24" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="3207.51" z="11928.6" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="3433.54" z="8972.57" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="3474.02" z="7389.69" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="3681.68" z="9034.86" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="3762.44" z="11947.5" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="3806.68" z="9158.75" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="4187.31" z="8845.02" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="4161.68" z="9024.38" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="4228.99" z="5750.71" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="4390.96" z="3086.87" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="5101.02" z="9241.65" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="5415.53" z="9864.65" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="5693.94" z="9414.48" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="5960.43" z="10532.5" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="6527.56" z="9061.05" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="6936.08" z="3241.55" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="7668.89" z="4987.93" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="8034.48" z="11859.1" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="9385.48" z="11720.8" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="9711.97" z="12271.4" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="9937.23" z="11572.7" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="10218.4" z="5883.08" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="11147.6" z="11134.3" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="11270.1" z="10649.3" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="11340.8" z="10050.3" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="11446.2" z="10200.2" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="11591.9" z="10296.7" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="11611.7" z="1970.36" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="11646.6" z="10413.4" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="11752.1" z="11319.0" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="12151.6" z="10689.1" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="12281.7" z="7973.35" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="12335.4" z="4723.36" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="12347.9" z="10869.2" r="100.0"/>
+		<zone name="Zone_Otter" smin="0" smax="0" dmin="0" dmax="2" x="12507.1" z="4560.4" r="100.0"/>
+    </territory>
+</territory-type>

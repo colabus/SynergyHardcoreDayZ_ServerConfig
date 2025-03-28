@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 4,
+    "ClassName": "ExpansionQuestNPCIrena",
+    "Position": [
+        11614.5,
+        290.979736328125,
+        7196.94873046875
+    ],
+    "Orientation": [
+        75.85400390625,
+        0.0,
+        0.0
+    ],
+    "NPCName": "Irena the Engineer",
+    "DefaultNPCText": "Hmm?",
+    "Waypoints": [],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "Quest_IrenaEngineerLoadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 0,
+    "Active": 1
+}

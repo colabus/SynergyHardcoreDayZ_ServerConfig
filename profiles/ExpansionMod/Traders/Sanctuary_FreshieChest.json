@@ -1,0 +1,20 @@
+{
+    "m_Version": 12,
+    "DisplayName": "FREE SUPPLIES",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Trader",
+    "Currencies": [
+        "nail",
+        "ZenCasinoChips"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Freshie_Food:0",
+		"Freshie_Drinks:0"
+    ],
+    "Items": {}
+}

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="HDSN_BreachingCharge">
+		<nominal>2</nominal>
+        <lifetime>28800</lifetime>
+        <restock>28800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Special"/>
+		<usage name="Underground"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="HDSN_BreachingChargeHeavy">
+		<nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>43200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="ContaminatedArea"/>
+		<usage name="Underground"/>
+	</type>
+	<type name="HDSN_Explosive">
+		<nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>28800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+	</type>
+	<type name="HDSN_Charcoal">
+		<nominal>16</nominal>
+        <lifetime>14400</lifetime>
+        <restock>3600</restock>
+        <min>9</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="HDSN_Sulfur">
+		<nominal>16</nominal>
+        <lifetime>14400</lifetime>
+        <restock>3600</restock>
+        <min>9</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+		<usage name="Medic"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="HDSN_Gunpowder">
+		<nominal>8</nominal>
+        <lifetime>14400</lifetime>
+        <restock>7200</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Special"/>
+		<usage name="Underground"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="HDSN_Detonator">
+		<nominal>3</nominal>
+        <lifetime>28800</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+	</type>
+	<type name="HDSN_C4Sticks">
+		<nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="HDSN_C4NoWiring">
+		<nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="HDSN_C4Stick">
+		<nominal>2</nominal>
+        <lifetime>28800</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>50</quantmin>
+        <quantmax>50</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+	</type>
+</types>

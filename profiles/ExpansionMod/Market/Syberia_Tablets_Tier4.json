@@ -1,0 +1,120 @@
+{
+    "m_Version": 12,
+    "DisplayName": "TABLETS - TIER 4",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0,
+    "Items": [
+        {
+            "ClassName": "TabletsVikasol",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TabletsDycinon",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TabletsIrovit",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TabletsTardiferon",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TabletsHeferol",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TabletsSorbiferDurulis",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TabletsPotassiumIodide",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TabletsPotassiumHexacyanoferrate",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TabletsCystamine",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TabletsB190",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

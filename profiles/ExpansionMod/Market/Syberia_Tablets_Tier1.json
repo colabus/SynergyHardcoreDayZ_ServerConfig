@@ -1,0 +1,120 @@
+{
+    "m_Version": 12,
+    "DisplayName": "TABLETS - TIER 1",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+		{
+            "ClassName": "TabletsAnalgin",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsNaiz",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsAertal",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsNimesil",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsPentalgin",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsMovalis",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsCytramon",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsParacetamol",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsIbuprofen",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TabletsNurofen",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": 25.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

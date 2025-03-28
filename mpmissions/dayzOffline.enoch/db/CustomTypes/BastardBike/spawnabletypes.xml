@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+    <type name="bastard_izh_stock">
+        <attachments chance="1.00">
+            <item name="bastard_izh_Doors_Driver" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="bastard_izh_Wheel" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="bastard_izh_Wheel" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="bastard_izh_Wheel" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="HeadlightH7" chance="1.0" />
+        </attachments>
+        <attachments chance="0.1">
+            <item name="SparkPlug" chance="1.0" />
+        </attachments>
+        <attachments chance="0.1">
+            <item name="CarBattery" chance="1.0" />
+        </attachments>
+    </type>
+	<type name="bastard_izh_blue">
+        <attachments chance="1.00">
+            <item name="bastard_izh_Doors_Driver" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="bastard_izh_Wheel" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="bastard_izh_Wheel" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="bastard_izh_Wheel" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="HeadlightH7" chance="1.0" />
+        </attachments>
+        <attachments chance="0.1">
+            <item name="SparkPlug" chance="1.0" />
+        </attachments>
+        <attachments chance="0.1">
+            <item name="CarBattery" chance="1.0" />
+        </attachments>
+    </type>
+	<type name="bastard_izh_white">
+        <attachments chance="1.00">
+            <item name="bastard_izh_Doors_Driver" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="bastard_izh_Wheel" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="bastard_izh_Wheel" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="bastard_izh_Wheel" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="HeadlightH7" chance="1.0" />
+        </attachments>
+        <attachments chance="0.1">
+            <item name="SparkPlug" chance="1.0" />
+        </attachments>
+        <attachments chance="0.1">
+            <item name="CarBattery" chance="1.0" />
+        </attachments>
+    </type>
+	<type name="bastard_izh_black">
+        <attachments chance="1.00">
+            <item name="bastard_izh_Doors_Driver" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="bastard_izh_Wheel" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="bastard_izh_Wheel" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="bastard_izh_Wheel" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="HeadlightH7" chance="1.0" />
+        </attachments>
+        <attachments chance="0.1">
+            <item name="SparkPlug" chance="1.0" />
+        </attachments>
+        <attachments chance="0.1">
+            <item name="CarBattery" chance="1.0" />
+        </attachments>
+    </type>
+</spawnabletypes>

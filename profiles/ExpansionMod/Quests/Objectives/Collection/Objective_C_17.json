@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 17,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Collect 5 Easter Eggs",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 5,
+            "ClassName": "Zen_EasterEgg",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 100
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 1
+}

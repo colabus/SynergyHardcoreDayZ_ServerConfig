@@ -1,0 +1,24 @@
+{
+    "m_Version": 12,
+    "DisplayName": "HELICOPTERS",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": 3,
+    "TraderIcon": "Helicopter",
+    "Currencies": [
+        "nail",
+        "expansionsilverbar",
+        "expansiongoldbar"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Helicopters:0",
+        "Vehicle_Tools:0",
+        "Helicopter_Parts:0",
+        "Helicopter_Parachutes:0",
+        "Exchange"
+    ],
+    "Items": {}
+}

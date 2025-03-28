@@ -1,0 +1,76 @@
+{
+    "m_Version": 12,
+    "DisplayName": "TABLETS - TIER 5",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 0,
+    "IsExchange": 0,
+    "Items": [
+        {
+            "ClassName": "TabletsMexamine",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TabletsAgteminol",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TabletsAdepress",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TabletsActaparoxetine",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TabletsAmitriptyline",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TabletsVenlafaxine",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

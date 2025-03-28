@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 3,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Bury All 4 Runes",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionBuryZenRunes"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 4
+}

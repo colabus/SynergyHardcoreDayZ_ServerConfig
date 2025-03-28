@@ -1,0 +1,18 @@
+{
+    "CONFIG_VERSION": "1",
+    "PollID": -1,
+    "PollTitle": "This is an example poll",
+    "PollSubtitle": "More explanation in the smaller subtitle",
+    "OnlyOneOption": 1,
+    "Option1": "",
+    "Option2": "",
+    "Option3": "",
+    "Option4": "",
+    "Option5": "",
+    "Option6": "",
+    "XXXXXXX": "POLL RESULTS:",
+    "TotalVotes": 0,
+    "RESULTS": [],
+    "PlayerChoices": {},
+    "LastPollID": -1
+}

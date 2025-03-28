@@ -1,0 +1,75 @@
+{
+    "ConfigVersion": 22,
+    "ID": 43,
+    "Type": 1,
+    "Title": "Crustaceans",
+    "Descriptions": [
+        "Survivors in Sanctuary have become a little spoiled with the high level of security around here. Crustaceans are high in demand. Bring 10 Crayfish here and you'll be rewarded for it with whatever we can spare! Word is they're a lot easier to catch with Netting than a rod. [+1000 Hunting EXP]",
+        "Survivors in Sanctuary have become a little spoiled with the high level of security around here. Crustaceans are high in demand. Bring 10 Crayfish here and you'll be rewarded for it with whatever we can spare! Word is they're a lot easier to catch with Netting than a rod. [+1000 Hunting EXP]",
+        "Thank you survivor!"
+    ],
+    "ObjectiveText": "Catch 10 Crayfish.",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ZenTreasure_RandomPhoto",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+		{
+            "ClassName": "ExpansionCircuitBoard_Airdrop",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 1,
+    "RandomRewardAmount": 1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 20,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        3
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 0
+}

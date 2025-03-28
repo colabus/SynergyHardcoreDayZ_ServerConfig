@@ -1,0 +1,80 @@
+{
+    "version": 2,
+    "vehicles": [
+        {
+            "vehicle_type": "CivilianSedan",
+            "autonomy": 50.0,
+            "fuel_type": "GASOLINE"
+        },
+        {
+            "vehicle_type": "Hatchback_02",
+            "autonomy": 60.0,
+            "fuel_type": "GASOLINE"
+        },
+        {
+            "vehicle_type": "OffroadHatchback",
+            "autonomy": 50.0,
+            "fuel_type": "GASOLINE"
+        },
+        {
+            "vehicle_type": "Sedan_02",
+            "autonomy": 60.0,
+            "fuel_type": "GASOLINE"
+        },
+        {
+            "vehicle_type": "bastard_izh_stock",
+            "autonomy": 40.0,
+            "fuel_type": "GASOLINE"
+        },
+        {
+            "vehicle_type": "Truck_01_Covered",
+            "autonomy": 40.0,
+            "fuel_type": "DIESEL"
+        },
+        {
+            "vehicle_type": "Offroad_02",
+            "autonomy": 40.0,
+            "fuel_type": "DIESEL"
+        },
+        {
+            "vehicle_type": "ExpansionHelicopterScript",
+            "autonomy": 30.0,
+            "fuel_type": "DIESEL"
+        },
+        {
+            "vehicle_type": "Expansion_Landrover",
+            "autonomy": 40.0,
+            "fuel_type": "GASOLINE"
+        },
+        {
+            "vehicle_type": "ExpansionVodnik",
+            "autonomy": 30.0,
+            "fuel_type": "DIESEL"
+        },
+        {
+            "vehicle_type": "ExpansionTractor",
+            "autonomy": 20.0,
+            "fuel_type": "DIESEL"
+        },
+        {
+            "vehicle_type": "ExpansionBus",
+            "autonomy": 40.0,
+            "fuel_type": "DIESEL"
+        },
+        {
+            "vehicle_type": "ExpansionBoatScript",
+            "autonomy": 20.0,
+            "fuel_type": "GASOLINE"
+        },
+        {
+            "vehicle_type": "Snowmobile_Base",
+            "autonomy": 40.0,
+            "fuel_type": "GASOLINE"
+        }		,
+        {
+            "vehicle_type": "ExpansionUAZ",
+            "autonomy": 60.0,
+            "fuel_type": "GASOLINE"
+        }
+    ]
+}

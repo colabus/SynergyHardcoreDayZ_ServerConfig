@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 8,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Deliver the Briefcase to the Black Market Trader",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        5153.0029296875,
+        517.1423950195313,
+        2236.315185546875
+    ],
+    "MaxDistance": 5.0,
+    "MarkerName": "Deliver Briefcase",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

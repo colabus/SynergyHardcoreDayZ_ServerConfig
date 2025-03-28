@@ -1,0 +1,50 @@
+{
+    "CONFIG_VERSION": "1",
+    "Quests": [
+        {
+            "QuestID": 6,
+            "Skill": "hunting",
+            "EXP": 500
+        },
+		{
+            "QuestID": 7,
+            "Skill": "survival",
+            "EXP": 500
+        },
+		{
+            "QuestID": 24,
+            "Skill": "medicine",
+            "EXP": 500
+        },
+		{
+            "QuestID": 16,
+            "Skill": "hunting",
+            "EXP": 500
+        },
+		{
+            "QuestID": 37,
+            "Skill": "hunting",
+            "EXP": 500
+        },
+		{
+            "QuestID": 25,
+            "Skill": "medicine",
+            "EXP": 1000
+        },
+		{
+            "QuestID": 17,
+            "Skill": "stealth",
+            "EXP": 1000
+        },
+		{
+            "QuestID": 42,
+            "Skill": "medicine",
+            "EXP": 1000
+        },
+		{
+            "QuestID": 43,
+            "Skill": "hunting",
+            "EXP": 1000
+        }
+    ]
+}

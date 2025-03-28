@@ -1,0 +1,48 @@
+{
+    "m_Version": 8,
+    "m_TraderID": 8,
+    "m_ClassName": "ExpansionTraderP2PCashier",
+    "m_Position": [
+        5153.16015625,
+        518.030029296875,
+        2232.800048828125
+    ],
+    "m_Orientation": [
+        179.99998474121095,
+        0.0,
+        0.0
+    ],
+    "m_LoadoutFile": "P2P_TraderLoadout",
+    "m_VehicleSpawnPosition": [
+        5153.16015625,
+        518.030029296875,
+        2232.800048828125
+    ],
+    "m_WatercraftSpawnPosition": [
+        5153.16015625,
+        518.030029296875,
+        2232.800048828125
+    ],
+    "m_AircraftSpawnPosition": [
+        5153.16015625,
+        518.030029296875,
+        2232.800048828125
+    ],
+    "m_DisplayName": "Player-to-Player Market",
+    "m_DisplayIcon": "Deliver",
+    "m_Faction": "InvincibleObservers",
+    "m_Waypoints": [],
+    "m_EmoteID": 46,
+    "m_EmoteIsStatic": 0,
+    "m_RequiredFaction": "",
+    "m_UseReputation": 0,
+    "m_MinRequiredReputation": 0,
+    "m_MaxRequiredReputation": 2147483647,
+    "m_RequiredCompletedQuestID": -1,
+    "m_IsGlobalTrader": 1,
+    "m_Currencies": [
+        "nail"
+    ],
+    "m_DisplayCurrencyValue": 1,
+    "m_DisplayCurrencyName": ""
+}

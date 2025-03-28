@@ -1,0 +1,17 @@
+{
+    "ConfigVersion": 28,
+    "ID": 24,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Check out the fishing contest.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        5625.425293, 181.224396, 10610.429688
+    ],
+    "MaxDistance": 3.0,
+    "MarkerName": "Check out the fishing contest.",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}
+

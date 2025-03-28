@@ -1,0 +1,61 @@
+{
+    "CONFIG_VERSION": "1",
+    "MaximumPlayerAge": 14400,
+    "FreshieMarketItems": [
+        {
+            "ItemType": "Edibles",
+            "MaxBuy": 5,
+            "Classnames": [
+                "zagorky",
+                "zagorkychocolate",
+                "zagorkypeanuts",
+                "powderedmilk",
+                "boxcerealcrunchin",
+                "rice",
+                "marmalade",
+                "honey",
+                "saltysticks",
+                "crackers",
+                "chips",
+                "pajka",
+                "pate",
+                "brisketspread",
+                "sardinescan",
+                "tunacan",
+                "dogfoodcan",
+                "catfoodcan",
+                "porkcan",
+                "lunchmeat",
+                "peachescan",
+                "spaghettican",
+                "bakedbeanscan",
+                "tacticalbaconcan",
+                "expansionbread1",
+                "expansionbread2",
+                "expansionbread3",
+                "expansioncheese1",
+                "expansioncheese2",
+                "expansioncheese3",
+                "expansioncheese4"
+            ],
+            "PlayerBought": {}
+        },
+		{
+            "ItemType": "Drinks",
+            "MaxBuy": 3,
+            "Classnames": [
+                "waterbottle",
+				"sodacan_pipsi",
+				"sodacan_cola",
+				"sodacan_spite",
+				"sodacan_kvass",
+				"sodacan_fronta",
+				"sodacan_madbull",
+				"beercan_vb",
+				"beercan_xxxx",
+				"beercan_corona"
+            ],
+            "PlayerBought": {}
+        }
+    ]
+}

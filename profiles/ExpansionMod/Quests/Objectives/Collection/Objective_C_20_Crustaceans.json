@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 20,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Catch Crustaceans",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 10,
+            "ClassName": "geb_Crayfish",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 1
+}

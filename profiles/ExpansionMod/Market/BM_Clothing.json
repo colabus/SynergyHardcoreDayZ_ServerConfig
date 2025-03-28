@@ -1,0 +1,549 @@
+{
+    "m_Version": 12,
+    "DisplayName": "CLOTHING - MILITARY GEAR",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+        {
+            "ClassName": "TacticalShirt_Grey",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"TacticalShirt_Black",
+				"TacticalShirt_Olive",
+				"TacticalShirt_Tan",
+				"TacticalShirt_Black_Australia",
+				"TacticalShirt_Olive_Australia",
+				"TacticalShirt_Tan_Australia"
+			]
+        },
+        {
+            "ClassName": "DDU_Goggles_Tan",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"DDU_Goggles_Green",
+				"DDU_Goggles_Black"
+			]
+        },
+		{
+            "ClassName": "tacticalgoggles",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "tacticalgloves_black",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "tacticalgloves_beige",
+                "tacticalgloves_green",
+				"tacticalgloves_winter",
+				"expansiontacticalglovesdesert"
+            ]
+        },
+		{
+            "ClassName": "omnogloves_gray",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "omnogloves_brown"
+            ]
+        },
+        {
+            "ClassName": "tactical_leg_holster_black",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "ttskopants",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "bdupants",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "usmcpants_desert",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "usmcpants_woodland",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "gorkapants_summer",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "gorkapants_autumn",
+                "gorkapants_flat",
+                "gorkapants_pautrev"
+            ]
+        },
+		{
+            "ClassName": "militaryboots_redpunk",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "militaryboots_bluerock",
+                "militaryboots_beige",
+                "militaryboots_black",
+				"MilitaryBoots_BlackPunk",
+                "militaryboots_brown"
+            ]
+        },
+		{
+            "ClassName": "ttskojacket_camo",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"ttskojacket_winter"
+			]
+        },
+        {
+            "ClassName": "bdujacket",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "m65jacket_black",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "m65jacket_khaki",
+                "m65jacket_tan",
+                "m65jacket_olive"
+            ]
+        },
+        {
+            "ClassName": "gorkaejacket_summer",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "gorkaejacket_flat",
+                "gorkaejacket_autumn",
+                "gorkaejacket_pautrev"
+            ]
+        },
+        {
+            "ClassName": "usmcjacket_desert",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "usmcjacket_woodland",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "usmcjacket_woodland",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "spur_camelbag_black",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"spur_camelbag_green",
+				"spur_camelbag_tan",
+				"spur_camelbag_woodlandcamo",
+				"spur_camelbag_multicamo",
+				"spur_camelbag_wintercamo"
+			]
+        },
+        {
+            "ClassName": "spur_milbag_green",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"spur_milbag_tan",
+				"spur_milbag_woodlandcamo",
+				"spur_milbag_multicamo",
+				"spur_milbag_wintercamo"
+			]
+        },
+        {
+            "ClassName": "spur_knifesheath_green",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"spur_knifesheath_black",
+				"spur_knifesheath_tan"
+			]
+        },
+        {
+            "ClassName": "canteen_spur_green",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+				"canteen_spur_black",
+				"canteen_spur_tan",
+				"canteen_spur_woodlandcamo",
+				"canteen_spur_multicamo",
+				"canteen_spur_wintercamo",
+				"canteen",
+				"zen_canteen_black"
+			]
+        },
+        {
+            "ClassName": "huntingbag",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+				"zen_huntingbag_black",
+				"zen_huntingbag_green",
+				"zen_huntingbag_brown",
+				"zen_huntingbag_blue",
+				"zen_huntingbag_teal",
+				"zen_huntingbag_camo",
+				"zen_huntingbag_winter"
+			]
+        },
+        {
+            "ClassName": "alicebag_green",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+				"alicebag_black",
+				"alicebag_camo",
+				"Zen_AliceBag_Winter"
+			]
+        },
+        {
+            "ClassName": "tortillabag",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "assaultbag_ttsko",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+				"assaultbag_black",
+				"assaultbag_green"
+			]
+        },
+        {
+            "ClassName": "coyotebag_brown",
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 75,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+				"coyotebag_green"
+			]
+        },
+        {
+            "ClassName": "smershvest",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "smershbag",
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 75,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+				"smershbag_spur_green",
+				"smershbag_spur_black",
+				"smershbag_spur_tan",
+				"smershbag_spur_woodlandcamo",
+				"smershbag_spur_multicamo",
+				"smershbag_spur_wintercamo"
+			]
+        },
+		{
+            "ClassName": "ddusmallpouch_tan",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"ddusmallpouch_grn",
+				"ddusmallpouch_blk"
+			]
+        },
+		{
+            "ClassName": "ddupistolmagpouch_tan",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"ddupistolmagpouch_grn",
+				"ddupistolmagpouch_blk"
+			]
+        },
+		{
+            "ClassName": "ddu_knifesheath_tan",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"ddu_knifesheath_green",
+				"ddu_knifesheath_black"
+			]
+        },
+		{
+            "ClassName": "ddu_machetesheath_tan",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"ddu_machetesheath_green",
+				"ddu_machetesheath_black"
+			]
+        },
+		{
+            "ClassName": "ddumagpouch03_tan",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"ddumagpouch03_grn",
+				"ddumagpouch03_blk"
+			]
+        },
+		{
+            "ClassName": "ddumagpouch02_tan",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"ddumagpouch02_grn",
+				"ddumagpouch02_blk"
+			]
+        },
+		{
+            "ClassName": "ddumagpouch_tan",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"ddumagpouch_grn",
+				"ddumagpouch_blk"
+			]
+        },
+		{
+            "ClassName": "dduradiopouch_tan",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"dduradiopouch_grn",
+				"dduradiopouch_blk"
+			]
+        },
+		{
+            "ClassName": "ddufirstaidpouch_tan",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"ddufirstaidpouch_grn",
+				"ddufirstaidpouch_blk"
+			]
+        }
+    ]
+}

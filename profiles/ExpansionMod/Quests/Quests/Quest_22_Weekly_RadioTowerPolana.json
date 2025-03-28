@@ -1,0 +1,160 @@
+{
+    "ConfigVersion": 22,
+    "ID": 22,
+    "Type": 1,
+    "Title": "The Radio Tower",
+    "Descriptions": [
+        "A severe storm hit the radio tower down at Polana again. It took out our communications network between several other survivor settlements south of the border. Our engineers told me someone needs to replace some electronic equipment on the control panel up on the tower - only problem is the tower is engulfed in dangerous levels of radiation. If you can take this electronic chip and replace it on the tower, I'll give you something real nice for the effort. Just make sure you have an NBC suit or some meds for the radiation. Many lives are depending on your success.",
+        "Hans: A severe storm hit the radio tower down at Polana again. It took out our communications network between several other survivor settlements south of the border. Our engineers told me someone needs to replace some electronic equipment on the control panel up on the tower - only problem is the tower is engulfed in dangerous levels of radiation. If you can take this electronic chip and replace it on the tower, I'll give you something real nice for the effort. Just make sure you have an NBC suit or some meds for the radiation. Many lives are depending on your success.",
+        "Hans: Thank you survivor. Your efforts re-established communication with some key settlements and we were able to warn them of impending danger from infected and bandits. You saved lives. Take this - it's all I can spare right now, I hope it's enough."
+    ],
+    "ObjectiveText": "Repair the Polana Radio Tower",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [
+        {
+            "ClassName": "ExpansionCircuitBoard_Quest1",
+            "Amount": 1
+        }
+    ],
+    "Rewards": [
+        {
+            "ClassName": "ZenTreasure_RandomPhoto",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ExpansionCircuitBoard_Airdrop",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "AmmoBox",
+            "Amount": 1,
+            "Attachments": [
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox",
+                "ZenRandomAmmoBox"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "HDSN_BreachingCharge",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ZenCasinoChips_Red",
+            "Amount": 100,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 1,
+    "RandomRewardAmount": 1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        8
+    ],
+    "QuestTurnInIDs": [
+        8
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 12,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 1,
+            "ObjectiveType": 10
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 15,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        11
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

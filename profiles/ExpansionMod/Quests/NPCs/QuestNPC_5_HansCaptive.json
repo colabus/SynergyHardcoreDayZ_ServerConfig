@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 5,
+    "ClassName": "ExpansionQuestNPCAIManua",
+    "Position": [
+        4468.691895,
+		281.575439,
+		4812.883301
+    ],
+    "Orientation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "NPCName": "Hans",
+    "DefaultNPCText": "You've gotta help me. I was put in here by some bandit group. They took the key with them and they only come by every few days to feed me and keep me alive. I don't know what they want with me, but I've been here for weeks. Please get me out of here! These bars are made of pure steel, nothing can cut through them - believe me, I've tried. Maybe Sebastian at Sanctuary will have an idea who these guys are? He seems to know everyone in Livonia. The leader of the group wears a yellow helmet with spikes all over it. I bet Sebastian will know who he is. Please hurry!",
+    "Waypoints": [],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "Quest_HansLoadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 2,
+    "Active": 1
+}

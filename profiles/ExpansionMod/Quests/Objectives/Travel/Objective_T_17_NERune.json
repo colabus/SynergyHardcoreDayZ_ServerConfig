@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 17,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Bury Air Rune in North-East",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        12207.7998046875,
+        254.33689880371095,
+        12330.5
+    ],
+    "MaxDistance": 500.0,
+    "MarkerName": "Bury Air Rune in North-East",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

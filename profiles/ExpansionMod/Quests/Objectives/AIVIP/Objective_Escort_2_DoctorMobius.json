@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Escort Doctor Mobius to Sanctuary",
+    "TimeLimit": 14400,
+    "Active": 1,
+    "Position": [
+        5636.185059, 
+		180.386536,
+		10599.540039
+    ],
+    "MaxDistance": 10.0,
+    "MarkerName": "Escort Doctor to Sanctuary",
+    "ShowDistance": 1,
+    "CanLootAI": 1,
+    "NPCLoadoutFile": "Quest_DrEvaLoadout",
+    "NPCClassName": "eAI_SurvivorM_Boris",
+    "NPCName": "Dr Mobius"
+}
